@@ -1,0 +1,290 @@
+#hero {
+    display: flex;
+    flex-direction: column;
+    background-image: linear-gradient(
+        0deg,
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    ), url(../img/italia.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+    min-height: 40vh;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+#hero h1 {
+    margin: 0;
+    margin-bottom: 20px; 
+    color: aliceblue;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center; 
+    font-weight: bold;
+}
+
+#hero .contacto{
+    font-size: 2rem;
+    padding: 10px;
+    color: aliceblue;
+}
+
+#hero .contacto p{
+    font-size: 2rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+#hero2{
+    display: flex;
+    flex-direction: column;
+    background-image: linear-gradient(
+        0deg,
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    ), url(../img/ubic.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+    min-height: 40vh;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    
+    
+}
+
+#hero2 h1 {
+    margin: 0;
+    margin-bottom: 20px; 
+    color: aliceblue;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center; 
+    font-weight: bold;
+}
+
+#hero2 .direccion{
+    display: block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;;
+    justify-content: space-evenly;
+    text-align: justify;
+    font-size: 1.5rem;
+    padding: 10px;
+    color: aliceblue;
+}
+
+#hero2 a.hero2-link {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+    color: inherit;
+}
+
+#hero2 a.hero2-link:hover {
+    cursor: pointer;
+    background-color: rgba(255, 255, 255, 0.05); 
+}
+
+#hero3{
+    display: flex;
+    flex-direction: column;
+    background-image: linear-gradient(
+        0deg,
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    ), url(../img/correos.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+    min-height: 90vh;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+#hero3 h1 {
+    margin: 0;
+    margin-bottom: 20px; 
+    color: aliceblue;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center; 
+    font-weight: bold;
+}
+
+
+
+#hero3 .correos{
+    display: block;
+    font-family: 'Montserrat', sans-serif;
+    justify-content: space-evenly;
+    text-align: justify;
+    font-size: 1.5rem;
+    padding: 10px 1rem;
+    color: aliceblue;
+    box-sizing: border-box;
+    width: 80%;
+    overflow-x: hidden;
+    margin-bottom: 40px;
+}
+
+#hero3 .correos .contenedor-correo .logo-correo {
+    height: 3rem; /* Usa rem para un tamaño más controlado */
+    width: auto; 
+    margin-right: 1px; /* Espacio entre el logo y el texto */
+    filter: drop-shadow(0 0 10px #550000);
+    margin-top: 10px;
+}
+
+#hero3 .correos .contenedor-correo .logo-hotmail {
+    height: 3rem;
+    width: auto;
+    margin-right: -10px;
+    margin-left: -12px; 
+    filter: drop-shadow(0 0 10px #550000);
+    margin-top: 10px;
+}
+
+#hero3 .correos .contenedor-correo .logo-wp {
+    height: 3rem;
+    width: auto;
+    margin-right: 0px;
+    margin-left: 3px; 
+    filter: drop-shadow(0 0 10px #550000);
+    margin-top: 10px;
+}
+
+#hero3 .correos .contenedor-correo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+#hero3 .correos .contenedor-correo{
+    font-size: clamp(17px, 2vw, 100px); /* Tamaño mínimo 2.5rem, escala con pantalla hasta 4rem */
+    width: auto;
+    filter: drop-shadow(0 0 8px #550000);
+    margin-top: 10px;
+}
+
+#hero4{
+    display: flex;
+    flex-direction: column;
+    background-image: linear-gradient(
+        0deg,
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    ), url(../img/negrooo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+    min-height: 40vh;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+#hero4 h1 {
+    margin: 0;
+    margin-bottom: 20px; 
+    color: aliceblue;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center; 
+    font-weight: bold;
+}
+
+#hero4 .legal{
+    font-size: 2rem;
+    padding: 10px;
+    color: aliceblue;
+}
+
+#hero4 .legal p{
+    font-size: 2rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.carta.personalizada {
+    border: 1px solid #000000;
+    border-radius: 10px;
+    overflow: hidden;
+    padding: 20px;
+    background-color: #f9f9f9;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    height: auto; /* Ajustable a contenido */
+    width: 22rem; /* Más ancho para que entre mejor todo */
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin: auto;
+}
+
+.fila {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin: 10px;
+}
+
+.campo {
+    flex: 1;
+}
+
+input[type="text"], input[type="email"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+    box-sizing: border-box;
+    margin: 5px;
+}
+
+textarea {
+    width: 100%;
+    height: 150px; /* Aumenta este valor si querés aún más altura */
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+    box-sizing: border-box;
+    margin: 5px;
+    resize: vertical; /* Permite al usuario agrandar el área si lo desea */
+}
+
+h5 {
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+
+@media (min-width: 600px){
+    #hero{
+        padding-left: 80px;
+    }
+
+
+    #hero .nosotros{
+        font-size: 3rem;
+    }
+
+    #hero2{
+        padding-left: 80px;
+    }
+
+
+    #hero2 .direccion{
+        font-size: 3rem;
+    }
+}

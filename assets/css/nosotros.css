@@ -1,0 +1,145 @@
+#hero {
+    display: flex;
+    flex-direction: column;
+    background-image: linear-gradient(
+        0deg,
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    ), url(../img/chilena.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+    min-height: 40vh;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+#hero h1 {
+    margin: 0;
+    margin-bottom: 20px; 
+    color: aliceblue;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center; 
+    font-weight: bold;
+}
+
+#hero .nosotros{
+    font-size: 1.5rem;
+    padding: 10px;
+}
+
+#hero2{
+    margin-top: 8%;
+    margin-right: 3%;
+    margin-left: 3%;
+
+}
+
+#hero2 .info{
+    display: block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;;
+    justify-content: space-evenly;
+    text-align: justify;
+}
+
+#logos-clubes {
+    display: flex;
+    justify-content: center;   /* centra horizontalmente */
+    align-items: center;       /* centra verticalmente si hay varias filas */
+    flex-wrap: wrap;           /* permite que bajen a la siguiente línea en móvil */
+    gap: 2rem;               /* espacio uniforme entre cada logo */
+    margin: 3% 0;             /* margen arriba y abajo */
+    padding: 1rem; 
+  }
+  
+#logos-clubes .escudo {     
+    width: auto;               /* mantiene la proporción */
+    object-fit: contain;
+    height: clamp(55px, 10vw, 120px);
+}
+
+
+#hero2 .info .linea {
+    width: 95%;
+    height: 3px;
+    background-color: brown; 
+    margin: 30px auto; 
+
+}
+
+#hero2 h2,h3{
+    text-align: center;
+    color: brown;
+    font-size: 24px;
+}
+
+#hero2 p{
+    margin: 10px 10px;
+    font-size: 1.2rem;
+}
+
+
+#sucursal-img{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; /* Alinea el contenido a la izquierda /
+    justify-content: center; / Centra verticalmente el contenido /
+    padding-left: 40px; / Ajusta el espacio a la izquierda para el título /
+    height: 50vh; / Mantiene la altura del hero /
+    margin: 0; / Elimina márgenes adicionales */
+    background-image:url(../img/sucursall.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center right;
+}
+
+@media (min-width: 600px){
+    #hero{
+        padding-left: 80px;
+    }
+
+
+    #hero .nosotros{
+        font-size: 2rem;
+    }
+
+
+    #hero2 .info{
+        display: flex;
+        margin: 40px 20px;
+    }
+
+    #hero2 .info .linea {
+        display: none;
+    }
+
+    #hero2 p{
+        margin: 10px 10px;
+    }
+
+
+    #hero2{
+        margin-top: 4%;
+        margin-right: 3%;
+        margin-left: 3%;
+    
+    }
+
+    #hero2 .vertical-line {
+        width: 3px;
+        height: auto;
+        background-color: brown;
+        margin: 0 20px;
+    }
+
+    #hero2 .info .historia{
+        width: 40vw;
+        height: auto;
+    }
+
+    #hero2 .info .vision{
+        width: 40vw;
+        height: auto;
+    }
+}
+

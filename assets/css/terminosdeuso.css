@@ -1,0 +1,57 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+    color: #333;
+  }
+  
+  
+  main {
+    height: 100%;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  
+  h1, h2 {
+    color: #d10024;
+  }
+  
+  p {
+    line-height: 1.7;
+    margin-bottom: 15px;
+  }
+  
+  
+  @media (max-width: 600px) {
+    main {
+      padding: 15px;
+      margin: 15px;
+      font-size: 0.8rem;
+    }
+
+    #logos-clubes .escudo {     
+     display: none;
+    }
+}
+
+
+    #logos-clubes {
+        display: flex;
+        justify-content: center;   /* centra horizontalmente */
+        align-items: center;       /* centra verticalmente si hay varias filas */
+        flex-wrap: wrap;           /* permite que bajen a la siguiente línea en móvil */
+        gap: 2rem;               /* espacio uniforme entre cada logo */
+        margin: 3% 0;             /* margen arriba y abajo */
+        padding: 1rem; 
+      }
+      
+    #logos-clubes .escudo {     
+        width: auto;               /* mantiene la proporción */
+        object-fit: contain;
+        height: clamp(55px, 10vw, 120px);
+    }
+  

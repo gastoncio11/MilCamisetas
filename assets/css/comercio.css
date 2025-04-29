@@ -1,0 +1,118 @@
+#hero {
+    display: flex;
+    flex-direction: column;
+    background-image: linear-gradient(
+        0deg,
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    ), url(../img/messiTAR.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    min-height: 40vh;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+#hero h1 {
+    margin: 0;
+    margin-bottom: 20px; 
+    color: aliceblue;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center; 
+    font-weight: bold;
+}
+
+#hero .comercio{
+    font-size: 2rem;
+    padding: 10px;
+    color: aliceblue;
+}
+
+#hero .comercio p{
+    font-size: 1rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#hero2 {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.carta.personalizada {
+    border: 2px solid #0077cc;
+    border-radius: 10px;
+    overflow: hidden; /* Esto asegura que la imagen no se desborde */
+    padding-bottom: 15px;
+    background-color: #f9f9f9;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    height: 250px; /* Altura fija para que todas tengan la misma */
+    width: 16rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+/* Imagen tipo cabecera */
+.img-container {
+    width: 100%;
+    height: 150px;
+    overflow: hidden;
+}
+
+.img-mercado {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+.carta-body {
+    flex-grow: 1;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.carta-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #003366;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 10px;
+    margin-bottom: 3px;
+}
+
+.carta-texto {
+    font-size: 1rem;
+    color: #333;
+    margin-bottom: 15px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.cartas-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 30px;
+    justify-content: center;
+}
+
+@media (min-width: 600px) {
+    .cartas-container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (min-width: 1200px) {
+    .cartas-container {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
