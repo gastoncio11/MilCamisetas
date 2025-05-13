@@ -95,11 +95,36 @@
     <script src="assets/js/bootstrap.bundle.min.js"></script>
 </div>
 
+<div class="destacados">
+        <h1 class="textito">¡ Productos destacados de nuestra pagina !</h1>
+        <br>
+
+    </div>
+
+<div class="tarjetas-container">
+    <div class="tarjeta" style="background-image: url('assets/img/novedades.jpeg');">
+        <h3>Novedades</h3>
+        <p>Las últimas camisetas de edición limitada, solo por tiempo limitado.</p>
+        <a href="#" class="boton-comprar">Ver más</a>
+    </div>
+    <div class="tarjeta" style="background-image: url('assets/img/kids.jpg');" >
+        <h3>Kids</h3>
+        <p>Camisetas para los más pequeños, ¡comodidad y estilo!</p>
+        <a href="#" class="boton-comprar">Ver más</a>
+    </div>
+    <div class="tarjeta" style="background-image: url('assets/img/nacional.jpeg');" >
+        <h3>Nacional</h3>
+        <p>Las mejores camisetas de equipos nacionales, ¡con el orgullo de siempre!</p>
+        <a href="#" class="boton-comprar">Ver más</a>
+    </div>
+</div>
+
+
 <div class="calidad">
             <span class="badge bg-dark">Edición limitada</span>
             <span class="badge bg-dark">100% algodón</span>
             <span class="badge bg-dark">Producto Nacional</span>
-        </div>
+</div>
     
 </body>
 </html>

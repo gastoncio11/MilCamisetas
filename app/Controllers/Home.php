@@ -41,6 +41,18 @@ class Home extends BaseController
         view('plantillas/footer');
     }
 
+     public function login(){
+        return view('plantillas/header').
+        view('Views/login').
+        view('plantillas/footer');
+    }
+
+    public function registro(){
+        return view('plantillas/header').
+        view('Views/registro').
+        view('plantillas/footer');
+    }
+
 
 
 }

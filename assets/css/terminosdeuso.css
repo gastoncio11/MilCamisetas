@@ -1,57 +1,63 @@
 body {
-    font-family: 'Segoe UI', sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f8f8f8;
-    color: #333;
-  }
-  
-  
-  main {
-    height: 100%;
-    margin: 30px auto;
-    padding: 20px;
-    background-color: white;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
-  }
-  
-  h1, h2 {
-    color: #d10024;
-  }
-  
-  p {
-    line-height: 1.7;
-    margin-bottom: 15px;
-  }
-  
-  
-  @media (max-width: 600px) {
-    main {
-      padding: 15px;
-      margin: 15px;
-      font-size: 0.8rem;
-    }
-
-    #logos-clubes .escudo {     
-     display: none;
-    }
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f8f8;
+  color: #333;
+  line-height: 1.7;
 }
 
-
-    #logos-clubes {
-        display: flex;
-        justify-content: center;   /* centra horizontalmente */
-        align-items: center;       /* centra verticalmente si hay varias filas */
-        flex-wrap: wrap;           /* permite que bajen a la siguiente línea en móvil */
-        gap: 2rem;               /* espacio uniforme entre cada logo */
-        margin: 3% 0;             /* margen arriba y abajo */
-        padding: 1rem; 
-      }
-      
-    #logos-clubes .escudo {     
-        width: auto;               /* mantiene la proporción */
-        object-fit: contain;
-        height: clamp(55px, 10vw, 120px);
-    }
+main {
+  max-width: 1000px;
+  margin: 40px auto 80px auto; 
+  padding: 30px 25px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
   
+}
+
+section {
+  margin-bottom: 40px;
+}
+
+h1, h2 {
+  color: #d10024;
+  margin-bottom: 15px;
+}
+
+p {
+  margin-bottom: 15px;
+}
+
+#logos-clubes {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin-top: 40px;
+  margin-bottom: 10px;
+  padding: 1rem;
+}
+
+#logos-clubes .escudo {
+  object-fit: contain;
+  height: clamp(55px, 10vw, 120px);
+  width: auto;
+}
+
+@media (max-width: 600px) {
+  main {
+    padding: 20px;
+    margin: 20px 15px 80px 15px; 
+    font-size: 0.9rem;
+    margin-top: 12vh;
+  }
+
+  #logos-clubes .escudo {
+    display: none;
+  }
+
+
+}

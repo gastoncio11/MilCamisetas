@@ -13,7 +13,15 @@
     text-align: center;
     justify-content: center;
     align-items: center;
+    margin-top: 12vh;
 }
+
+body {
+    background-color: #f0f4f8;
+    margin: 0;
+    padding: 0;
+}
+
 
 #hero h1 {
     margin: 0;
@@ -47,19 +55,34 @@
 .carta.personalizada {
     border: 2px solid #0077cc;
     border-radius: 10px;
-    overflow: hidden; /* Esto asegura que la imagen no se desborde */
+    overflow: hidden;
     padding-bottom: 15px;
     background-color: #f9f9f9;
     text-align: center;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-    height: 250px; /* Altura fija para que todas tengan la misma */
-    width: 16rem;
+    height: 320px; /* Más alto para contener todo */
+    width: 18rem;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    transition: transform 0.3s ease;
 }
 
-/* Imagen tipo cabecera */
+.carta.personalizada:hover {
+    transform: scale(1.03);
+}
+
+.fecha-etiqueta {
+    background-color: #0077cc;
+    color: white;
+    padding: 6px 12px;
+    border-radius: 15px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.9rem;
+    display: inline-block;
+    margin: 0 auto 10px auto;
+}
+
 .img-container {
     width: 100%;
     height: 150px;
@@ -72,6 +95,7 @@
     object-fit: cover;
     display: block;
 }
+
 
 .carta-body {
     flex-grow: 1;
@@ -93,7 +117,7 @@
 .carta-texto {
     font-size: 1rem;
     color: #333;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -104,9 +128,86 @@
     justify-content: center;
 }
 
+#hero3 {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+#titulo-minoristas,
+#titulo-mayoristas {
+    text-align: center;
+    margin: 60px 0 30px 0;
+}
+
+#titulo-minoristas h2,
+#titulo-mayoristas h2 {
+    font-size: 2.5rem;
+    color: #003366;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+#compras-efectivo {
+    padding: 40px 20px;
+    background-color: #f0f4f8;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#compras-efectivo h2 {
+    font-size: 2.5rem;
+    color: #003366;
+    margin-bottom: 30px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.tarjetas-efectivo {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.tarjeta-simple {
+    background-color: #ffffff;
+    border: 2px solid #0077cc;
+    border-radius: 12px;
+    padding: 25px;
+    width: 250px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    font-family: 'Montserrat', sans-serif;
+    transition: transform 0.3s ease;
+}
+
+.tarjeta-simple:hover {
+    transform: scale(1.03);
+}
+
+.tarjeta-simple h3 {
+    color: #0077cc;
+    font-size: 1.3rem;
+    margin-bottom: 10px;
+}
+
+.tarjeta-simple p {
+    font-size: 1rem;
+    color: #333;
+}
+
+
+
+
 @media (min-width: 600px) {
     .cartas-container {
         grid-template-columns: repeat(2, 1fr);
+    }
+
+    #hero{
+        margin-top: 0px;
     }
 }
 

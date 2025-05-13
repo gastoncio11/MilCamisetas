@@ -1,0 +1,108 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),
+                url('../img/fondo-login.jpeg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+
+body{
+    min-height: 100%;
+}
+
+/* Fondo */
+.login-background {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 20px 60px; /* espacio para header y footer */
+}
+
+/* Contenedor del formulario */
+.login-container {
+    background-color: rgba(0, 0, 0, 0.85);
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.6);
+    max-width: 600px;
+    width: 100%;
+}
+
+/* Formulario */
+.login-form {
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+}
+
+.login-form h2 {
+    color: #a20030; /* rojo pastel */
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+.login-form label {
+    margin-bottom: 0.3rem;
+    font-weight: bold;
+}
+
+.login-form input {
+    padding: 0.7rem;
+    margin-bottom: 1.2rem;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+.login-form input:focus {
+    outline: 2px solid #a20030;
+}
+
+.login-form button {
+    background-color: #800000;
+    color: white;
+    border: none;
+    padding: 0.8rem;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.login-form button:hover {
+    background-color: #a20030;
+}
+
+.login-form .registrarse {
+    margin-top: 1rem;
+    font-size: 0.9rem;
+    text-align: center;
+}
+
+.login-form .registrarse a {
+    color: #a20030;
+    text-decoration: none;
+}
+
+/* Footer fix */
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    flex: 1;
+}
+
+/* Responsive */
+@media (max-width: 480px) {
+    .login-container {
+        padding: 1.2rem;
+    }
+}

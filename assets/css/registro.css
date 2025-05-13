@@ -1,0 +1,125 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    background: url('../img/fondo-login.jpeg') no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    flex: 1;
+}
+
+/* Fondo con overlay */
+.registro-background {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 20px 60px;
+    z-index: 1;
+}
+
+.registro-background::before {
+    content: "";
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: -1;
+}
+
+/* Contenedor del formulario */
+.registro-container {
+    background-color: rgba(0, 0, 0, 0.85);
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.6);
+    max-width: 600px;
+    width: 100%;
+    z-index: 2;
+}
+
+/* Formulario */
+.registro-form {
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+}
+
+.registro-form h2 {
+    color: #a20030;
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+.registro-form label {
+    margin-bottom: 0.3rem;
+    font-weight: bold;
+}
+
+.registro-form input[type="text"],
+.registro-form input[type="email"],
+.registro-form input[type="tel"] {
+    padding: 0.7rem;
+    margin-bottom: 1rem;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+.registro-form input:focus {
+    outline: 2px solid #a20030;
+}
+
+.checkbox-group {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    margin-bottom: 1.2rem;
+    font-size: 0.9rem;
+}
+
+.registro-form button {
+    background-color: #800000;
+    color: white;
+    border: none;
+    padding: 0.8rem;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.registro-form button:hover {
+    background-color: #a20030;
+}
+
+.registro-form .iniciar {
+    margin-top: 1rem;
+    font-size: 0.9rem;
+    text-align: center;
+}
+
+.registro-form .iniciar a {
+    color: #a20030;
+    text-decoration: none;
+}
+
+/* Responsive */
+@media (max-width: 480px) {
+    .registro-container {
+        padding: 1.2rem;
+    }
+    .checkbox-group {
+        flex-direction: column;
+    }
+}

@@ -64,22 +64,33 @@
         </div>
     </section>
     <section id="hero2">
-        <a href="https://www.google.com/maps/place/La+Pampa+1569,+Corrientes,+Argentina" class="hero2-link">
-            <div class="direccion">
-                <h1>Dirección</h1>
-                <p>La Pampa 1569, Corrientes Argentina</p>
-            </div>
-        </a>
+        <div class="direccion">
+            <h1>Dirección</h1>
+            <p>La Pampa 1569, Corrientes Argentina</p>
+        </div>
+
+        <div class="btn-mapa-container">
+            <a href="https://www.google.com/maps/place/La+Pampa+1569,+Corrientes,+Argentina" target="_blank" class="btn-mapa">
+                Ver en Google Maps
+            </a>
+        </div>
     </section>
+
+
+
     <section id="hero4">
         <div class="legal">
             <h1>Datos Legales</h1>
-            <p>Razon Legal: 1Kamisetas</p>
-            <p>Titular: Testi Dante</p>
+            <p>Razón Social: 1Kamisetas</p>
+            <p>Titular: Elias Hugo</p>
             <p>CUIT: 29-98765432-1</p>
-            
+            <p>Inscripción AFIP: Activo</p>
+            <p>Domicilio Fiscal: La Pampa 1569, Corrientes</p>
+            <p>Actividad Económica: Venta de indumentaria deportiva</p>
+            <p>Tipo de Contribuyente: Responsable Inscripto</p>
         </div>
     </section>
+
 
 </body>
 </html>

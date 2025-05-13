@@ -10,28 +10,36 @@
 
 
 <main>
-  <section>
-    <h2>Aviso Legal</h2>
-    <p>Este sitio web, operado por MilCamisetas, tiene como objetivo la venta de indumentaria deportiva de estilo retro. Al navegar y utilizar este sitio, aceptás nuestros términos y condiciones.</p>
-  </section>
+<section>
+  <h2>Aviso Legal</h2>
+  <p>Este sitio web, operado por <strong>MilCamisetas</strong>, tiene como finalidad la comercialización de indumentaria deportiva retro, tanto para el público general como para distribuidores. Al navegar y utilizar este sitio, aceptás los presentes términos y condiciones, los cuales pueden ser modificados sin previo aviso. Es responsabilidad del usuario revisarlos periódicamente para conocer actualizaciones.</p>
+</section>
 
-  <section>
-    <h2>Servicios Ofrecidos</h2>
-    <p>Ofrecemos camisetas deportivas retro con diseños clásicos. Todos nuestros productos están destinados al uso personal, no comercial, a menos que se acuerde lo contrario por escrito.</p>
-  </section>
+<section>
+  <h2>Servicios Ofrecidos</h2>
+  <p>MilCamisetas ofrece camisetas deportivas con diseños retro, inspiradas en equipos y épocas emblemáticas del fútbol y otros deportes. También brindamos atención personalizada a clientes mayoristas, asesoramiento en pedidos por cantidad, y soporte para regalos corporativos o personalizados. Nuestros productos están destinados exclusivamente al uso personal, salvo acuerdos especiales con fines comerciales.</p>
+</section>
 
-  <section>
-    <h2>Política de Privacidad</h2>
-    <p>La información personal recolectada se utiliza exclusivamente para procesar pedidos, brindar atención al cliente y enviar comunicaciones promocionales (opcional). No compartimos datos con terceros.</p>
-  </section>
+<section>
+  <h2>Política de Privacidad</h2>
+  <p>La información personal recolectada en este sitio (nombre, correo electrónico, dirección de envío y datos de contacto) es utilizada únicamente para procesar tus compras, brindar atención al cliente, gestionar envíos y, si así lo aceptás, enviarte promociones y novedades.</p>
+  <p>No compartimos ni vendemos tu información a terceros. Cumplimos con la Ley de Protección de Datos Personales (Ley 25.326, Argentina) y podés solicitar la modificación o eliminación de tus datos en cualquier momento contactándonos.</p>
+</section>
+<section>
+  <h2>Venta de Productos y Procedimientos</h2>
+  <p><strong>Garantías:</strong> Todos nuestros productos cuentan con una garantía de 30 días por defectos de fábrica. Esta garantía no cubre daños por uso indebido, lavado incorrecto o modificaciones realizadas por el usuario.</p>
+  <p><strong>Soporte Postventa:</strong> Para devoluciones, cambios o reclamos podés escribirnos a nuestro correo electrónico oficial o vía WhatsApp. Respondemos en un plazo de 24 a 48 horas hábiles.</p>
+  <p><strong>Formas de Entrega:</strong> Envíos a todo el país mediante Correo Argentino y mensajería privada dentro de la ciudad de Corrientes. También contamos con opción de retiro en punto físico bajo coordinación previa.</p>
+  <p><strong>Tiempos:</strong> Los pedidos se procesan entre 24 y 48 horas. El tiempo estimado de entrega varía entre 3 y 7 días hábiles según tu ubicación.</p>
+  <p><strong>Stock:</strong> Algunos productos pueden tener disponibilidad limitada. En caso de no contar con stock inmediato, el cliente será notificado para coordinar una solución.</p>
+</section>
+<section>
+  <h2>Condiciones de Uso del Sitio</h2>
+  <p>El contenido, imágenes y diseños presentes en este sitio son propiedad de MilCamisetas y están protegidos por derechos de autor. Está prohibido copiar, reproducir o distribuir este contenido sin autorización expresa.</p>
+  <p>Los usuarios se comprometen a hacer un uso adecuado del sitio, evitando cualquier comportamiento que pueda interferir con su funcionamiento, vulnerar la seguridad o afectar a otros usuarios.</p>
+  <p>MilCamisetas se reserva el derecho de suspender cuentas, rechazar pedidos o restringir el acceso a usuarios que incumplan estas condiciones.</p>
+</section>
 
-  <section>
-    <h2>Venta de Productos y Procedimientos</h2>
-    <p><strong>Garantías:</strong> Todos nuestros productos tienen garantía por defectos de fábrica durante 30 días desde la entrega.</p>
-    <p><strong>Soporte Postventa:</strong> Podés contactarnos por email o WhatsApp para reclamos, devoluciones o cambios.</p>
-    <p><strong>Formas de Entrega:</strong> Realizamos envíos a todo el país a través de Correo Argentino o mensajería local en Corrientes.</p>
-    <p><strong>Tiempos:</strong> El tiempo estimado de entrega es de 3 a 7 días hábiles dependiendo de tu ubicación.</p>
-  </section>
 
   <section id="logos-clubes">
         <img class="escudo" src="assets/img/madrid.png" alt="logo">

@@ -21,7 +21,7 @@
                 <h2>NUESTRA HISTORIA</h2>
                 <p>Somos Hugo y Gaston, amigos de toda la vida, crecimos compartiendo una pasión: el fútbol y sus camisetas. Siempre sentimos que cada casaca representaba más que un equipo; era parte de una identidad, de un recuerdo, de un momento único. Con esa idea nació 1Kamisetas: una tienda pensada para que cualquiera pueda acceder a la camiseta que siempre quiso, ya sea un modelo clásico o una novedad recién salida al mercado. Lo que empezó como una charla entre amigos, hoy es un proyecto consolidado que sigue creciendo.</p>
             </div>
-            <div class="linea"></div> <!-- Línea horizontal añadida -->
+            <div class="linea"></div> 
             <div class="vertical-line"></div>
             <div class="vision">
                 <h3>NUESTRA VISION</h3>
@@ -29,6 +29,34 @@
             </div>
         </div>
     </section>
+    <section id="equipo">
+        <h2 class="titulo-equipo">CONOCÉ A NUESTRO EQUIPO</h2>
+        <div class="equipo-container">
+            <div class="miembro">
+                <img src="assets/img/gaston.jpg" alt="Persona 1">
+                <h3>Fernandez Gaston</h3>
+                <p>Co-fundador apasionado por camisetas retro y colecciones históricas.</p>
+            </div>
+            <div class="miembro">
+                <img src="assets/img/hugo.jpg" alt="Persona 2">
+                <h3>Elias Hugo</h3>
+                <p>Encargado de selección de productos y relación con proveedores internacionales.</p>
+            </div>
+            <div class="miembro">
+                <img src="assets/img/jajaja.jpg" alt="Persona 3">
+                <h3>Brisa Milella</h3>
+                <p>Diseñadora visual y experta en tendencias deportivas actuales.</p>
+            </div>
+        </div>
+    </section>
+    <section id="hogar">
+        <h2 class="titulo-hogar">NUESTRO HOGAR</h2>
+        <div class="hogar-imagen">
+            <img src="assets/img/tienda.jpg" alt="Nuestro Hogar">
+        </div>
+    </section>
+
+
 
 
     <section id="logos-clubes">

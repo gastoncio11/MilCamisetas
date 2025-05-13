@@ -11,3 +11,5 @@ $routes->get('contacto', 'Home::contacto');
 $routes->get('principal', 'Home::principal');
 $routes->get('terminosdeuso', 'Home::terminosdeuso');
 $routes->get('comercio', 'Home::comercio');
+$routes->get('login', 'Home::login');
+$routes->get('registro', 'Home::registro');

@@ -55,6 +55,7 @@ body{
    background-color: rgba(0, 0, 0, 0.7);
    background-blend-mode: darken; 
     padding-bottom: 3vh;
+    margin-top: 0px;
 }
 
 .hero h1 {
@@ -138,8 +139,8 @@ body{
 }
 
 .boton-comprar {
-    background-color: #d33f3f;            /* Color rojo bordó */
-    color: white;                         /* Texto blanco */
+    background-color: #d33f3f;           
+    color: white;                        
     text-decoration: none;
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
@@ -151,7 +152,7 @@ body{
     cursor: pointer;
     transition: background-color 0.3s ease, color 0.3s ease, transform 0.2s ease;
     display: inline-block;
-    box-shadow: 0 4px 10px rgba(211, 63, 63, 0.3); /* Sombra bordó */
+    box-shadow: 0 4px 10px rgba(211, 63, 63, 0.3); 
 }
 
 .carousel-item, .carousel-item:not(.active){
@@ -202,26 +203,31 @@ body{
 
 
 
-.calidad{
+.calidad {
     display: flex;
     text-align: center;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    gap: 50px;
-    font-size: 2rem;
-    padding: 3vh 12px;
-    font-weight: 100;
-    background-color: rgb(66, 66, 66);
-    box-shadow: inset 0 0 30px rgba(0, 0, 0, 0.5);
+    gap: 20px;
+    font-size: clamp(1rem, 2vw, 1.3rem);
+    padding: 5vh 5vw;
+    font-weight: 400;
+    background-color: #2b0000; /* fondo más bordó */
+    box-shadow: inset 0 0 20px rgba(0, 0, 0, 0.4);
 }
 
-.badge{
-    border-color: black;
-    border-style: solid;
-    font-weight: 100;
-    box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.5);
+.calidad .badge {
+    background-color: #d33f3f;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 12px 20px;
+    font-size: 1rem;
+    font-weight: 500;
+    letter-spacing: 0.5px;
 }
+
 
 @media (max-width: 900px){
     .calidad{
@@ -257,3 +263,142 @@ body{
     filter: grayscale(50%) contrast(1.1);
     transition: filter 0.3s ease-in-out;
 }
+
+/* Contenedor general de las tarjetas */
+.tarjetas-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    gap: 2rem;
+    padding: 3rem 2rem;
+    flex-wrap: wrap;
+}
+
+/* Estilo de cada tarjeta */
+.tarjeta {
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    padding: 2rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    width: 25vw; /* 20% del ancho de la pantalla */
+    height: 70vh; /* Ajusta el alto para que ocupe la mayor parte de la pantalla */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    transition: transform 0.3s ease-in-out;
+    background-size: cover;          
+    background-position: center;     
+    background-repeat: no-repeat;    
+}
+
+/* Títulos de las tarjetas */
+.tarjeta h3 {
+    font-size: 2rem;
+    color: #ffffff;
+    margin-bottom: 1.5rem;
+}
+
+/* Descripción de las tarjetas */
+.tarjeta p {
+    font-size: 1.3rem;
+    color: #ffffff;
+    margin-bottom: 1.5rem;
+    font-weight: bold;
+}
+
+/* Estilo del botón */
+.tarjeta .boton-comprar {
+    background-color: #d33f3f;
+    color: white;
+    text-decoration: none;
+    padding: 12px 25px;
+    border-radius: 12px;
+    font-size: 1.1rem;
+    transition: background-color 0.3s ease;
+}
+
+.tarjeta .boton-comprar:hover {
+    background-color: #9b0202;
+}
+
+/* Efecto de hover para las tarjetas */
+.tarjeta:hover {
+    transform: scale(1.05);
+}
+
+/* Responsividad */
+@media (max-width: 1024px) {
+    .tarjeta {
+        width: 30vw; /* Aumentamos el ancho al 30% en pantallas de tablet */
+        height: 80vh; /* Ajustamos el alto */
+    }
+}
+
+@media (max-width: 1024px) {
+    .tarjetas-container {
+        flex-direction: column; /* Colocamos las tarjetas en una columna en pantallas pequeñas */
+        align-items: center;
+    }
+    
+    .tarjeta {
+        width: 80%; /* Aumentamos el tamaño de las tarjetas al 80% en móviles */
+        height: auto; /* Ajustamos el alto automáticamente */
+        margin-bottom: 2rem; /* Agregamos espacio entre las tarjetas */
+    }
+}
+
+@media (max-width: 480px) {
+    .tarjeta {
+        width: 90%; /* Las tarjetas ocupan casi todo el ancho en móviles más pequeños */
+        height: auto; /* El alto sigue siendo automático */
+    }
+
+    .tarjeta h3 {
+        font-size: 1.5rem; /* Reducimos el tamaño de los títulos en móviles pequeños */
+    }
+
+    .tarjeta p {
+        font-size: 0.9rem; /* Reducimos el tamaño del texto */
+    }
+
+    .tarjeta .boton-comprar {
+        padding: 10px 20px; /* Ajustamos el tamaño del botón */
+        font-size: 1rem; /* Reducimos el tamaño del texto del botón */
+    }
+}
+
+
+.destacados{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-family: 'Montserrat', sans-serif;
+    align-items: center;
+    padding: 30px 0px;
+    background-color: rgb(66, 66, 66);
+    box-shadow: inset 0 0 30px rgba(0, 0, 0, 0.5);
+}
+
+
+.destacados .textito{
+    color: aliceblue;
+    font-weight: 1000;
+    font-size: 1.7rem;
+    background-color: #9b0202;
+    border-radius: 12px;
+    padding: 20px;
+}
+
+@media (max-width: 600px){
+
+    .destacados .textito{
+        padding: 10px 10px;
+        font-size: 1.5rem;
+    }
+    
+    .hero{
+        margin-top: 12vh;
+    }
+}
+
