@@ -68,6 +68,7 @@ main {
 
 .registro-form input[type="text"],
 .registro-form input[type="email"],
+.registro-form input[type="contraseña"],
 .registro-form input[type="tel"] {
     padding: 0.7rem;
     margin-bottom: 1rem;
