@@ -1,13 +1,6 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Registro</title>
-    <link rel="stylesheet" href="assets/css/registro.css">
-</head>
-<body>
 
+
+    <title>1Kamisetas - Registro </title>
     <main class="registro-background">
         <div class="registro-container">
             <form class="registro-form" method="post" action="procesar_registro.php">
@@ -29,7 +22,10 @@
                 <input type="email" id="email" name="email" required>
 
                 <label for="contraseña">Contraseña</label>
-                <input type="contraseña" id="contraseña" name="contraseña" required>
+                <input type="password" id="contraseña" name="contraseña" required>
+
+                <label for="contraseña">Repetir contraseña</label>
+                <input type="password" id="contraseña" name="contraseña" required>
 
                 <label for="club">Club favorito</label>
                 <input type="text" id="club" name="club" required>
@@ -40,11 +36,7 @@
                 </div>
 
                 <button type="submit">Registrarse</button>
-                <p class="iniciar">¿Ya tienes cuenta? <a href="login.php">Inicia sesión aquí.</a></p>
+                <p class="iniciar">¿Ya tienes cuenta? <a href="login">Inicia sesión aquí.</a></p>
             </form>
         </div>
     </main>
-
-
-</body>
-</html>

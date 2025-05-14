@@ -1,16 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="assets/css/principal.css">
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
 
-    <title>Document</title>
-</head>
-<body>
-  
     <div class="hero">
         <img src="assets/img/ind.png" alt="Remera">
         <h1 class="slogan">¡Llevá tus colores a todos lados!</h1>
@@ -88,12 +76,20 @@
         <h1 class="cracks">
             <img src="assets/img/diegote.jpg" alt="">
         </h1>
-        
-        
-        
-        
-        <script src="assets/js/bootstrap.bundle.min.js"></script>
     </div>
+
+<section class="ubicacion">
+  <div class="fondo-mapa">
+    <h2>¿Dónde estamos?</h2>
+    <a href="https://www.google.com/maps/place/La+Pampa+1569,+Corrientes,+Argentina" target="_blank" class="boton-mapa">Ver en Google Maps</a>
+  </div>
+
+  <div class="info-extra">
+    <h2>¿Querés más información?</h2>
+    <a href="nosotros" class="boton-vermas">Ver más</a>
+  </div>
+</section>
+
 
     <div class="destacados">
         <h1 class="textito">¡ Productos destacados de nuestra pagina !</h1>
@@ -130,5 +126,3 @@
                 <span class="badge bg-dark">Producto Nacional</span>
     </div>
     
-</body>
-</html>

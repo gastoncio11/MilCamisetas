@@ -21,6 +21,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    background: none;
     padding: 100px 20px 60px; /* espacio para header y footer */
 }
 
