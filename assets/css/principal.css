@@ -291,6 +291,15 @@ body{
 .fondo-mapa .boton-mapa {
   position: relative;
   z-index: 1;
+  color:aliceblue;
+  
+}
+
+.fondo-mapa h2{
+    text-shadow: 3px 3px 6px rgba(0, 0, 0, 1),   
+                 -3px -3px 6px rgba(0, 0, 0, 1),  
+                 3px -3px 6px rgba(0, 0, 0, 1),
+                 -3px 3px 6px rgba(0, 0, 0, 1);
 }
 
 .boton-mapa,
@@ -314,6 +323,8 @@ body{
 .info-extra {
   padding: 30px 20px;
 }
+
+
 
 
 .tarjetas-container {

@@ -29,31 +29,45 @@
             </div>
         </div>
         <div class="formulario">
-            <div class="carta personalizada">
-                <div class="carta-body">
-                    <h5 class="carta-title">FORMULARIO DE CONTACTO</h5>
-                    <p class="carta-texto">deja tus consultas</p>
-                    
-                    <div class="fila">
-                        <div class="campo">
-                            <input type="text" placeholder="Nombre">
-                        </div>
-                        <div class="campo">
-                            <input type="text" placeholder="Apellido">
-                        </div>
-                    </div>
-                    
-                    <div class="fila">
-                        <div class="campo">
-                            <input type="email" placeholder="Correo electrónico">
-                            <input type="email" placeholder="Telefono">
-                            <input type="email" placeholder="Asunto">
-                            <textarea placeholder="Escribe tu mensaje aquí..."></textarea>
-                        </div>
-                    </div>
+    <div class="carta-personalizada">
+        <div class="carta-body">
+            <h5 class="carta-title">FORMULARIO DE CONTACTO</h5>
+            <p class="carta-texto">Deja tus consultas</p>
+
+            <div class="fila">
+                <div class="campo">
+                    <input type="text" placeholder="Nombre">
+                </div>
+                <div class="campo">
+                    <input type="text" placeholder="Apellido">
                 </div>
             </div>
+
+            <div class="fila">
+                <div class="campo">
+                    <input type="email" placeholder="Correo electrónico">
+                </div>
+                <div class="campo">
+                    <input type="text" placeholder="Teléfono">
+                </div>
+            </div>
+
+            <div class="fila">
+                <div class="campo">
+                    <input type="text" placeholder="Asunto">
+                </div>
+            </div>
+
+            <div class="fila">
+                <div class="campo">
+                    <textarea placeholder="Escribe tu mensaje aquí..."></textarea>
+                </div>
+            </div>
+
         </div>
+    </div>
+</div>
+
     </section>
     
     <section id="c-hero2">

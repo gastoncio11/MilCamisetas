@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="assets/css/nosotros.css">
     <link rel="stylesheet" href="assets/css/contacto.css">
     <link rel="stylesheet" href="assets/css/comercio.css">
+    <link href="assets/css/footer.css" rel="stylesheet">
 
 
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap" rel="stylesheet">
