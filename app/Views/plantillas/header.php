@@ -45,7 +45,7 @@
     <div class="contenedorSesion">
          <a href="login" class="btn-sesion">Inicie sesión</a>
          <p>o</p>
-         <a href="registro" class="btn-sesion">Regístrese</a>
+         <a href="registro" class="btn-sesion">Regístresee</a>
     </div>
 
 
