@@ -264,7 +264,58 @@ body{
     transition: filter 0.3s ease-in-out;
 }
 
-/* Contenedor general de las tarjetas */
+.ubicacion {
+  margin: 40px 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  background-color: white;
+}
+
+.fondo-mapa {
+  background-image: url('../img/fotomapa.png'); 
+  background-size: cover;
+  background-position: center;
+  padding: 60px 20px;
+  color: white;
+  position: relative;
+}
+
+.fondo-mapa::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.5); 
+}
+
+.fondo-mapa h2,
+.fondo-mapa .boton-mapa {
+  position: relative;
+  z-index: 1;
+}
+
+.boton-mapa,
+.boton-vermas {
+  margin-top: 15px;
+  display: inline-block;
+  background-color: #8B0000; 
+  color: white;
+  padding: 10px 20px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.3s;
+}
+
+.boton-mapa:hover,
+.boton-vermas:hover {
+  background-color: #a30000;
+}
+
+.info-extra {
+  padding: 30px 20px;
+}
+
+
 .tarjetas-container {
     display: flex;
     justify-content: space-between;
@@ -275,7 +326,6 @@ body{
     background: rgb(236, 232, 232);
 }
 
-/* Estilo de cada tarjeta */
 .tarjeta {
     background-color: #f9f9f9;
     border-radius: 8px;
@@ -309,7 +359,6 @@ body{
     z-index: 2;
 }
 
-/* Títulos de las tarjetas */
 .tarjeta h3 {
     font-size: 2rem;
     color: #ffffff;
@@ -335,7 +384,7 @@ body{
 
 
 
-/* Estilo del botón */
+
 .tarjeta .boton-comprar {
     background-color: #d33f3f;
     color: white;

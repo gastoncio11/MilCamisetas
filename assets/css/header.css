@@ -67,19 +67,17 @@ header {
     display: none;
 }
 
-.miltext{
-    display: none;
-}
 
 
-@media (max-width: 600px) {
+
+@media (max-width: 750px) {
     .contenedor {
       gap: 15px;
       font-size: 1em;
     }
   }
 
-@media (min-width: 600px) {
+@media (min-width: 751px) {
     /* Estilos para tablet */
     header {
         flex-direction: row;
@@ -106,20 +104,9 @@ header {
         filter: drop-shadow(0 0 10px #550000);
     }
 
-    .miltext{
-        display: none;
-    }
-
 }
 
-@media (min-width: 900px){
 
-    .miltext{
-        display: flex;
-        height: 5vh;
-    }
-
-}
 
 button{
     background-color: #550000;
@@ -215,8 +202,67 @@ button:hover{
     pointer-events: auto;
 }
 
+.contenedorSesion {
+  text-align: center;
+  margin: 1rem 0;
+  font-family: Arial, sans-serif;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.contenedorSesion a.btn-sesion {
+  display: inline-block;
+  padding: clamp(5px, 1vw, 10px) clamp(10px, 2vw, 18px);
+  background-color: #5c0000;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  font-weight: 500;
+  font-size: clamp(12px, 1.4vw, 14px);
+}
+
+.contenedorSesion a.btn-sesion:hover {
+  background-color: #800000;
+  transform: scale(1.04);
+}
+
+.contenedorSesion p {
+  margin: 0;
+  color: #666;
+  font-size: clamp(12px, 1.2vw, 14px);
+  font-weight: bold;
+}
+
+/* 🔽 Oculta el bloque en móviles (<600px) */
+@media (max-width: 750px) {
+  .contenedorSesion {
+    display: none;
+  }
+}
+
+@media (max-width: 800px) {
+  .contenedorSesion {
+    gap: 0.3rem;
+  }
+
+  .contenedorSesion a.btn-sesion {
+    font-size: 12px;
+    padding: 5px 9px;
+  }
+
+  .contenedorSesion p {
+    font-size: 12px;
+  }
+}
+
+
+
 /* Responsive menú hamburguesa */
-@media (max-width: 600px) {
+@media (max-width: 750px) {
     .contenedor {
         display: none;
     }
@@ -293,16 +339,16 @@ button:hover{
 }
 
 /* Solo en mobile: mostrar hamburguesa y ocultar login btn */
-@media (max-width: 600px) {
+@media (max-width: 750px) {
     .hamburger-menu {
         display: block;
     }
 
-    .login-btn {
+    .contenedorSesion{
         display: none;
     }
 
-    .contenedor {
+    .contenedor{
         display: none;
     }
 
@@ -327,3 +373,4 @@ button:hover{
 .social-item:hover img {
     transform: scale(1.1); /* Efecto de hover */
 }
+

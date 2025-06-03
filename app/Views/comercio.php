@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="assets/css/comercio.css">
-</head>
-<body>
+  <div class="comercializacion">
     <section id="hero">
         <div class="comercio">
             <h1>Metodos de pago</h1>
@@ -201,6 +193,4 @@
             </div>
         </div>
     </section>
-
-</body>
-</html>
+    </div>

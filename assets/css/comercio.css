@@ -22,6 +22,9 @@ body {
     padding: 0;
 }
 
+.comercializacion{
+background-color: white;
+}
 
 #hero h1 {
     margin: 0;
@@ -216,4 +219,6 @@ body {
         grid-template-columns: repeat(4, 1fr);
     }
 }
+
+
 
