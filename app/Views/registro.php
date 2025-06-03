@@ -23,6 +23,12 @@
 
                 <label for="contraseña">Contraseña</label>
                 <input type="password" id="contraseña" name="contraseña" required>
+<<<<<<< HEAD
+=======
+
+                <label for="contraseña">Repetir contraseña</label>
+                <input type="password" id="contraseña" name="contraseña" required>
+>>>>>>> ec95d7d4fe07da1c0229061270e5af1a195592be
 
                 <label for="contraseña">Repetir contraseña</label>
                 <input type="password" id="contraseña" name="contraseña" required>

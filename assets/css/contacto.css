@@ -112,6 +112,7 @@
     justify-content: center;
     align-items: center;
     margin-top: 30px;
+    
 }
 
 #c-hero3 h1 {
@@ -224,8 +225,7 @@
     margin: 12px 0; 
 }
 
-
-.carta.personalizada {
+.carta-personalizada {
     border: 1px solid #000000;
     border-radius: 10px;
     overflow: hidden;
@@ -234,11 +234,11 @@
     text-align: center;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
     height: auto; 
-    width: 22rem; 
+    width: 35vw; 
     display: flex;
     flex-direction: column;
     gap: 15px;
-    margin: auto;
+    
 }
 
 .fila {
@@ -246,10 +246,15 @@
     gap: 10px;
     justify-content: center;
     margin: 10px;
+    flex-wrap: wrap;
 }
 
 .campo {
     flex: 1;
+    min-width: 200px; 
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
 }
 
 input[type="text"], input[type="email"] {

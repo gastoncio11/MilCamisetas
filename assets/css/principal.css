@@ -291,6 +291,18 @@ body{
 .fondo-mapa .boton-mapa {
   position: relative;
   z-index: 1;
+<<<<<<< HEAD
+=======
+  color:aliceblue;
+  
+}
+
+.fondo-mapa h2{
+    text-shadow: 3px 3px 6px rgba(0, 0, 0, 1),   
+                 -3px -3px 6px rgba(0, 0, 0, 1),  
+                 3px -3px 6px rgba(0, 0, 0, 1),
+                 -3px 3px 6px rgba(0, 0, 0, 1);
+>>>>>>> ec95d7d4fe07da1c0229061270e5af1a195592be
 }
 
 .boton-mapa,
@@ -316,6 +328,11 @@ body{
 }
 
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> ec95d7d4fe07da1c0229061270e5af1a195592be
 .tarjetas-container {
     display: flex;
     justify-content: space-between;

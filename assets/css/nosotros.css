@@ -41,7 +41,11 @@
     margin-left: 3%;
 }
 
+<<<<<<< HEAD
 #n-hero2 .info{
+=======
+#n-hero2 .n-info{
+>>>>>>> ec95d7d4fe07da1c0229061270e5af1a195592be
     display: block;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;;
     justify-content: space-evenly;

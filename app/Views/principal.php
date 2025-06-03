@@ -80,13 +80,22 @@
 
 <section class="ubicacion">
   <div class="fondo-mapa">
+<<<<<<< HEAD
     <h2>¿Dónde estamos?</h2>
+=======
+    <h2>¿DONDE ESTAMOS?</h2>
+>>>>>>> ec95d7d4fe07da1c0229061270e5af1a195592be
     <a href="https://www.google.com/maps/place/La+Pampa+1569,+Corrientes,+Argentina" target="_blank" class="boton-mapa">Ver en Google Maps</a>
   </div>
 
   <div class="info-extra">
+<<<<<<< HEAD
     <h2>¿Querés más información?</h2>
     <a href="nosotros" class="boton-vermas">Ver más</a>
+=======
+    <h2>¿QUERES MAS INFO?</h2>
+    <a href="nosotros" class="boton-vermas">Leer mas</a>
+>>>>>>> ec95d7d4fe07da1c0229061270e5af1a195592be
   </div>
 </section>
 
