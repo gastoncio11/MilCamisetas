@@ -107,7 +107,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center top;
-    min-height: 90vh;
+    min-height: 100vh;
     text-align: center;
     justify-content: center;
     align-items: center;
@@ -142,6 +142,11 @@
 
 #c-hero3 .correos .contenedor-correo p {
     font-size: 1.3rem;
+    margin: 0;
+    padding-left: 10px;
+    display: flex;
+    align-items: center;
+    height: 3rem; /* igual que la imagen */
 }
 
 #c-hero3 .correos .contenedor-correo .logo-correo {
@@ -225,7 +230,7 @@
     margin: 12px 0; 
 }
 
-.carta-personalizada {
+#c-hero3 .carta-personalizada {
     border: 1px solid #000000;
     border-radius: 10px;
     overflow: hidden;
@@ -233,12 +238,13 @@
     background-color: #f9f9f9;
     text-align: center;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-    height: auto; 
-    width: 35vw; 
+    height: auto;
+    width: min(90%, 900px); /* Nunca sobrepasa el 90% del ancho de pantalla ni 900px */
+    margin: 0 auto; /* Centrado */
     display: flex;
     flex-direction: column;
     gap: 15px;
-    
+    box-sizing: border-box;
 }
 
 .fila {
@@ -344,4 +350,43 @@ h5 {
     #c-hero2 .direccion{
         font-size: 3rem;
     }
+
+    
+}
+
+@media (max-width: 900px) {
+    #c-hero3 .carta-personalizada {
+        width: 90vw;
+        padding: 20px 15px;
+    }
+
+    .fila {
+        flex-direction: column;
+        gap: 15px;
+        margin: 0;
+    }
+
+    .campo {
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    input[type="text"], input[type="email"], textarea {
+        width: 100%;
+        font-size: 16px;
+        padding: 12px;
+        border-radius: 8px;
+    }
+
+    h5 {
+        font-size: 1.4rem;
+        margin-bottom: 20px;
+    }
+}
+
+body, html {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden; /* Evita scroll horizontal */
+    width: 100%;
 }

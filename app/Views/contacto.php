@@ -8,91 +8,65 @@
         </div>
     </section>
     <section id="c-hero3">
-        <div class="correos">
-            <div class="contenedor-correo">
-                <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=jrjtXSpkWKngnswpzbrSjbscqSfsTrPLKVHFCpPQGvCjWqPrJfCFlMlRNQHsmvghGhCbMkdF" target="_blank">
-                    <img src="assets/img/gmail.png" alt="logo correo" class="logo-correo">  
-                </a>
-                <p>gastonfernandez2015.gf@gmail.com</p>
+            <div class="correos">
+                <div class="contenedor-correo">
+                    <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=jrjtXSpkWKngnswpzbrSjbscqSfsTrPLKVHFCpPQGvCjWqPrJfCFlMlRNQHsmvghGhCbMkdF" target="_blank">
+                        <img src="assets/img/gmail.png" alt="logo correo" class="logo-correo">  
+                    </a>
+                    <p>gastonfernandez2015.gf@gmail.com</p>
+                </div>
+                <div class="contenedor-correo">
+                    <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=jrjtXSpkWKngnswpzbrSjbscqSfsTrPLKVHFCpPQGvCjWqPrJfCFlMlRNQHsmvghGhCbMkdF" target="_blank">
+                        <img src="assets/img/gmail.png" alt="logo correo" class="logo-correo">  
+                    </a>
+                    <p>hugoelias687@gmail.com</p>
+                </div>
+                <div class="contenedor-correo">
+                    <a href="#" target="_blank">
+                        <img src="assets/img/WhatsApp.png" alt="logo correo" class="logo-wp">  
+                    </a>
+                    <p>+54 9 379-4-523111</p>
+                </div>
             </div>
-            <div class="contenedor-correo">
-                <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=jrjtXSpkWKngnswpzbrSjbscqSfsTrPLKVHFCpPQGvCjWqPrJfCFlMlRNQHsmvghGhCbMkdF" target="_blank">
-                    <img src="assets/img/gmail.png" alt="logo correo" class="logo-correo">  
-                </a>
-                <p>hugoelias687@gmail.com</p>
-            </div>
-            <div class="contenedor-correo">
-                <a href="#" target="_blank">
-                    <img src="assets/img/WhatsApp.png" alt="logo correo" class="logo-wp">  
-                </a>
-                <p>+54 9 379-4-523111</p>
-            </div>
-        </div>
-        <div class="formulario">
-<<<<<<< HEAD
-            <div class="carta personalizada">
-                <div class="carta-body">
-                    <h5 class="carta-title">FORMULARIO DE CONTACTO</h5>
-                    <p class="carta-texto">deja tus consultas</p>
-                    
-                    <div class="fila">
-                        <div class="campo">
-                            <input type="text" placeholder="Nombre">
+            <div class="formulario">
+                <div class="carta-personalizada">
+                    <div class="carta-body">
+                        <h5 class="carta-title">FORMULARIO DE CONTACTO</h5>
+                        <p class="carta-texto">deja tus consultas</p>
+                        
+                        <div class="fila">
+                            <div class="campo">
+                                <input type="text" placeholder="Nombre">
+                            </div>
+                            <div class="campo">
+                                <input type="text" placeholder="Apellido">
+                            </div>
                         </div>
-                        <div class="campo">
-                            <input type="text" placeholder="Apellido">
+
+                        <div class="fila">
+                            <div class="campo">
+                                <input type="email" placeholder="Correo electrónico">
+                            </div>
+                            <div class="campo">
+                                <input type="text" placeholder="Teléfono">
+                            </div>
+                        </div>
+
+                        <div class="fila">
+                            <div class="campo">
+                                <input type="text" placeholder="Asunto">
+                            </div>
+                        </div>
+
+                        <div class="fila">
+                            <div class="campo">
+                                <textarea placeholder="Escribe tu mensaje aquí..."></textarea>
+                            </div>
                         </div>
                     </div>
-                    
-                    <div class="fila">
-                        <div class="campo">
-                            <input type="email" placeholder="Correo electrónico">
-                            <input type="email" placeholder="Telefono">
-                            <input type="email" placeholder="Asunto">
-                            <textarea placeholder="Escribe tu mensaje aquí..."></textarea>
-                        </div>
-                    </div>
-=======
-    <div class="carta-personalizada">
-        <div class="carta-body">
-            <h5 class="carta-title">FORMULARIO DE CONTACTO</h5>
-            <p class="carta-texto">Deja tus consultas</p>
-
-            <div class="fila">
-                <div class="campo">
-                    <input type="text" placeholder="Nombre">
-                </div>
-                <div class="campo">
-                    <input type="text" placeholder="Apellido">
->>>>>>> ec95d7d4fe07da1c0229061270e5af1a195592be
                 </div>
             </div>
-
-            <div class="fila">
-                <div class="campo">
-                    <input type="email" placeholder="Correo electrónico">
-                </div>
-                <div class="campo">
-                    <input type="text" placeholder="Teléfono">
-                </div>
-            </div>
-
-            <div class="fila">
-                <div class="campo">
-                    <input type="text" placeholder="Asunto">
-                </div>
-            </div>
-
-            <div class="fila">
-                <div class="campo">
-                    <textarea placeholder="Escribe tu mensaje aquí..."></textarea>
-                </div>
-            </div>
-
         </div>
-    </div>
-</div>
-
     </section>
     
     <section id="c-hero2">

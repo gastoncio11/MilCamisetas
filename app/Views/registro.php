@@ -7,31 +7,25 @@
                 <h2>Crear Cuenta</h2>
 
                 <label for="nombre">Nombre</label>
-                <input type="text" id="nombre" name="nombre" required>
+                <input type="text" id="nombre" name="nombre" placeholder="Nombre" required>
 
                 <label for="apellido">Apellido</label>
-                <input type="text" id="apellido" name="apellido" required>
+                <input type="text" id="apellido" name="apellido" placeholder="Apellido"required>
 
                 <label for="direccion">Dirección</label>
-                <input type="text" id="direccion" name="direccion" required>
+                <input type="text" id="direccion" name="direccion" placeholder="Direccion"required>
 
                 <label for="telefono">Teléfono</label>
-                <input type="tel" id="telefono" name="telefono" required>
+                <input type="tel" id="telefono" name="telefono" placeholder="Telefono"required>
 
                 <label for="email">Correo electrónico</label>
-                <input type="email" id="email" name="email" required>
+                <input type="email" id="email" name="email" placeholder="Correo electronico"required>
 
                 <label for="contraseña">Contraseña</label>
-                <input type="password" id="contraseña" name="contraseña" required>
-<<<<<<< HEAD
-=======
+                <input type="password" id="contraseña" name="contraseña" placeholder="Contraseña"required>
 
                 <label for="contraseña">Repetir contraseña</label>
-                <input type="password" id="contraseña" name="contraseña" required>
->>>>>>> ec95d7d4fe07da1c0229061270e5af1a195592be
-
-                <label for="contraseña">Repetir contraseña</label>
-                <input type="password" id="contraseña" name="contraseña" required>
+                <input type="password" id="contraseña" name="contraseña" placeholder="Repetir contraseña"required>
 
                 <div class="checkbox-group">
                     <input type="checkbox" id="suscripcion" name="suscripcion" value="1">
