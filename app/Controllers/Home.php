@@ -47,6 +47,43 @@ public function comercio(){
            view('plantillas/footer');
 }
 
+public function catalogo() {
+    $db = \Config\Database::connect();
+    $productos = $db->query("SELECT * FROM productos WHERE activo = 1")->getResultArray();
+
+    foreach ($productos as &$p) {
+        $id = $p['id'];
+        $talles = $db->query("SELECT talle FROM producto_talle WHERE producto_id = $id AND stock > 0")->getResultArray();
+        $p['talles'] = array_column($talles, 'talle');
+    }
+
+    $data['title'] = 'Catálogo | MilCamisetas';
+    $data['productos'] = $productos;
+
+    return view('plantillas/header', $data)
+         . view('catalogo', $data)
+         . view('plantillas/footer');
+}
+
+public function producto($id) {
+    $db = \Config\Database::connect();
+    $producto = $db->query("SELECT * FROM productos WHERE id = $id AND activo = 1")->getRowArray();
+
+    if (!$producto) {
+        throw \CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound();
+    }
+
+    $talles = $db->query("SELECT talle FROM producto_talle WHERE producto_id = $id AND stock > 0")->getResultArray();
+    $producto['talles'] = array_column($talles, 'talle');
+
+    $data['title'] = $producto['nombre'] . ' | MilCamisetas';
+    $data['producto'] = $producto;
+
+    return view('plantillas/header', $data)
+         . view('producto', $data)
+         . view('plantillas/footer');
+}
+
 public function login(){
     $data['title'] = 'Iniciar sesión | MilCamisetas';
     return view('plantillas/header', $data).
@@ -60,8 +97,5 @@ public function registro(){
            view('registro').
            view('plantillas/footer');
 }
-
-
-
 
 }

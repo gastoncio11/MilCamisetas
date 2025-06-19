@@ -1,0 +1,330 @@
+CRITICAL - 2025-06-19 07:13:43 --> ErrorException: Undefined variable $resultado
+[Method: GET, Route: producto]
+in APPPATH\Views\producto.php on line 1.
+ 1 APPPATH\Views\producto.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $resultado', 'C:\\xampp\\htdocs\\MilCamisetas\\app\\Views\\producto.php', 1)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\MilCamisetas\\app\\Views\\producto.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('producto', [], true)
+ 5 APPPATH\Controllers\Home.php(60): view('producto')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->producto()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-19 07:13:47 --> ErrorException: Undefined variable $resultado
+[Method: GET, Route: producto]
+in APPPATH\Views\producto.php on line 1.
+ 1 APPPATH\Views\producto.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $resultado', 'C:\\xampp\\htdocs\\MilCamisetas\\app\\Views\\producto.php', 1)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\MilCamisetas\\app\\Views\\producto.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('producto', [], true)
+ 5 APPPATH\Controllers\Home.php(60): view('producto')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->producto()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-19 07:16:28 --> ErrorException: include(conexion.php): Failed to open stream: No such file or directory
+[Method: GET, Route: producto]
+in APPPATH\Views\producto.php on line 2.
+ 1 APPPATH\Views\producto.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(conexion.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\MilCamisetas\\app\\Views\\producto.php', 2)
+ 2 APPPATH\Views\producto.php(2): include()
+ 3 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\MilCamisetas\\app\\Views\\producto.php')
+ 4 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('producto', [], true)
+ 6 APPPATH\Controllers\Home.php(60): view('producto')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->producto()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-19 07:21:07 --> ErrorException: include(conexion.php): Failed to open stream: No such file or directory
+[Method: GET, Route: producto]
+in APPPATH\Views\producto.php on line 2.
+ 1 APPPATH\Views\producto.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(conexion.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\MilCamisetas\\app\\Views\\producto.php', 2)
+ 2 APPPATH\Views\producto.php(2): include()
+ 3 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\MilCamisetas\\app\\Views\\producto.php')
+ 4 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('producto', [], true)
+ 6 APPPATH\Controllers\Home.php(60): view('producto')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->producto()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-19 07:39:59 --> ErrorException: Undefined variable $productos
+[Method: GET, Route: catalogo]
+in APPPATH\Views\catalogo.php on line 12.
+ 1 APPPATH\Views\catalogo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $productos', 'C:\\xampp\\htdocs\\MilCamisetas\\app\\Views\\catalogo.php', 12)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\MilCamisetas\\app\\Views\\catalogo.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('catalogo', [], true)
+ 5 APPPATH\Controllers\Home.php(64): view('catalogo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->catalogo()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-19 07:40:01 --> ErrorException: Undefined variable $productos
+[Method: GET, Route: catalogo]
+in APPPATH\Views\catalogo.php on line 12.
+ 1 APPPATH\Views\catalogo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $productos', 'C:\\xampp\\htdocs\\MilCamisetas\\app\\Views\\catalogo.php', 12)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\MilCamisetas\\app\\Views\\catalogo.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('catalogo', [], true)
+ 5 APPPATH\Controllers\Home.php(64): view('catalogo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->catalogo()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-19 07:40:01 --> ErrorException: Undefined variable $productos
+[Method: GET, Route: catalogo]
+in APPPATH\Views\catalogo.php on line 12.
+ 1 APPPATH\Views\catalogo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $productos', 'C:\\xampp\\htdocs\\MilCamisetas\\app\\Views\\catalogo.php', 12)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\MilCamisetas\\app\\Views\\catalogo.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('catalogo', [], true)
+ 5 APPPATH\Controllers\Home.php(64): view('catalogo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->catalogo()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-19 07:40:04 --> ErrorException: Undefined variable $productos
+[Method: GET, Route: catalogo]
+in APPPATH\Views\catalogo.php on line 12.
+ 1 APPPATH\Views\catalogo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $productos', 'C:\\xampp\\htdocs\\MilCamisetas\\app\\Views\\catalogo.php', 12)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\MilCamisetas\\app\\Views\\catalogo.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('catalogo', [], true)
+ 5 APPPATH\Controllers\Home.php(64): view('catalogo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->catalogo()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-19 08:13:43 --> Error: Class "App\Models\Producto_model" not found
+[Method: GET, Route: catalogo]
+in APPPATH\Controllers\Producto_controller.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Producto_controller->catalogo()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-19 08:15:25 --> Error: Class "App\Models\Producto_model" not found
+[Method: GET, Route: catalogo]
+in APPPATH\Controllers\Producto_controller.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Producto_controller->catalogo()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-19 08:15:30 --> Error: Class "App\Models\Producto_model" not found
+[Method: GET, Route: catalogo]
+in APPPATH\Controllers\Producto_controller.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Producto_controller->catalogo()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-19 08:20:57 --> Error: Class "App\Models\Producto_model" not found
+[Method: GET, Route: catalogo]
+in APPPATH\Controllers\Producto_controller.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Producto_controller->catalogo()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-19 08:21:01 --> Error: Class "App\Models\Producto_model" not found
+[Method: GET, Route: catalogo]
+in APPPATH\Controllers\Producto_controller.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Producto_controller->catalogo()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-19 08:21:07 --> Error: Class "App\Models\Producto_model" not found
+[Method: GET, Route: catalogo]
+in APPPATH\Controllers\Producto_controller.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Producto_controller->catalogo()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-19 08:27:05 --> Error: Class "App\Models\Producto_model" not found
+[Method: GET, Route: catalogo]
+in APPPATH\Controllers\Producto_controller.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Producto_controller->catalogo()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-19 08:27:07 --> Error: Class "App\Models\Producto_model" not found
+[Method: GET, Route: catalogo]
+in APPPATH\Controllers\Producto_controller.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Producto_controller->catalogo()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-19 08:27:14 --> Error: Class "App\Models\Producto_model" not found
+[Method: GET, Route: producto/1]
+in APPPATH\Controllers\Producto_controller.php on line 31.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Producto_controller->producto('1')
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-19 08:28:19 --> Error: Class "App\Models\Producto_model" not found
+[Method: GET, Route: catalogo]
+in APPPATH\Controllers\Producto_controller.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Producto_controller->catalogo()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-19 08:29:06 --> Error: Class "App\Models\Producto_model" not found
+[Method: GET, Route: catalogo]
+in APPPATH\Controllers\Producto_controller.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Producto_controller->catalogo()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-19 08:32:32 --> Error: Class "App\Models\Producto_model" not found
+[Method: GET, Route: catalogo]
+in APPPATH\Controllers\Producto_controller.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Producto_controller->catalogo()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-19 08:34:09 --> Error: Class "App\Models\Producto_model" not found
+[Method: GET, Route: catalogo]
+in APPPATH\Controllers\Producto_controller.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Producto_controller->catalogo()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-19 08:37:20 --> Error: Class "App\Models\Producto_model" not found
+[Method: GET, Route: catalogo]
+in APPPATH\Controllers\Producto_controller.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Producto_controller->catalogo()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-19 08:42:39 --> Error: Class "App\Models\Producto_model" not found
+[Method: GET, Route: catalogo]
+in APPPATH\Controllers\Producto_controller.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Producto_controller->catalogo()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-19 08:42:46 --> Error: Class "App\Models\Producto_model" not found
+[Method: GET, Route: catalogo]
+in APPPATH\Controllers\Producto_controller.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Producto_controller->catalogo()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-19 08:43:07 --> Error: Class "App\Models\Producto_model" not found
+[Method: GET, Route: catalogo]
+in APPPATH\Controllers\Producto_controller.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Producto_controller->catalogo()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-19 08:43:08 --> Error: Class "App\Models\Producto_model" not found
+[Method: GET, Route: catalogo]
+in APPPATH\Controllers\Producto_controller.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Producto_controller->catalogo()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-19 08:50:17 --> Error: Class "App\Models\Producto_model" not found
+[Method: GET, Route: catalogo]
+in APPPATH\Controllers\Producto_controller.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Producto_controller->catalogo()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-19 08:54:17 --> Error: Class "App\Models\Producto_model" not found
+[Method: GET, Route: catalogo]
+in APPPATH\Controllers\Producto_controller.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Producto_controller->catalogo()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Producto_controller))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-19 11:20:45 --> Error: Class "JasonNapolitano\Cart\Cart" not found
+[Method: GET, Route: home/testCarrito]
+in APPPATH\Controllers\Home.php on line 104.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->testCarrito()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-19 11:20:49 --> Error: Class "JasonNapolitano\Cart\Cart" not found
+[Method: GET, Route: home/testCarrito]
+in APPPATH\Controllers\Home.php on line 104.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->testCarrito()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-19 11:20:49 --> Error: Class "JasonNapolitano\Cart\Cart" not found
+[Method: GET, Route: home/testCarrito]
+in APPPATH\Controllers\Home.php on line 104.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->testCarrito()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-19 11:24:12 --> Error: Class "JasonNapolitano\Cart\Cart" not found
+[Method: GET, Route: home/testCarrito]
+in APPPATH\Controllers\Home.php on line 104.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->testCarrito()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

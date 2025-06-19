@@ -1,9 +1,9 @@
 
 <footer>
     <div class="footer-content">
-        <a href="terminosdeuso">Términos de uso</a>
+        <a href="<?= base_url('terminosdeuso') ?>">Términos de uso</a>
         <p>© 2025 Mil Camisetas. Todos los derechos reservados.</p>
-        <a href="contacto">Contacto</a>
+        <a href="<?= base_url('contacto') ?>">Contacto</a>
     </div>
 </footer>
 
