@@ -1,0 +1,335 @@
+/* Estilos para la página de operaciones con colores bordó, blanco y negro */
+.operaciones-background {
+    min-height: 100vh;
+    background: linear-gradient(135deg, #8B0000 0%, #2c1810 100%);
+    padding: 2rem 0;
+}
+
+.operaciones-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+/* Header */
+.operaciones-header {
+    text-align: center;
+    margin-bottom: 3rem;
+    color: white;
+}
+
+.operaciones-header h1 {
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+}
+
+.operaciones-header p {
+    font-size: 1.2rem;
+    opacity: 0.9;
+    font-weight: 300;
+}
+
+/* Grid de operaciones */
+.operaciones-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin-bottom: 3rem;
+}
+
+/* Tarjetas de operación */
+.operacion-card {
+    background: white;
+    border-radius: 16px;
+    padding: 2rem;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+.operacion-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background: linear-gradient(90deg, #8B0000, #2c1810);
+}
+
+.operacion-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 20px 40px rgba(0,0,0,0.3);
+}
+
+/* Iconos */
+.card-icon {
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+.icon-circle {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+    color: white;
+    margin-bottom: 1rem;
+    position: relative;
+    overflow: hidden;
+}
+
+.icon-circle::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: inherit;
+    opacity: 0.1;
+    border-radius: 50%;
+}
+
+.usuarios {
+    background: linear-gradient(135deg, #8B0000, #a01010);
+}
+
+.productos {
+    background: linear-gradient(135deg, #2c1810, #3c2820);
+}
+
+.consultas {
+    background: linear-gradient(135deg, #8B0000, #2c1810);
+}
+
+.ventas {
+    background: linear-gradient(135deg, #2c1810, #8B0000);
+}
+
+/* Contenido de las tarjetas */
+.card-content h3 {
+    color: #2c1810;
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+.card-content p {
+    color: #666;
+    font-size: 1rem;
+    line-height: 1.6;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+/* Botones de operación */
+.btn-operacion {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    width: 100%;
+    padding: 1rem 2rem;
+    background: linear-gradient(135deg, #8B0000, #2c1810);
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: 500;
+    font-size: 1rem;
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+.btn-operacion::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2), transparent);
+    transition: left 0.5s;
+}
+
+.btn-operacion:hover::before {
+    left: 100%;
+}
+
+.btn-operacion:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(139, 0, 0, 0.4);
+}
+
+.btn-arrow {
+    font-size: 1.2rem;
+    transition: transform 0.3s ease;
+}
+
+.btn-operacion:hover .btn-arrow {
+    transform: translateX(4px);
+}
+
+/* Footer */
+.operaciones-footer {
+    background: rgba(255,255,255,0.1);
+    backdrop-filter: blur(10px);
+    border-radius: 12px;
+    padding: 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    border: 1px solid rgba(255,255,255,0.2);
+}
+
+.admin-info p {
+    margin: 0.25rem 0;
+    font-size: 0.9rem;
+}
+
+.admin-info strong {
+    color: #fff;
+}
+
+.quick-actions {
+    display: flex;
+    gap: 1rem;
+}
+
+.btn-secondary, .btn-logout {
+    padding: 0.75rem 1.5rem;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    border: 2px solid;
+}
+
+.btn-secondary {
+    background: white;
+    color: #2c1810;
+    border-color: white;
+}
+
+.btn-secondary:hover {
+    background: transparent;
+    color: white;
+    border-color: white;
+}
+
+.btn-logout {
+    background: transparent;
+    color: #ff6b6b;
+    border-color: #ff6b6b;
+}
+
+.btn-logout:hover {
+    background: #ff6b6b;
+    color: white;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .operaciones-container {
+        padding: 0 0.5rem;
+    }
+    
+    .operaciones-header h1 {
+        font-size: 2.5rem;
+    }
+    
+    .operaciones-grid {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+    
+    .operacion-card {
+        padding: 1.5rem;
+    }
+    
+    .icon-circle {
+        width: 60px;
+        height: 60px;
+        font-size: 1.5rem;
+    }
+    
+    .operaciones-footer {
+        flex-direction: column;
+        gap: 1.5rem;
+        text-align: center;
+    }
+    
+    .quick-actions {
+        flex-direction: column;
+        width: 100%;
+    }
+    
+    .btn-secondary, .btn-logout {
+        width: 100%;
+        text-align: center;
+    }
+}
+
+@media (max-width: 480px) {
+    .operaciones-background {
+        padding: 1rem 0;
+    }
+    
+    .operaciones-header h1 {
+        font-size: 2rem;
+    }
+    
+    .operaciones-header p {
+        font-size: 1rem;
+    }
+    
+    .operacion-card {
+        padding: 1rem;
+    }
+    
+    .card-content h3 {
+        font-size: 1.3rem;
+    }
+    
+    .card-content p {
+        font-size: 0.9rem;
+    }
+}
+
+/* Animaciones */
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.operacion-card {
+    animation: fadeInUp 0.6s ease-out;
+}
+
+.operacion-card:nth-child(1) { animation-delay: 0.1s; }
+.operacion-card:nth-child(2) { animation-delay: 0.2s; }
+.operacion-card:nth-child(3) { animation-delay: 0.3s; }
+.operacion-card:nth-child(4) { animation-delay: 0.4s; }
+
+.operaciones-header {
+    animation: fadeInUp 0.8s ease-out;
+}
+
+.operaciones-footer {
+    animation: fadeInUp 0.6s ease-out 0.5s both;
+}

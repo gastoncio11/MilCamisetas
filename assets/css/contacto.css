@@ -1,4 +1,8 @@
-#hero {
+.contactanos{
+    background-color: white;
+}
+
+#c-hero {
     display: flex;
     flex-direction: column;
     background-image: linear-gradient(
@@ -17,7 +21,7 @@
 }
 
 
-#hero h1 {
+#c-hero h1 {
     margin: 0;
     margin-bottom: 20px; 
     color: aliceblue;
@@ -26,19 +30,19 @@
     font-weight: bold;
 }
 
-#hero .contacto{
+#c-hero .contacto{
     font-size: 2rem;
     padding: 10px;
     color: aliceblue;
 }
 
-#hero .contacto p{
+#c-hero .contacto p{
     font-size: 2rem;
     font-family: 'Montserrat', sans-serif;
 }
 
 
-#hero2{
+#c-hero2{
     display: flex;
     flex-direction: column;
     background-image: linear-gradient(
@@ -54,11 +58,9 @@
     justify-content: center;
     align-items: center;
     margin-top: 30px;
-    
-    
 }
 
-#hero2 h1 {
+#c-hero2 h1 {
     margin: 0;
     margin-bottom: 20px; 
     color: aliceblue;
@@ -67,10 +69,10 @@
     font-weight: bold;
 }
 
-#hero2 .direccion {
+#c-hero2 .direccion {
     display: block;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    justify-content: space-evenly;
+    justify-content: center;
     text-align: center;
     font-size: 1.5rem;
     padding: 10px;
@@ -78,7 +80,7 @@
 }
 
 
-#hero2 a.hero2-link {
+#c-hero2 a.hero2-link {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -89,12 +91,12 @@
     color: inherit;
 }
 
-#hero2 a.hero2-link:hover {
+#c-hero2 a.hero2-link:hover {
     cursor: pointer;
     background-color: rgba(255, 255, 255, 0.05); 
 }
 
-#hero3{
+#c-hero3 {
     display: flex;
     flex-direction: column;
     background-image: linear-gradient(
@@ -105,14 +107,15 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center top;
-    min-height: 90vh;
+    min-height: 110vh; 
+    padding-bottom: 60px; 
     text-align: center;
     justify-content: center;
     align-items: center;
     margin-top: 30px;
 }
 
-#hero3 h1 {
+#c-hero3 h1 {
     margin: 0;
     margin-bottom: 20px; 
     color: aliceblue;
@@ -123,7 +126,7 @@
 
 
 
-#hero3 .correos{
+#c-hero3 .correos{
     display: block;
     font-family: 'Montserrat', sans-serif;
     justify-content: space-evenly;
@@ -137,33 +140,37 @@
     margin-bottom: 40px;
 }
 
-#hero3 .correos .contenedor-correo .logo-correo {
-    height: 3rem; /* Usa rem para un tamaño más controlado */
+#c-hero3 .correos .contenedor-correo p {
+    font-size: 1.3rem;
+}
+
+#c-hero3 .correos .contenedor-correo .logo-correo {
+    height: 3rem; 
     width: auto; 
-    margin-right: 1px; /* Espacio entre el logo y el texto */
+    margin-right: 1px; 
     filter: drop-shadow(0 0 10px #550000);
     margin-top: 10px;
 }
 
-#hero3 .correos .contenedor-correo .logo-hotmail {
+#c-hero3 .correos .contenedor-correo .logo-hotmail {
     height: 3rem;
     width: auto;
     margin-right: -10px;
     margin-left: -12px; 
-    filter: drop-shadow(0 0 10px #550000);
+    filter: drop-shadow(0 0 6px #550000);
     margin-top: 10px;
 }
 
-#hero3 .correos .contenedor-correo .logo-wp {
+#c-hero3 .correos .contenedor-correo .logo-wp {
     height: 3rem;
     width: auto;
     margin-right: 0px;
     margin-left: 3px; 
-    filter: drop-shadow(0 0 10px #550000);
+    filter: drop-shadow(0 0 6px #550000);
     margin-top: 10px;
 }
 
-#hero3 .correos .contenedor-correo {
+#c-hero3 .correos .contenedor-correo {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -171,14 +178,14 @@
     justify-content: center;
 }
 
-#hero3 .correos .contenedor-correo{
+#c-hero3 .correos .contenedor-correo{
     font-size: clamp(17px, 2vw, 100px); 
     width: auto;
     filter: drop-shadow(0 0 8px #550000);
     margin-top: 10px;
 }
 
-#hero4{
+#c-hero4{
     display: flex;
     flex-direction: column;
     background-image: linear-gradient(
@@ -194,8 +201,10 @@
     justify-content: center;
     align-items: center;
     margin-top: 30px;
+    padding: 5vh 0;
 }
-#hero4 h1 {
+
+#c-hero4 h1 {
     margin: 0;
     margin-bottom: 20px; 
     color: aliceblue;
@@ -204,20 +213,20 @@
     font-weight: bold;
 }
 
-#hero4 .legal{
+#c-hero4 .legal{
     font-size: 2rem;
     padding: 10px;
     color: aliceblue;
 }
 
-#hero4 .legal p {
+#c-hero4 .legal p {
     font-size: 1.2rem;
     font-family: 'Montserrat', sans-serif;
     margin: 12px 0; 
 }
 
 
-.carta.personalizada {
+.carta-personalizada {
     border: 1px solid #000000;
     border-radius: 10px;
     overflow: hidden;
@@ -264,6 +273,41 @@ textarea {
     box-sizing: border-box;
     margin: 5px;
     resize: vertical; 
+}
+
+
+.alerta-exito {
+    margin-top: 20px;
+    background-color: #d4edda;
+    color: #155724;
+    border: 1px solid #c3e6cb;
+    padding: 15px;
+    border-radius: 6px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.btn-enviar {
+    background-color: #007BFF; 
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+}
+
+.btn-enviar:hover {
+    background-color: #17c3ff; 
+    transform: translateY(-2px);
 }
 
 h5 {
@@ -317,23 +361,19 @@ h5 {
 
 
 
+
 @media (min-width: 600px){
-    #hero{
+    #c-hero{
         padding-left: 80px;
         margin-top: 0px;
     }
 
 
-    #hero .nosotros{
+    #c-hero .nosotros{
         font-size: 3rem;
-    }
+    }   
 
-    #hero2{
-        padding-left: 80px;
-    }
-
-
-    #hero2 .direccion{
+    #c-hero2 .direccion{
         font-size: 3rem;
     }
 }

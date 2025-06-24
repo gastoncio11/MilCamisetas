@@ -1,5 +1,8 @@
+.sobrenosotros{
+    background-color: white;
+}
 
-#hero {
+#n-hero {
     display: flex;
     flex-direction: column;
     background-image: linear-gradient(
@@ -18,7 +21,7 @@
 }
 
 
-#hero h1 {
+#n-hero h1 {
     margin: 0;
     margin-bottom: 20px; 
     color: aliceblue;
@@ -27,18 +30,18 @@
     font-weight: bold;
 }
 
-#hero .nosotros{
+#n-hero .n-nosotros{
     font-size: 1.5rem;
     padding: 10px;
 }
 
-#hero2{
+#n-hero2{
     margin-top: 8%;
     margin-right: 3%;
     margin-left: 3%;
 }
 
-#hero2 .info{
+#n-hero2 .info{
     display: block;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;;
     justify-content: space-evenly;
@@ -62,7 +65,7 @@
 }
 
 
-#hero2 .info .linea {
+#n-hero2 .n-info .linea {
     width: 95%;
     height: 3px;
     background-color: brown; 
@@ -70,13 +73,13 @@
 
 }
 
-#hero2 h2,h3{
+#n-hero2 h2,h3{
     text-align: center;
     color: brown;
     font-size: 24px;
 }
 
-#hero2 p{
+#n-hero2 p{
     margin: 10px 10px;
     font-size: 1.2rem;
 }
@@ -184,51 +187,52 @@
 
 
 @media (min-width: 600px){
-    #hero{
+    #n-hero{
         padding-left: 80px;
         margin-top: 0px;
+        background-color: aliceblue;
     }
 
 
-    #hero .nosotros{
+    #n-hero .nosotros{
         font-size: 2rem;
     }
 
 
-    #hero2 .info{
+    #n-hero2 .n-info{
         display: flex;
         margin: 40px 20px;
     }
 
-    #hero2 .info .linea {
+    #n-hero2 .n-info .linea {
         display: none;
     }
 
-    #hero2 p{
+    #n-hero2 p{
         margin: 10px 10px;
     }
 
 
-    #hero2{
+    #n-hero2{
         margin-top: 4%;
         margin-right: 3%;
         margin-left: 3%;
     
     }
 
-    #hero2 .vertical-line {
+    #n-hero2 .vertical-line {
         width: 3px;
         height: auto;
         background-color: brown;
         margin: 0 20px;
     }
 
-    #hero2 .info .historia{
+    #n-hero2 .n-info .historia{
         width: 40vw;
         height: auto;
     }
 
-    #hero2 .info .vision{
+    #n-hero2 .n-info .vision{
         width: 40vw;
         height: auto;
     }
