@@ -8,19 +8,8 @@
         <?php endif; ?>
 
         <?php if (session()->getFlashdata('error')): ?>
-            <div class="alert alert-danger">
+            <div class="alert alert-error">
                 <?= session()->getFlashdata('error') ?>
-            </div>
-        <?php endif; ?>
-
-        <!-- Mostrar errores de validación -->
-        <?php if (session()->get('errors')): ?>
-            <div class="alert alert-danger">
-                <ul>
-                    <?php foreach (session()->get('errors') as $error): ?>
-                        <li><?= $error ?></li>
-                    <?php endforeach; ?>
-                </ul>
             </div>
         <?php endif; ?>
 
@@ -28,11 +17,38 @@
             <?= csrf_field() ?>
             <h2>Iniciar Sesión</h2>
 
-            <label for="email">Correo electrónico</label>
-            <input type="email" id="email" name="email" value="<?= old('email') ?>" required>
+            <!-- Campo Email -->
+            <div class="form-group">
+                <label for="email">Correo electrónico</label>
+                <input type="email" 
+                       id="email" 
+                       name="email" 
+                       placeholder="ejemplo@correo.com"
+                       value="<?= old('email') ?>" 
+                       class="<?= (isset($validation) && $validation->hasError('email')) ? 'error' : '' ?>"
+                       >
+                <?php if (isset($validation) && $validation->hasError('email')): ?>
+                    <div class="error-message">
+                        <?= $validation->getError('email') ?>
+                    </div>
+                <?php endif; ?>
+            </div>
 
-            <label for="contraseña">Contraseña</label>
-            <input type="password" id="contraseña" name="contraseña" required>
+            <!-- Campo Contraseña -->
+            <div class="form-group">
+                <label for="contraseña">Contraseña</label>
+                <input type="password" 
+                       id="contraseña" 
+                       name="contraseña" 
+                       placeholder="Tu contraseña"
+                       class="<?= (isset($validation) && $validation->hasError('contraseña')) ? 'error' : '' ?>"
+                       >
+                <?php if (isset($validation) && $validation->hasError('contraseña')): ?>
+                    <div class="error-message">
+                        <?= $validation->getError('contraseña') ?>
+                    </div>
+                <?php endif; ?>
+            </div>
 
             <button type="submit">Iniciar Sesión</button>
             <p class="registro">¿No tienes cuenta? <a href="<?= base_url('registro') ?>">Regístrate aquí.</a></p>

@@ -17,11 +17,41 @@
             </div>
         </div>
 
+        <!-- NUEVA BARRA DE BÚSQUEDA -->
+        <div class="search-container">
+            <div class="search-card">
+                <div class="search-header">
+                    <h3>🔍 Buscar Productos</h3>
+                    <button type="button" class="btn-clear-search" onclick="limpiarBusqueda()" style="display: none;">
+                        🗑️ Limpiar
+                    </button>
+                </div>
+                <div class="search-form">
+                    <div class="search-input-group">
+                        <input type="text" 
+                               id="searchInput" 
+                               placeholder="Buscar por nombre... (ej: RONALDO, REAL MADRID, MESSI)" 
+                               onkeyup="buscarProductos()"
+                               onkeypress="handleEnterKey(event)">
+                        <button type="button" class="search-btn" onclick="buscarProductos()">
+                            <i class="fas fa-search"></i>
+                        </button>
+                    </div>
+                    <div class="search-results-info" id="searchResultsInfo" style="display: none;">
+                        <span id="searchResultsText"></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
         <!-- Mensajes -->
         <?php if (session()->getFlashdata('success')): ?>
             <div class="alert alert-success">
                 <span class="alert-icon">✓</span>
                 <?= session()->getFlashdata('success') ?>
+                <?php if (session()->getFlashdata('nuevoTotal') !== null): ?>
+                    <br>Nuevo stock total: <?= session()->getFlashdata('nuevoTotal') ?>
+                <?php endif; ?>
             </div>
         <?php endif; ?>
 
@@ -32,11 +62,11 @@
             </div>
         <?php endif; ?>
 
-        <!-- Grid de productos -->
-        <div class="productos-grid">
+        
+        <div class="productos-grid" id="productosGrid">
             <?php if (!empty($productos)): ?>
                 <?php foreach ($productos as $producto): ?>
-                    <div class="producto-card">
+                    <div class="producto-card" data-nombre="<?= strtolower(esc($producto['nombre'])) ?>" data-categoria="<?= strtolower(esc($producto['categoria_nombre'] ?? '')) ?>">
                         <div class="producto-imagen">
                             <?php if (!empty($producto['imagen'])): ?>
                                 <img src="<?= base_url('assets/img/productos/' . $producto['imagen']) ?>" alt="<?= esc($producto['nombre']) ?>">
@@ -52,8 +82,13 @@
                         </div>
                         
                         <div class="producto-info">
-                            <h3 class="producto-nombre"><?= esc($producto['nombre']) ?></h3>
-                            <p class="producto-categoria"><?= esc($producto['categoria_nombre'] ?? 'Sin categoría') ?></p>
+                            <h3 class="producto-nombre" style= "color:black"><?= esc($producto['nombre']) ?></h3>
+                            <p class="producto-categoria">
+                                <?= esc($producto['categoria_nombre'] ?? 'Sin categoría') ?>
+                                <?php if ($producto['id_categoria'] == 4): ?>
+                                    <span style="color: orange;">(KIDS)</span>
+                                <?php endif; ?>
+                            </p>
                             <p class="producto-precio">$<?= number_format($producto['precio'], 2) ?></p>
                             
                             <?php if (!empty($producto['descripcion'])): ?>
@@ -85,8 +120,10 @@
                             <button class="btn-accion edit" onclick="editarProducto(<?= $producto['id'] ?>)" title="Editar">
                                 ✏️
                             </button>
-                            <button class="btn-accion delete" onclick="confirmarEliminar(<?= $producto['id'] ?>, '<?= esc($producto['nombre']) ?>')" title="Eliminar">
-                                🗑️
+                            <button onclick="toggleProducto(<?= $producto['id'] ?>, <?= $producto['activo'] ?>)" 
+                                    class="btn-toggle <?= $producto['activo'] ? 'activo' : 'inactivo' ?>"
+                                    title="<?= $producto['activo'] ? 'Desactivar' : 'Activar' ?> producto">
+                                <?= $producto['activo'] ? '✅ Activo' : '❌ Inactivo' ?>
                             </button>
                         </div>
                     </div>
@@ -104,8 +141,21 @@
                 </div>
             <?php endif; ?>
         </div>
+
+        <!-- Mensaje cuando no hay resultados de búsqueda -->
+        <div class="no-resultados" id="noResultados" style="display: none;">
+            <div class="no-resultados-content">
+                <span class="no-resultados-icon">🔍</span>
+                <h3>No se encontraron productos</h3>
+                <p id="noResultadosTexto">No hay productos que coincidan con tu búsqueda.</p>
+                <button class="btn btn-secondary" onclick="limpiarBusqueda()">
+                    Mostrar todos los productos
+                </button>
+            </div>
+        </div>
     </div>
 
+    <!-- Modales existentes (sin cambios) -->
     <!-- Modal Crear Producto -->
     <div id="modalCrear" class="modal">
         <div class="modal-content modal-large">
@@ -139,7 +189,12 @@
                                 <option value="">Seleccionar categoría</option>
                                 <?php if (!empty($categorias)): ?>
                                     <?php foreach ($categorias as $categoria): ?>
-                                        <option value="<?= $categoria['id_categoria'] ?>"><?= esc($categoria['ct_nombre']) ?></option>
+                                        <option value="<?= $categoria['id_categoria'] ?>">
+                                            <?= esc($categoria['ct_nombre']) ?>
+                                            <?php if ($categoria['id_categoria'] == 4): ?>
+                                                (KIDS)
+                                            <?php endif; ?>
+                                        </option>
                                     <?php endforeach; ?>
                                 <?php endif; ?>
                             </select>
@@ -192,7 +247,12 @@
                                 <option value="">Seleccionar categoría</option>
                                 <?php if (!empty($categorias)): ?>
                                     <?php foreach ($categorias as $categoria): ?>
-                                        <option value="<?= $categoria['id_categoria'] ?>"><?= esc($categoria['ct_nombre']) ?></option>
+                                        <option value="<?= $categoria['id_categoria'] ?>">
+                                            <?= esc($categoria['ct_nombre']) ?>
+                                            <?php if ($categoria['id_categoria'] == 4): ?>
+                                                (KIDS)
+                                            <?php endif; ?>
+                                        </option>
                                     <?php endforeach; ?>
                                 <?php endif; ?>
                             </select>
@@ -226,10 +286,18 @@
             </div>
             <form method="post" action="<?= base_url('admin/actualizar_stock') ?>" id="formStock">
                 <?= csrf_field() ?>
-                <input type="hidden" name="producto_id" id="stockProductoId">
+                <input type="hidden" name="producto_id" id="stockProductoId" value="">
                 <div class="modal-body">
                     <div class="stock-grid" id="stockGrid">
                         <!-- Se llena dinámicamente -->
+                    </div>
+                    <div class="stock-actions" style="margin-top: 15px; padding: 10px; background: #f9f9f9; border-radius: 5px;">
+                        <button type="button" onclick="resetearTodosLosStocks()" class="btn btn-warning btn-sm">
+                            🔄 Resetear Todo a 0
+                        </button>
+                        <button type="button" onclick="aplicarStockATodos()" class="btn btn-info btn-sm">
+                            📋 Aplicar Mismo Stock a Todos
+                        </button>
                     </div>
                 </div>
                 <div class="modal-footer">
@@ -263,6 +331,122 @@
 </main>
 
 <script>
+// Variables globales para la búsqueda
+let todosLosProductos = [];
+let busquedaActiva = false;
+
+// Inicializar cuando se carga la página
+document.addEventListener('DOMContentLoaded', function() {
+    // Guardar referencia a todos los productos
+    todosLosProductos = Array.from(document.querySelectorAll('.producto-card'));
+});
+
+
+function buscarProductos() {
+    const searchInput = document.getElementById('searchInput');
+    const searchTerm = searchInput.value.toLowerCase().trim();
+    const productosGrid = document.getElementById('productosGrid');
+    const noResultados = document.getElementById('noResultados');
+    const searchResultsInfo = document.getElementById('searchResultsInfo');
+    const searchResultsText = document.getElementById('searchResultsText');
+    const btnClearSearch = document.querySelector('.btn-clear-search');
+    
+    // Si no hay término de búsqueda, mostrar todos los productos
+    if (searchTerm === '') {
+        limpiarBusqueda();
+        return;
+    }
+    
+    busquedaActiva = true;
+    btnClearSearch.style.display = 'inline-block';
+    
+    let productosEncontrados = 0;
+    
+    // Filtrar productos
+    todosLosProductos.forEach(producto => {
+        const nombre = producto.getAttribute('data-nombre');
+        const categoria = producto.getAttribute('data-categoria');
+        
+        // Buscar en nombre y categoría
+        const coincide = nombre.includes(searchTerm) || categoria.includes(searchTerm);
+        
+        if (coincide) {
+            producto.style.display = 'block';
+            productosEncontrados++;
+            
+            // Resaltar el término de búsqueda
+            resaltarTermino(producto, searchTerm);
+        } else {
+            producto.style.display = 'none';
+        }
+    });
+    
+    // Mostrar información de resultados
+    if (productosEncontrados > 0) {
+        searchResultsInfo.style.display = 'block';
+        searchResultsText.textContent = `Se encontraron ${productosEncontrados} producto(s) para "${searchTerm}"`;
+        noResultados.style.display = 'none';
+        productosGrid.style.display = 'grid';
+    } else {
+        searchResultsInfo.style.display = 'none';
+        noResultados.style.display = 'block';
+        productosGrid.style.display = 'none';
+        document.getElementById('noResultadosTexto').textContent = `No se encontraron productos que coincidan con "${searchTerm}".`;
+    }
+}
+
+// Función para resaltar el término de búsqueda
+function resaltarTermino(producto, termino) {
+    const nombreElement = producto.querySelector('.producto-nombre');
+    const nombreOriginal = nombreElement.textContent;
+    
+    // Remover resaltado previo
+    nombreElement.innerHTML = nombreOriginal;
+    
+    // Aplicar nuevo resaltado
+    const regex = new RegExp(`(${termino})`, 'gi');
+    const nombreResaltado = nombreOriginal.replace(regex, '<mark style="background-color: #f1c40f; padding: 2px 4px; border-radius: 3px;">$1</mark>');
+    nombreElement.innerHTML = nombreResaltado;
+}
+
+// Función para limpiar la búsqueda
+function limpiarBusqueda() {
+    const searchInput = document.getElementById('searchInput');
+    const productosGrid = document.getElementById('productosGrid');
+    const noResultados = document.getElementById('noResultados');
+    const searchResultsInfo = document.getElementById('searchResultsInfo');
+    const btnClearSearch = document.querySelector('.btn-clear-search');
+    
+    // Limpiar input
+    searchInput.value = '';
+    
+    // Mostrar todos los productos
+    todosLosProductos.forEach(producto => {
+        producto.style.display = 'block';
+        
+        // Remover resaltado
+        const nombreElement = producto.querySelector('.producto-nombre');
+        nombreElement.innerHTML = nombreElement.textContent;
+    });
+    
+    // Ocultar elementos de búsqueda
+    searchResultsInfo.style.display = 'none';
+    noResultados.style.display = 'none';
+    productosGrid.style.display = 'grid';
+    btnClearSearch.style.display = 'none';
+    
+    busquedaActiva = false;
+}
+
+// Manejar Enter en el input de búsqueda
+function handleEnterKey(event) {
+    if (event.key === 'Enter') {
+        event.preventDefault();
+        buscarProductos();
+    }
+}
+
+// Funciones existentes (sin cambios)
 function abrirModalCrear() {
     document.getElementById('modalCrear').style.display = 'flex';
 }
@@ -272,57 +456,79 @@ function cerrarModal(modalId) {
 }
 
 function gestionarStock(id) {
+    document.getElementById('stockProductoId').value = id;
+    
     fetch(`<?= base_url('admin/obtener_producto/') ?>${id}`)
-    .then(response => response.json())
+    .then(response => {
+        if (!response.ok) throw new Error('Error en la respuesta');
+        return response.json();
+    })
     .then(data => {
-        if (data.error) {
-            alert('Error: ' + data.error);
-            return;
+        if (!data || data.error) {
+            throw new Error(data?.error || 'Datos inválidos');
         }
-        
+
         document.getElementById('stockProductoNombre').textContent = data.nombre;
-        document.getElementById('stockProductoId').value = id;
-        
         const stockGrid = document.getElementById('stockGrid');
         stockGrid.innerHTML = '';
-        
-        if (data.stock_detalle && data.stock_detalle.length > 0) {
-            data.stock_detalle.forEach(stock => {
-                const stockItem = document.createElement('div');
-                stockItem.className = 'stock-item';
-                stockItem.innerHTML = `
-                    <label for="stock_${stock.talle}">Talle ${stock.talle}</label>
-                    <input type="number" id="stock_${stock.talle}" name="stock[${stock.talle}]" 
-                           value="${stock.stock}" min="0" class="stock-input">
-                `;
-                stockGrid.appendChild(stockItem);
-            });
-        } else {
-            // Crear talles por defecto si no existen
-            let talles = ['XS', 'S', 'M', 'L', 'XL', 'XXL'];
 
-            if (data.categoria_nombre && data.categoria_nombre.toLowerCase() === 'kids') {
-                talles = ['8', '10', '12', '14'];
-            }
+        const esKids = (
+            data.id_categoria == 4 || 
+            data.debug_es_kids === true ||
+            (data.categoria_nombre && data.categoria_nombre.toLowerCase() === 'kids')
+        );
 
-            talles.forEach(talle => {
-                const stockItem = document.createElement('div');
-                stockItem.className = 'stock-item';
-                stockItem.innerHTML = `
-                    <label for="stock_${talle}">Talle ${talle}</label>
-                    <input type="number" id="stock_${talle}" name="stock[${talle}]" 
-                           value="0" min="0" class="stock-input">
-                `;
-                stockGrid.appendChild(stockItem);
-            });
-        }
-        
+        const tallesDisponibles = esKids ? ['8', '10', '12', '14'] : ['XS', 'S', 'M', 'L', 'XL', 'XXL'];
+
+        tallesDisponibles.forEach((talle) => {
+            const stockItem = document.createElement('div');
+            stockItem.className = 'stock-item';
+            
+            const stockExistente = data.stock_detalle?.find(s => String(s.talle) === String(talle));
+            const valorActual = stockExistente?.stock ?? 0;
+            
+            stockItem.innerHTML = `
+                <label for="stock_${talle}">Talle ${talle}</label>
+                <input type="number" 
+                       id="stock_${talle}" 
+                       name="stock[${talle}]" 
+                       value="${valorActual}" 
+                       min="0" 
+                       class="stock-input">
+                <small class="stock-help">Stock actual: ${valorActual}</small>
+            `;
+            stockGrid.appendChild(stockItem);
+        });
+
         document.getElementById('modalStock').style.display = 'flex';
     })
     .catch(error => {
-        console.error('Error:', error);
-        alert('Error al cargar los datos del producto');
+        alert('Error: ' + error.message);
     });
+}
+
+function resetearTodosLosStocks() {
+    const inputs = document.querySelectorAll('#stockGrid input[type="number"]');
+    inputs.forEach(input => {
+        input.value = 0;
+    });
+}
+
+function aplicarStockATodos() {
+    const valor = prompt('¿Qué cantidad quieres aplicar a todos los talles?', '0');
+    if (valor !== null && !isNaN(valor) && valor >= 0) {
+        const inputs = document.querySelectorAll('#stockGrid input[type="number"]');
+        inputs.forEach(input => {
+            input.value = parseInt(valor);
+        });
+    }
+}
+
+function toggleProducto(id, estadoActual) {
+    const accion = estadoActual ? 'desactivar' : 'activar';
+    if (confirm(`¿Estás seguro de ${accion} este producto?`)) {
+        window.location.href = `<?= base_url('admin/toggle_producto_activo/') ?>${id}`;
+    }
 }
 
 function editarProducto(id) {
@@ -334,14 +540,12 @@ function editarProducto(id) {
             return;
         }
         
-        // Llenar el formulario de edición
         document.getElementById('editar_id').value = data.id;
         document.getElementById('editar_nombre').value = data.nombre;
         document.getElementById('editar_precio').value = data.precio;
         document.getElementById('editar_descripcion').value = data.descripcion || '';
         document.getElementById('editar_categoria').value = data.id_categoria;
         
-        // Mostrar imagen actual si existe
         if (data.imagen) {
             document.getElementById('imagenActual').style.display = 'block';
             document.getElementById('imagenActualPreview').src = `<?= base_url('assets/img/productos/') ?>${data.imagen}`;
@@ -352,7 +556,6 @@ function editarProducto(id) {
         document.getElementById('modalEditar').style.display = 'flex';
     })
     .catch(error => {
-        console.error('Error:', error);
         alert('Error al cargar los datos del producto');
     });
 }
@@ -372,3 +575,238 @@ window.onclick = function(event) {
     });
 }
 </script>
+
+<style>
+/* Estilos existentes para stock */
+.stock-item {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background: #fafafa;
+}
+
+.stock-item label {
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #333;
+}
+
+.stock-input {
+    padding: 8px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    transition: border-color 0.3s;
+}
+
+.stock-input:focus {
+    border-color: #007bff;
+    outline: none;
+    box-shadow: 0 0 5px rgba(0,123,255,0.3);
+}
+
+.stock-help {
+    color: #666;
+    font-size: 12px;
+    margin-top: 3px;
+}
+
+.stock-actions {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.btn-sm {
+    padding: 5px 10px;
+    font-size: 12px;
+}
+
+/* NUEVOS ESTILOS PARA LA BÚSQUEDA */
+.search-container {
+    margin-bottom: 25px;
+}
+
+.search-card {
+    background: linear-gradient(135deg, #2c1810 0%, #8B0000 100%);
+    border-radius: 12px;
+    padding: 20px;
+    border: 1px solid #444;
+    box-shadow: 0 4px 15px rgba(139, 0, 0, 0.3);
+}
+
+.search-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.search-header h3 {
+    margin: 0;
+    color: #f1c40f;
+    font-size: 1.2rem;
+}
+
+.btn-clear-search {
+    background: #dc3545;
+    color: white;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 6px;
+    font-size: 12px;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.btn-clear-search:hover {
+    background: #c82333;
+    transform: translateY(-1px);
+}
+
+.search-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.search-input-group {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.search-input-group input {
+    flex: 1;
+    padding: 12px 15px;
+    border: 2px solid #555;
+    border-radius: 8px;
+    background-color: #1e1e1e;
+    color: #fff;
+    font-size: 16px;
+    transition: all 0.3s;
+}
+
+.search-input-group input:focus {
+    outline: none;
+    border-color: #f1c40f;
+    box-shadow: 0 0 10px rgba(241, 196, 15, 0.3);
+}
+
+.search-input-group input::placeholder {
+    color: #999;
+}
+
+.search-btn {
+    background: linear-gradient(135deg, #f1c40f 0%, #f39c12 100%);
+    color: #333;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    transition: all 0.3s;
+    min-width: 60px;
+}
+
+.search-btn:hover {
+    background: linear-gradient(135deg, #f39c12 0%, #e67e22 100%);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 15px rgba(241, 196, 15, 0.4);
+}
+
+.search-results-info {
+    background: rgba(241, 196, 15, 0.1);
+    border: 1px solid #f1c40f;
+    border-radius: 6px;
+    padding: 10px 15px;
+    color: #f1c40f;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+/* Estilos para cuando no hay resultados */
+.no-resultados {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 300px;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 12px;
+    border: 2px dashed #555;
+}
+
+.no-resultados-content {
+    text-align: center;
+    color: #ccc;
+    max-width: 400px;
+}
+
+.no-resultados-icon {
+    font-size: 4rem;
+    display: block;
+    margin-bottom: 20px;
+    opacity: 0.5;
+}
+
+.no-resultados-content h3 {
+    color: #f1c40f;
+    margin-bottom: 15px;
+    font-size: 1.5rem;
+}
+
+.no-resultados-content p {
+    margin-bottom: 20px;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+/* Estilos para resaltado de búsqueda */
+mark {
+    background-color: #f1c40f !important;
+    color: #333 !important;
+    padding: 2px 4px !important;
+    border-radius: 3px !important;
+    font-weight: bold !important;
+}
+
+/* Responsive para búsqueda */
+@media (max-width: 768px) {
+    .search-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px;
+    }
+    
+    .search-input-group {
+        flex-direction: column;
+    }
+    
+    .search-input-group input {
+        width: 100%;
+    }
+    
+    .search-btn {
+        width: 100%;
+    }
+}
+
+/* Animación para productos que aparecen/desaparecen */
+.producto-card {
+    transition: all 0.3s ease;
+}
+
+.producto-card[style*="display: none"] {
+    opacity: 0;
+    transform: scale(0.95);
+}
+
+.producto-card[style*="display: block"] {
+    opacity: 1;
+    transform: scale(1);
+}
+</style>

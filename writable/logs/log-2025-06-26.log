@@ -1,0 +1,1928 @@
+DEBUG - 2025-06-26 00:12:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 00:12:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 00:12:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 00:12:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 00:12:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 00:12:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 00:13:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 00:13:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 00:15:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 00:15:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 00:15:39 --> Consultas encontradas: 3
+DEBUG - 2025-06-26 00:15:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 00:15:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 00:15:47 --> Consultas encontradas: 3
+DEBUG - 2025-06-26 00:15:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 00:15:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 00:15:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 00:15:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 00:16:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 00:16:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 00:20:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 00:26:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 00:26:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 00:26:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 00:27:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 00:27:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 00:27:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 00:27:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 00:41:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 00:42:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 00:42:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 00:42:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 00:42:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 00:42:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 00:42:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 00:42:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 00:43:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 00:45:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 00:45:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 00:45:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 00:45:45 --> Cart Class Initialized
+DEBUG - 2025-06-26 00:55:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 00:55:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 00:55:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 00:55:20 --> Cart Class Initialized
+DEBUG - 2025-06-26 00:55:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 00:55:21 --> Cart Class Initialized
+DEBUG - 2025-06-26 00:55:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 00:55:46 --> Cart Class Initialized
+DEBUG - 2025-06-26 00:55:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 00:55:46 --> Cart Class Initialized
+DEBUG - 2025-06-26 00:55:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 00:55:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 00:55:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 00:55:57 --> Cart Class Initialized
+DEBUG - 2025-06-26 00:55:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 00:55:57 --> Cart Class Initialized
+DEBUG - 2025-06-26 00:56:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 00:56:53 --> Cart Class Initialized
+DEBUG - 2025-06-26 00:56:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 00:56:55 --> Cart Class Initialized
+CRITICAL - 2025-06-26 00:56:55 --> CodeIgniter\Exceptions\BadMethodCallException: Call to undefined method App\Models\ProductoTalle_model::restarStock
+[Method: POST, Route: guardar-venta]
+in SYSTEMPATH\Model.php on line 930.
+ 1 APPPATH\Controllers\Carrito_controller.php(136): CodeIgniter\Model->__call('restarStock', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Carrito_controller->guardar_venta()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Carrito_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-06-26 00:59:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 00:59:21 --> Cart Class Initialized
+DEBUG - 2025-06-26 00:59:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 00:59:21 --> Cart Class Initialized
+DEBUG - 2025-06-26 00:59:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 00:59:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 00:59:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 00:59:35 --> Cart Class Initialized
+DEBUG - 2025-06-26 00:59:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 00:59:35 --> Cart Class Initialized
+DEBUG - 2025-06-26 00:59:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 00:59:37 --> Cart Class Initialized
+DEBUG - 2025-06-26 00:59:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 00:59:37 --> Cart Class Initialized
+DEBUG - 2025-06-26 00:59:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 00:59:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 01:00:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 01:00:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 01:00:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 01:13:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 01:13:12 --> Cart Class Initialized
+DEBUG - 2025-06-26 01:13:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 01:13:12 --> Cart Class Initialized
+DEBUG - 2025-06-26 01:13:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 01:13:14 --> Cart Class Initialized
+DEBUG - 2025-06-26 01:13:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 01:13:14 --> Cart Class Initialized
+DEBUG - 2025-06-26 01:13:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 01:13:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-26 01:13:31 --> Error: Class "App\Controllers\ProductoTalle_model" not found
+[Method: POST, Route: admin/actualizar_stock]
+in APPPATH\Controllers\Admin.php on line 302.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->actualizar_stock()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-26 01:14:26 --> Error: Class "App\Controllers\ProductoTalle_model" not found
+[Method: POST, Route: admin/actualizar_stock]
+in APPPATH\Controllers\Admin.php on line 302.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->actualizar_stock()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-26 01:17:01 --> ErrorException: Undefined array key "producto_id"
+[Method: POST, Route: admin/actualizar_stock]
+in APPPATH\Models\ProductoStock_model.php on line 98.
+ 1 APPPATH\Models\ProductoStock_model.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "producto_id"', 'C:\\xampp\\htdocs\\MilCamisetas\\app\\Models\\ProductoStock_model.php', 98)
+ 2 SYSTEMPATH\BaseModel.php(1697): App\Models\ProductoStock_model->updateStockTotal([...])
+ 3 SYSTEMPATH\BaseModel.php(1031): CodeIgniter\BaseModel->trigger('afterUpdate', [...])
+ 4 SYSTEMPATH\Model.php(863): CodeIgniter\BaseModel->update([...], [...])
+ 5 APPPATH\Models\ProductoStock_model.php(38): CodeIgniter\Model->update('0', [...])
+ 6 APPPATH\Controllers\Admin.php(308): App\Models\ProductoStock_model->actualizarStock('25', 8, 2)
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->actualizar_stock()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-06-26 01:20:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-26 01:20:18 --> ErrorException: Undefined array key "producto_id"
+[Method: POST, Route: admin/actualizar_stock]
+in APPPATH\Models\ProductoStock_model.php on line 98.
+ 1 APPPATH\Models\ProductoStock_model.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "producto_id"', 'C:\\xampp\\htdocs\\MilCamisetas\\app\\Models\\ProductoStock_model.php', 98)
+ 2 SYSTEMPATH\BaseModel.php(1697): App\Models\ProductoStock_model->updateStockTotal([...])
+ 3 SYSTEMPATH\BaseModel.php(1031): CodeIgniter\BaseModel->trigger('afterUpdate', [...])
+ 4 SYSTEMPATH\Model.php(863): CodeIgniter\BaseModel->update([...], [...])
+ 5 APPPATH\Models\ProductoStock_model.php(38): CodeIgniter\Model->update('0', [...])
+ 6 APPPATH\Controllers\Admin.php(308): App\Models\ProductoStock_model->actualizarStock('25', 8, 3)
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->actualizar_stock()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-06-26 01:20:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-26 01:20:31 --> ErrorException: Undefined array key "producto_id"
+[Method: POST, Route: admin/actualizar_stock]
+in APPPATH\Models\ProductoStock_model.php on line 98.
+ 1 APPPATH\Models\ProductoStock_model.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "producto_id"', 'C:\\xampp\\htdocs\\MilCamisetas\\app\\Models\\ProductoStock_model.php', 98)
+ 2 SYSTEMPATH\BaseModel.php(1697): App\Models\ProductoStock_model->updateStockTotal([...])
+ 3 SYSTEMPATH\BaseModel.php(1031): CodeIgniter\BaseModel->trigger('afterUpdate', [...])
+ 4 SYSTEMPATH\Model.php(863): CodeIgniter\BaseModel->update([...], [...])
+ 5 APPPATH\Models\ProductoStock_model.php(38): CodeIgniter\Model->update('0', [...])
+ 6 APPPATH\Controllers\Admin.php(308): App\Models\ProductoStock_model->actualizarStock('25', 8, 3)
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->actualizar_stock()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-06-26 01:21:20 --> ErrorException: Undefined array key "producto_id"
+[Method: POST, Route: admin/actualizar_stock]
+in APPPATH\Models\ProductoStock_model.php on line 98.
+ 1 APPPATH\Models\ProductoStock_model.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "producto_id"', 'C:\\xampp\\htdocs\\MilCamisetas\\app\\Models\\ProductoStock_model.php', 98)
+ 2 SYSTEMPATH\BaseModel.php(1697): App\Models\ProductoStock_model->updateStockTotal([...])
+ 3 SYSTEMPATH\BaseModel.php(1031): CodeIgniter\BaseModel->trigger('afterUpdate', [...])
+ 4 SYSTEMPATH\Model.php(863): CodeIgniter\BaseModel->update([...], [...])
+ 5 APPPATH\Models\ProductoStock_model.php(38): CodeIgniter\Model->update('58', [...])
+ 6 APPPATH\Controllers\Admin.php(308): App\Models\ProductoStock_model->actualizarStock('14', 'S', 8)
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->actualizar_stock()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-06-26 01:24:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 01:24:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 01:24:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 01:24:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 01:24:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 01:24:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 01:25:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 01:25:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 01:26:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-06-26 01:27:05 --> Error al actualizar stock: Undefined array key "producto_id"
+DEBUG - 2025-06-26 01:27:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 01:27:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-06-26 01:27:16 --> Error al actualizar stock: Undefined array key "producto_id"
+DEBUG - 2025-06-26 01:27:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 01:27:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 01:28:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 01:28:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 01:28:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 01:28:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 01:28:12 --> Cart Class Initialized
+DEBUG - 2025-06-26 01:28:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 01:28:13 --> Cart Class Initialized
+DEBUG - 2025-06-26 01:28:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 01:28:14 --> Cart Class Initialized
+DEBUG - 2025-06-26 01:28:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 01:28:14 --> Cart Class Initialized
+DEBUG - 2025-06-26 01:28:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 01:28:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 01:28:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 01:35:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-06-26 01:35:53 --> Error actualizando stock: Undefined array key "producto_id"
+DEBUG - 2025-06-26 01:35:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 01:35:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 01:35:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-06-26 01:36:07 --> Error actualizando stock: Undefined array key "producto_id"
+DEBUG - 2025-06-26 01:36:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 01:36:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 01:38:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-06-26 01:38:30 --> Error actualizando stock: Undefined array key "producto_id"
+DEBUG - 2025-06-26 01:38:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 01:38:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 01:41:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 01:41:08 --> Cart Class Initialized
+DEBUG - 2025-06-26 01:41:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 01:41:08 --> Cart Class Initialized
+DEBUG - 2025-06-26 01:41:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 01:41:10 --> Cart Class Initialized
+DEBUG - 2025-06-26 01:41:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 01:41:10 --> Cart Class Initialized
+DEBUG - 2025-06-26 01:41:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 01:41:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 01:57:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 01:57:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 01:57:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 01:58:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 01:58:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 01:58:07 --> Cart Class Initialized
+DEBUG - 2025-06-26 01:58:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 01:58:07 --> Cart Class Initialized
+DEBUG - 2025-06-26 01:58:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 01:58:08 --> Cart Class Initialized
+CRITICAL - 2025-06-26 01:58:08 --> CodeIgniter\Exceptions\BadMethodCallException: Call to undefined method App\Models\ProductoTalle_model::restarStock
+[Method: POST, Route: guardar-venta]
+in SYSTEMPATH\Model.php on line 930.
+ 1 APPPATH\Controllers\Carrito_controller.php(136): CodeIgniter\Model->__call('restarStock', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Carrito_controller->guardar_venta()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Carrito_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-06-26 02:00:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 02:00:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 02:00:47 --> Cart Class Initialized
+DEBUG - 2025-06-26 02:00:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 02:00:54 --> Cart Class Initialized
+CRITICAL - 2025-06-26 02:00:54 --> CodeIgniter\Exceptions\BadMethodCallException: Call to undefined method App\Models\ProductoTalle_model::restarStock
+[Method: POST, Route: guardar-venta]
+in SYSTEMPATH\Model.php on line 930.
+ 1 APPPATH\Controllers\Carrito_controller.php(136): CodeIgniter\Model->__call('restarStock', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Carrito_controller->guardar_venta()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Carrito_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-06-26 02:01:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-26 02:01:08 --> ParseError: syntax error, unexpected token "endif", expecting end of file
+[Method: GET, Route: admin/gestionar_productos]
+in APPPATH\Views\gestionar_productos.php on line 35.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('gestionar_productos', [], true)
+ 3 APPPATH\Controllers\Admin.php(207): view('gestionar_productos')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->gestionar_productos()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-06-26 02:01:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-26 02:01:10 --> ParseError: syntax error, unexpected token "endif", expecting end of file
+[Method: GET, Route: admin/gestionar_productos]
+in APPPATH\Views\gestionar_productos.php on line 35.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('gestionar_productos', [], true)
+ 3 APPPATH\Controllers\Admin.php(207): view('gestionar_productos')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->gestionar_productos()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-06-26 02:01:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 02:01:14 --> Cart Class Initialized
+DEBUG - 2025-06-26 02:01:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-26 02:01:17 --> ParseError: syntax error, unexpected token "endif", expecting end of file
+[Method: GET, Route: admin/gestionar_productos]
+in APPPATH\Views\gestionar_productos.php on line 35.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('gestionar_productos', [], true)
+ 3 APPPATH\Controllers\Admin.php(207): view('gestionar_productos')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->gestionar_productos()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-06-26 02:01:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-26 02:01:17 --> ParseError: syntax error, unexpected token "endif", expecting end of file
+[Method: GET, Route: admin/gestionar_productos]
+in APPPATH\Views\gestionar_productos.php on line 35.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('gestionar_productos', [], true)
+ 3 APPPATH\Controllers\Admin.php(207): view('gestionar_productos')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->gestionar_productos()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-06-26 02:01:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-26 02:01:18 --> ParseError: syntax error, unexpected token "endif", expecting end of file
+[Method: GET, Route: admin/gestionar_productos]
+in APPPATH\Views\gestionar_productos.php on line 35.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('gestionar_productos', [], true)
+ 3 APPPATH\Controllers\Admin.php(207): view('gestionar_productos')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->gestionar_productos()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-06-26 02:01:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 02:01:22 --> Cart Class Initialized
+CRITICAL - 2025-06-26 02:01:22 --> CodeIgniter\Exceptions\BadMethodCallException: Call to undefined method App\Models\ProductoTalle_model::restarStock
+[Method: POST, Route: guardar-venta]
+in SYSTEMPATH\Model.php on line 930.
+ 1 APPPATH\Controllers\Carrito_controller.php(136): CodeIgniter\Model->__call('restarStock', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Carrito_controller->guardar_venta()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Carrito_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-06-26 02:01:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 02:01:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 02:01:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 02:01:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-26 02:01:31 --> ParseError: syntax error, unexpected token "endif", expecting end of file
+[Method: GET, Route: admin/gestionar_productos]
+in APPPATH\Views\gestionar_productos.php on line 35.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('gestionar_productos', [], true)
+ 3 APPPATH\Controllers\Admin.php(207): view('gestionar_productos')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->gestionar_productos()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-06-26 02:01:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-26 02:01:36 --> ParseError: syntax error, unexpected token "endif", expecting end of file
+[Method: GET, Route: admin/gestionar_productos]
+in APPPATH\Views\gestionar_productos.php on line 35.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('gestionar_productos', [], true)
+ 3 APPPATH\Controllers\Admin.php(207): view('gestionar_productos')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->gestionar_productos()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-06-26 02:01:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 02:01:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 02:01:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 02:20:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-06-26 02:20:37 --> Error actualizando stock: Call to undefined method App\Models\ProductoTalle_model::verificarIntegridad
+DEBUG - 2025-06-26 02:20:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 02:20:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-06-26 02:20:46 --> Error actualizando stock: Call to undefined method App\Models\ProductoTalle_model::verificarIntegridad
+DEBUG - 2025-06-26 02:20:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 02:20:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 02:27:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 02:27:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 02:27:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 02:27:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 02:28:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 02:28:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 02:28:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 02:28:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 02:28:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 02:28:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 02:28:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 02:29:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 02:29:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 02:29:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 02:29:41 --> Cart Class Initialized
+DEBUG - 2025-06-26 02:29:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 02:29:41 --> Cart Class Initialized
+DEBUG - 2025-06-26 02:29:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 02:29:43 --> Cart Class Initialized
+DEBUG - 2025-06-26 02:29:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 02:29:43 --> Cart Class Initialized
+DEBUG - 2025-06-26 02:29:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 02:29:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 02:29:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:04:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:04:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:04:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:04:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:04:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:05:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:05:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:10:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:10:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:10:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 03:17:18 --> 🚀 Iniciando actualización de stock
+INFO - 2025-06-26 03:17:18 --> POST data: {"csrf_test_name":"ce24e9fca9aec9f68deee96d298dadef","producto_id":"25","stock":{"8":"3","10":"2","12":"2","14":"2"}}
+INFO - 2025-06-26 03:17:18 --> 📦 Producto ID: 25
+INFO - 2025-06-26 03:17:18 --> 📊 Stocks recibidos: {"8":"3","10":"2","12":"2","14":"2"}
+INFO - 2025-06-26 03:17:18 --> 🏷️ Producto: BOCA 2025 - JANSON
+INFO - 2025-06-26 03:17:18 --> 📂 Categoría: Kids
+INFO - 2025-06-26 03:17:18 --> 🧹 Registros problemáticos eliminados: 1
+INFO - 2025-06-26 03:17:18 --> 👶 Es producto Kids - creando talles si no existen
+INFO - 2025-06-26 03:17:18 --> 📏 Procesando talle: '8' con cantidad: '3'
+INFO - 2025-06-26 03:17:18 --> ✅ Talle 8 actualizado a 3 - Resultado: 1
+INFO - 2025-06-26 03:17:18 --> 📏 Procesando talle: '10' con cantidad: '2'
+ERROR - 2025-06-26 03:17:18 --> ❌ No se pudo actualizar talle 10
+INFO - 2025-06-26 03:17:18 --> 📏 Procesando talle: '12' con cantidad: '2'
+ERROR - 2025-06-26 03:17:18 --> ❌ No se pudo actualizar talle 12
+INFO - 2025-06-26 03:17:18 --> 📏 Procesando talle: '14' con cantidad: '2'
+ERROR - 2025-06-26 03:17:18 --> ❌ No se pudo actualizar talle 14
+INFO - 2025-06-26 03:17:18 --> 📊 Actualizaciones exitosas: 1
+INFO - 2025-06-26 03:17:18 --> ❌ Errores individuales: 3
+INFO - 2025-06-26 03:17:18 --> 📈 Nuevo stock total calculado: 12
+INFO - 2025-06-26 03:17:18 --> 📋 Stock final: [{"id":"0","producto_id":"25","talle":"8","stock":"3"},{"id":"0","producto_id":"25","talle":"10","stock":"3"},{"id":"0","producto_id":"25","talle":"12","stock":"3"},{"id":"0","producto_id":"25","talle":"14","stock":"3"}]
+DEBUG - 2025-06-26 03:17:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:17:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 03:17:30 --> 🚀 Iniciando actualización de stock
+INFO - 2025-06-26 03:17:30 --> POST data: {"csrf_test_name":"ce24e9fca9aec9f68deee96d298dadef","producto_id":"25","stock":{"8":"2","10":"2","12":"2","14":"2"}}
+INFO - 2025-06-26 03:17:30 --> 📦 Producto ID: 25
+INFO - 2025-06-26 03:17:30 --> 📊 Stocks recibidos: {"8":"2","10":"2","12":"2","14":"2"}
+INFO - 2025-06-26 03:17:30 --> 🏷️ Producto: BOCA 2025 - JANSON
+INFO - 2025-06-26 03:17:30 --> 📂 Categoría: Kids
+INFO - 2025-06-26 03:17:30 --> 🧹 Registros problemáticos eliminados: 1
+INFO - 2025-06-26 03:17:30 --> 👶 Es producto Kids - creando talles si no existen
+INFO - 2025-06-26 03:17:30 --> 📏 Procesando talle: '8' con cantidad: '2'
+INFO - 2025-06-26 03:17:30 --> ✅ Talle 8 actualizado a 2 - Resultado: 1
+INFO - 2025-06-26 03:17:30 --> 📏 Procesando talle: '10' con cantidad: '2'
+ERROR - 2025-06-26 03:17:30 --> ❌ No se pudo actualizar talle 10
+INFO - 2025-06-26 03:17:30 --> 📏 Procesando talle: '12' con cantidad: '2'
+ERROR - 2025-06-26 03:17:30 --> ❌ No se pudo actualizar talle 12
+INFO - 2025-06-26 03:17:30 --> 📏 Procesando talle: '14' con cantidad: '2'
+ERROR - 2025-06-26 03:17:30 --> ❌ No se pudo actualizar talle 14
+INFO - 2025-06-26 03:17:30 --> 📊 Actualizaciones exitosas: 1
+INFO - 2025-06-26 03:17:30 --> ❌ Errores individuales: 3
+INFO - 2025-06-26 03:17:30 --> 📈 Nuevo stock total calculado: 8
+INFO - 2025-06-26 03:17:30 --> 📋 Stock final: [{"id":"0","producto_id":"25","talle":"8","stock":"2"},{"id":"0","producto_id":"25","talle":"10","stock":"2"},{"id":"0","producto_id":"25","talle":"12","stock":"2"},{"id":"0","producto_id":"25","talle":"14","stock":"2"}]
+DEBUG - 2025-06-26 03:17:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:17:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 03:17:39 --> 🚀 Iniciando actualización de stock
+INFO - 2025-06-26 03:17:39 --> POST data: {"csrf_test_name":"ce24e9fca9aec9f68deee96d298dadef","producto_id":"25","stock":{"8":"4","10":"2","12":"2","14":"2"}}
+INFO - 2025-06-26 03:17:39 --> 📦 Producto ID: 25
+INFO - 2025-06-26 03:17:39 --> 📊 Stocks recibidos: {"8":"4","10":"2","12":"2","14":"2"}
+INFO - 2025-06-26 03:17:39 --> 🏷️ Producto: BOCA 2025 - JANSON
+INFO - 2025-06-26 03:17:39 --> 📂 Categoría: Kids
+INFO - 2025-06-26 03:17:39 --> 🧹 Registros problemáticos eliminados: 1
+INFO - 2025-06-26 03:17:39 --> 👶 Es producto Kids - creando talles si no existen
+INFO - 2025-06-26 03:17:39 --> 📏 Procesando talle: '8' con cantidad: '4'
+INFO - 2025-06-26 03:17:39 --> ✅ Talle 8 actualizado a 4 - Resultado: 1
+INFO - 2025-06-26 03:17:39 --> 📏 Procesando talle: '10' con cantidad: '2'
+ERROR - 2025-06-26 03:17:39 --> ❌ No se pudo actualizar talle 10
+INFO - 2025-06-26 03:17:39 --> 📏 Procesando talle: '12' con cantidad: '2'
+ERROR - 2025-06-26 03:17:39 --> ❌ No se pudo actualizar talle 12
+INFO - 2025-06-26 03:17:39 --> 📏 Procesando talle: '14' con cantidad: '2'
+ERROR - 2025-06-26 03:17:39 --> ❌ No se pudo actualizar talle 14
+INFO - 2025-06-26 03:17:39 --> 📊 Actualizaciones exitosas: 1
+INFO - 2025-06-26 03:17:39 --> ❌ Errores individuales: 3
+INFO - 2025-06-26 03:17:39 --> 📈 Nuevo stock total calculado: 16
+INFO - 2025-06-26 03:17:39 --> 📋 Stock final: [{"id":"0","producto_id":"25","talle":"8","stock":"4"},{"id":"0","producto_id":"25","talle":"10","stock":"4"},{"id":"0","producto_id":"25","talle":"12","stock":"4"},{"id":"0","producto_id":"25","talle":"14","stock":"4"}]
+DEBUG - 2025-06-26 03:17:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:17:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:25:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 03:25:31 --> 🚀 Iniciando actualización de stock
+INFO - 2025-06-26 03:25:31 --> POST data: {"csrf_test_name":"ce24e9fca9aec9f68deee96d298dadef","producto_id":"25","stock":{"8":"5","10":"4","12":"4","14":"4"}}
+INFO - 2025-06-26 03:25:31 --> 📦 Producto ID: 25
+INFO - 2025-06-26 03:25:31 --> 📊 Stocks recibidos: {"8":"5","10":"4","12":"4","14":"4"}
+INFO - 2025-06-26 03:25:31 --> 🏷️ Producto: BOCA 2025 - JANSON
+INFO - 2025-06-26 03:25:31 --> 📂 Categoría: Kids
+INFO - 2025-06-26 03:25:31 --> 🧹 Limpiando talles problemáticos para producto 25
+INFO - 2025-06-26 03:25:31 --> 🧹 Registros problemáticos eliminados: 1
+INFO - 2025-06-26 03:25:31 --> 🧹 Registros problemáticos eliminados: 1
+INFO - 2025-06-26 03:25:31 --> 👶 Es producto Kids - creando talles si no existen
+INFO - 2025-06-26 03:25:31 --> 👶 Creando talles Kids para producto 25
+INFO - 2025-06-26 03:25:31 --> 👶 Talle 8 creado - Resultado: 0
+INFO - 2025-06-26 03:25:31 --> 👶 Talle 10 creado - Resultado: 0
+INFO - 2025-06-26 03:25:31 --> 👶 Talle 12 creado - Resultado: 0
+INFO - 2025-06-26 03:25:31 --> 👶 Talle 14 creado - Resultado: 0
+INFO - 2025-06-26 03:25:31 --> 👶 Total talles Kids creados: 0
+INFO - 2025-06-26 03:25:31 --> 📏 Procesando talle: '8' con cantidad: '5'
+INFO - 2025-06-26 03:25:31 --> 🔧 actualizarStock() - Producto: 25, Talle: '8', Stock: 5
+INFO - 2025-06-26 03:25:31 --> 🔍 Registro existente encontrado: {"id":"0","producto_id":"25","talle":"14","stock":"0"}
+INFO - 2025-06-26 03:25:31 --> ✏️ Actualizando registro ID 0 - Resultado: 1
+INFO - 2025-06-26 03:25:31 --> ✅ Verificación post-actualización: {"id":"0","producto_id":"26","talle":"8","stock":"5"}
+INFO - 2025-06-26 03:25:31 --> 📊 Calculando stock total para producto 25
+INFO - 2025-06-26 03:25:31 --> 📈 Stock total calculado: 20
+INFO - 2025-06-26 03:25:31 --> 📝 Actualización tabla productos: 1
+INFO - 2025-06-26 03:25:31 --> ✅ Talle 8 actualizado a 5 - Resultado: 1
+INFO - 2025-06-26 03:25:31 --> 📏 Procesando talle: '10' con cantidad: '4'
+INFO - 2025-06-26 03:25:31 --> 🔧 actualizarStock() - Producto: 25, Talle: '10', Stock: 4
+INFO - 2025-06-26 03:25:31 --> 🔍 Registro existente encontrado: null
+INFO - 2025-06-26 03:25:31 --> ➕ Insertando nuevo registro - Resultado: 0
+ERROR - 2025-06-26 03:25:31 --> ❌ No se pudo actualizar talle 10
+INFO - 2025-06-26 03:25:31 --> 📏 Procesando talle: '12' con cantidad: '4'
+INFO - 2025-06-26 03:25:31 --> 🔧 actualizarStock() - Producto: 25, Talle: '12', Stock: 4
+INFO - 2025-06-26 03:25:31 --> 🔍 Registro existente encontrado: null
+INFO - 2025-06-26 03:25:31 --> ➕ Insertando nuevo registro - Resultado: 0
+ERROR - 2025-06-26 03:25:31 --> ❌ No se pudo actualizar talle 12
+INFO - 2025-06-26 03:25:31 --> 📏 Procesando talle: '14' con cantidad: '4'
+INFO - 2025-06-26 03:25:31 --> 🔧 actualizarStock() - Producto: 25, Talle: '14', Stock: 4
+INFO - 2025-06-26 03:25:31 --> 🔍 Registro existente encontrado: null
+INFO - 2025-06-26 03:25:31 --> ➕ Insertando nuevo registro - Resultado: 0
+ERROR - 2025-06-26 03:25:31 --> ❌ No se pudo actualizar talle 14
+INFO - 2025-06-26 03:25:31 --> 📊 Actualizaciones exitosas: 1
+INFO - 2025-06-26 03:25:31 --> ❌ Errores individuales: 3
+INFO - 2025-06-26 03:25:31 --> 📊 Calculando stock total para producto 25
+INFO - 2025-06-26 03:25:31 --> 📈 Stock total calculado: 20
+INFO - 2025-06-26 03:25:31 --> 📝 Actualización tabla productos: 1
+INFO - 2025-06-26 03:25:31 --> 📈 Nuevo stock total calculado: 20
+INFO - 2025-06-26 03:25:31 --> 📋 Stock final: [{"id":"0","producto_id":"25","talle":"8","stock":"5"},{"id":"0","producto_id":"25","talle":"10","stock":"5"},{"id":"0","producto_id":"25","talle":"12","stock":"5"},{"id":"0","producto_id":"25","talle":"14","stock":"5"}]
+DEBUG - 2025-06-26 03:25:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:25:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 03:31:05 --> 🚀 Iniciando actualización de stock
+INFO - 2025-06-26 03:31:05 --> POST data: {"csrf_test_name":"ce24e9fca9aec9f68deee96d298dadef","producto_id":"1","stock":{"XS":"0","S":"0","M":"0","L":"1","XL":"0","XXL":"0"}}
+INFO - 2025-06-26 03:31:05 --> 📦 Producto ID: 1
+INFO - 2025-06-26 03:31:05 --> 📊 Stocks recibidos: {"XS":"0","S":"0","M":"0","L":"1","XL":"0","XXL":"0"}
+INFO - 2025-06-26 03:31:05 --> 🏷️ Producto: BARCELONA 2011 - MESSI
+INFO - 2025-06-26 03:31:05 --> 📂 Categoría: Retro
+INFO - 2025-06-26 03:31:05 --> 🧹 Limpiando talles problemáticos para producto 1
+INFO - 2025-06-26 03:31:05 --> 🧹 Registros problemáticos eliminados: 1
+INFO - 2025-06-26 03:31:05 --> 🧹 Registros problemáticos eliminados: 1
+INFO - 2025-06-26 03:31:05 --> 📏 Procesando talle: 'XS' con cantidad: '0'
+INFO - 2025-06-26 03:31:05 --> 🔧 actualizarStock() - Producto: 1, Talle: 'XS', Stock: 0
+INFO - 2025-06-26 03:31:05 --> 🔍 Registro existente encontrado: null
+INFO - 2025-06-26 03:31:05 --> ➕ Insertando nuevo registro - Resultado: 0
+ERROR - 2025-06-26 03:31:05 --> ❌ No se pudo actualizar talle XS
+INFO - 2025-06-26 03:31:05 --> 📏 Procesando talle: 'S' con cantidad: '0'
+INFO - 2025-06-26 03:31:05 --> 🔧 actualizarStock() - Producto: 1, Talle: 'S', Stock: 0
+INFO - 2025-06-26 03:31:05 --> 🔍 Registro existente encontrado: null
+INFO - 2025-06-26 03:31:05 --> ➕ Insertando nuevo registro - Resultado: 0
+ERROR - 2025-06-26 03:31:05 --> ❌ No se pudo actualizar talle S
+INFO - 2025-06-26 03:31:05 --> 📏 Procesando talle: 'M' con cantidad: '0'
+INFO - 2025-06-26 03:31:05 --> 🔧 actualizarStock() - Producto: 1, Talle: 'M', Stock: 0
+INFO - 2025-06-26 03:31:05 --> 🔍 Registro existente encontrado: null
+INFO - 2025-06-26 03:31:05 --> ➕ Insertando nuevo registro - Resultado: 0
+ERROR - 2025-06-26 03:31:05 --> ❌ No se pudo actualizar talle M
+INFO - 2025-06-26 03:31:05 --> 📏 Procesando talle: 'L' con cantidad: '1'
+INFO - 2025-06-26 03:31:05 --> 🔧 actualizarStock() - Producto: 1, Talle: 'L', Stock: 1
+INFO - 2025-06-26 03:31:05 --> 🔍 Registro existente encontrado: null
+INFO - 2025-06-26 03:31:05 --> ➕ Insertando nuevo registro - Resultado: 0
+ERROR - 2025-06-26 03:31:05 --> ❌ No se pudo actualizar talle L
+INFO - 2025-06-26 03:31:05 --> 📏 Procesando talle: 'XL' con cantidad: '0'
+INFO - 2025-06-26 03:31:05 --> 🔧 actualizarStock() - Producto: 1, Talle: 'XL', Stock: 0
+INFO - 2025-06-26 03:31:05 --> 🔍 Registro existente encontrado: null
+INFO - 2025-06-26 03:31:05 --> ➕ Insertando nuevo registro - Resultado: 0
+ERROR - 2025-06-26 03:31:05 --> ❌ No se pudo actualizar talle XL
+INFO - 2025-06-26 03:31:05 --> 📏 Procesando talle: 'XXL' con cantidad: '0'
+INFO - 2025-06-26 03:31:05 --> 🔧 actualizarStock() - Producto: 1, Talle: 'XXL', Stock: 0
+INFO - 2025-06-26 03:31:05 --> 🔍 Registro existente encontrado: null
+INFO - 2025-06-26 03:31:05 --> ➕ Insertando nuevo registro - Resultado: 0
+ERROR - 2025-06-26 03:31:05 --> ❌ No se pudo actualizar talle XXL
+INFO - 2025-06-26 03:31:05 --> 📊 Actualizaciones exitosas: 0
+INFO - 2025-06-26 03:31:05 --> ❌ Errores individuales: 6
+ERROR - 2025-06-26 03:31:05 --> 💥 Error crítico actualizando stock: No se pudo actualizar ningún talle. Errores: No se pudo actualizar talle XS, No se pudo actualizar talle S, No se pudo actualizar talle M, No se pudo actualizar talle L, No se pudo actualizar talle XL, No se pudo actualizar talle XXL
+ERROR - 2025-06-26 03:31:05 --> Stack trace: #0 C:\xampp\htdocs\MilCamisetas\system\CodeIgniter.php(933): App\Controllers\Admin->actualizar_stock()
+#1 C:\xampp\htdocs\MilCamisetas\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\xampp\htdocs\MilCamisetas\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\MilCamisetas\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\MilCamisetas\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#5 C:\xampp\htdocs\MilCamisetas\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#6 {main}
+DEBUG - 2025-06-26 03:31:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:31:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 03:31:22 --> 🚀 Iniciando actualización de stock
+INFO - 2025-06-26 03:31:22 --> POST data: {"csrf_test_name":"ce24e9fca9aec9f68deee96d298dadef","producto_id":"14","stock":{"XS":"0","S":"9","M":"21","L":"10","XL":"3","XXL":"0"}}
+INFO - 2025-06-26 03:31:22 --> 📦 Producto ID: 14
+INFO - 2025-06-26 03:31:22 --> 📊 Stocks recibidos: {"XS":"0","S":"9","M":"21","L":"10","XL":"3","XXL":"0"}
+INFO - 2025-06-26 03:31:22 --> 🏷️ Producto: BRASIL 2002 - RONALDO
+INFO - 2025-06-26 03:31:22 --> 📂 Categoría: Selecciones
+INFO - 2025-06-26 03:31:22 --> 🧹 Limpiando talles problemáticos para producto 14
+INFO - 2025-06-26 03:31:22 --> 🧹 Registros problemáticos eliminados: 1
+INFO - 2025-06-26 03:31:22 --> 🧹 Registros problemáticos eliminados: 1
+INFO - 2025-06-26 03:31:22 --> 📏 Procesando talle: 'XS' con cantidad: '0'
+INFO - 2025-06-26 03:31:22 --> 🔧 actualizarStock() - Producto: 14, Talle: 'XS', Stock: 0
+INFO - 2025-06-26 03:31:22 --> 🔍 Registro existente encontrado: null
+INFO - 2025-06-26 03:31:22 --> ➕ Insertando nuevo registro - Resultado: 0
+ERROR - 2025-06-26 03:31:22 --> ❌ No se pudo actualizar talle XS
+INFO - 2025-06-26 03:31:22 --> 📏 Procesando talle: 'S' con cantidad: '9'
+INFO - 2025-06-26 03:31:23 --> 🔧 actualizarStock() - Producto: 14, Talle: 'S', Stock: 9
+INFO - 2025-06-26 03:31:23 --> 🔍 Registro existente encontrado: null
+INFO - 2025-06-26 03:31:23 --> ➕ Insertando nuevo registro - Resultado: 0
+ERROR - 2025-06-26 03:31:23 --> ❌ No se pudo actualizar talle S
+INFO - 2025-06-26 03:31:23 --> 📏 Procesando talle: 'M' con cantidad: '21'
+INFO - 2025-06-26 03:31:23 --> 🔧 actualizarStock() - Producto: 14, Talle: 'M', Stock: 21
+INFO - 2025-06-26 03:31:23 --> 🔍 Registro existente encontrado: null
+INFO - 2025-06-26 03:31:23 --> ➕ Insertando nuevo registro - Resultado: 0
+ERROR - 2025-06-26 03:31:23 --> ❌ No se pudo actualizar talle M
+INFO - 2025-06-26 03:31:23 --> 📏 Procesando talle: 'L' con cantidad: '10'
+INFO - 2025-06-26 03:31:23 --> 🔧 actualizarStock() - Producto: 14, Talle: 'L', Stock: 10
+INFO - 2025-06-26 03:31:23 --> 🔍 Registro existente encontrado: null
+INFO - 2025-06-26 03:31:23 --> ➕ Insertando nuevo registro - Resultado: 0
+ERROR - 2025-06-26 03:31:23 --> ❌ No se pudo actualizar talle L
+INFO - 2025-06-26 03:31:23 --> 📏 Procesando talle: 'XL' con cantidad: '3'
+INFO - 2025-06-26 03:31:23 --> 🔧 actualizarStock() - Producto: 14, Talle: 'XL', Stock: 3
+INFO - 2025-06-26 03:31:23 --> 🔍 Registro existente encontrado: null
+INFO - 2025-06-26 03:31:23 --> ➕ Insertando nuevo registro - Resultado: 0
+ERROR - 2025-06-26 03:31:23 --> ❌ No se pudo actualizar talle XL
+INFO - 2025-06-26 03:31:23 --> 📏 Procesando talle: 'XXL' con cantidad: '0'
+INFO - 2025-06-26 03:31:23 --> 🔧 actualizarStock() - Producto: 14, Talle: 'XXL', Stock: 0
+INFO - 2025-06-26 03:31:23 --> 🔍 Registro existente encontrado: null
+INFO - 2025-06-26 03:31:23 --> ➕ Insertando nuevo registro - Resultado: 0
+ERROR - 2025-06-26 03:31:23 --> ❌ No se pudo actualizar talle XXL
+INFO - 2025-06-26 03:31:23 --> 📊 Actualizaciones exitosas: 0
+INFO - 2025-06-26 03:31:23 --> ❌ Errores individuales: 6
+ERROR - 2025-06-26 03:31:23 --> 💥 Error crítico actualizando stock: No se pudo actualizar ningún talle. Errores: No se pudo actualizar talle XS, No se pudo actualizar talle S, No se pudo actualizar talle M, No se pudo actualizar talle L, No se pudo actualizar talle XL, No se pudo actualizar talle XXL
+ERROR - 2025-06-26 03:31:23 --> Stack trace: #0 C:\xampp\htdocs\MilCamisetas\system\CodeIgniter.php(933): App\Controllers\Admin->actualizar_stock()
+#1 C:\xampp\htdocs\MilCamisetas\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\xampp\htdocs\MilCamisetas\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\MilCamisetas\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\MilCamisetas\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#5 C:\xampp\htdocs\MilCamisetas\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#6 {main}
+DEBUG - 2025-06-26 03:31:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:31:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 03:31:30 --> 🚀 Iniciando actualización de stock
+INFO - 2025-06-26 03:31:30 --> POST data: {"csrf_test_name":"ce24e9fca9aec9f68deee96d298dadef","producto_id":"14","stock":{"XS":"0","S":"9","M":"21","L":"10","XL":"3","XXL":"0"}}
+INFO - 2025-06-26 03:31:30 --> 📦 Producto ID: 14
+INFO - 2025-06-26 03:31:30 --> 📊 Stocks recibidos: {"XS":"0","S":"9","M":"21","L":"10","XL":"3","XXL":"0"}
+INFO - 2025-06-26 03:31:30 --> 🏷️ Producto: BRASIL 2002 - RONALDO
+INFO - 2025-06-26 03:31:30 --> 📂 Categoría: Selecciones
+INFO - 2025-06-26 03:31:30 --> 🧹 Limpiando talles problemáticos para producto 14
+INFO - 2025-06-26 03:31:30 --> 🧹 Registros problemáticos eliminados: 1
+INFO - 2025-06-26 03:31:30 --> 🧹 Registros problemáticos eliminados: 1
+INFO - 2025-06-26 03:31:30 --> 📏 Procesando talle: 'XS' con cantidad: '0'
+INFO - 2025-06-26 03:31:30 --> 🔧 actualizarStock() - Producto: 14, Talle: 'XS', Stock: 0
+INFO - 2025-06-26 03:31:30 --> 🔍 Registro existente encontrado: null
+INFO - 2025-06-26 03:31:30 --> ➕ Insertando nuevo registro - Resultado: 0
+ERROR - 2025-06-26 03:31:30 --> ❌ No se pudo actualizar talle XS
+INFO - 2025-06-26 03:31:30 --> 📏 Procesando talle: 'S' con cantidad: '9'
+INFO - 2025-06-26 03:31:30 --> 🔧 actualizarStock() - Producto: 14, Talle: 'S', Stock: 9
+INFO - 2025-06-26 03:31:30 --> 🔍 Registro existente encontrado: null
+INFO - 2025-06-26 03:31:30 --> ➕ Insertando nuevo registro - Resultado: 0
+ERROR - 2025-06-26 03:31:30 --> ❌ No se pudo actualizar talle S
+INFO - 2025-06-26 03:31:30 --> 📏 Procesando talle: 'M' con cantidad: '21'
+INFO - 2025-06-26 03:31:30 --> 🔧 actualizarStock() - Producto: 14, Talle: 'M', Stock: 21
+INFO - 2025-06-26 03:31:30 --> 🔍 Registro existente encontrado: null
+INFO - 2025-06-26 03:31:30 --> ➕ Insertando nuevo registro - Resultado: 0
+ERROR - 2025-06-26 03:31:30 --> ❌ No se pudo actualizar talle M
+INFO - 2025-06-26 03:31:30 --> 📏 Procesando talle: 'L' con cantidad: '10'
+INFO - 2025-06-26 03:31:30 --> 🔧 actualizarStock() - Producto: 14, Talle: 'L', Stock: 10
+INFO - 2025-06-26 03:31:30 --> 🔍 Registro existente encontrado: null
+INFO - 2025-06-26 03:31:30 --> ➕ Insertando nuevo registro - Resultado: 0
+ERROR - 2025-06-26 03:31:30 --> ❌ No se pudo actualizar talle L
+INFO - 2025-06-26 03:31:30 --> 📏 Procesando talle: 'XL' con cantidad: '3'
+INFO - 2025-06-26 03:31:30 --> 🔧 actualizarStock() - Producto: 14, Talle: 'XL', Stock: 3
+INFO - 2025-06-26 03:31:30 --> 🔍 Registro existente encontrado: null
+INFO - 2025-06-26 03:31:30 --> ➕ Insertando nuevo registro - Resultado: 0
+ERROR - 2025-06-26 03:31:30 --> ❌ No se pudo actualizar talle XL
+INFO - 2025-06-26 03:31:30 --> 📏 Procesando talle: 'XXL' con cantidad: '0'
+INFO - 2025-06-26 03:31:30 --> 🔧 actualizarStock() - Producto: 14, Talle: 'XXL', Stock: 0
+INFO - 2025-06-26 03:31:30 --> 🔍 Registro existente encontrado: null
+INFO - 2025-06-26 03:31:30 --> ➕ Insertando nuevo registro - Resultado: 0
+ERROR - 2025-06-26 03:31:30 --> ❌ No se pudo actualizar talle XXL
+INFO - 2025-06-26 03:31:30 --> 📊 Actualizaciones exitosas: 0
+INFO - 2025-06-26 03:31:30 --> ❌ Errores individuales: 6
+ERROR - 2025-06-26 03:31:30 --> 💥 Error crítico actualizando stock: No se pudo actualizar ningún talle. Errores: No se pudo actualizar talle XS, No se pudo actualizar talle S, No se pudo actualizar talle M, No se pudo actualizar talle L, No se pudo actualizar talle XL, No se pudo actualizar talle XXL
+ERROR - 2025-06-26 03:31:30 --> Stack trace: #0 C:\xampp\htdocs\MilCamisetas\system\CodeIgniter.php(933): App\Controllers\Admin->actualizar_stock()
+#1 C:\xampp\htdocs\MilCamisetas\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\xampp\htdocs\MilCamisetas\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\MilCamisetas\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\MilCamisetas\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#5 C:\xampp\htdocs\MilCamisetas\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#6 {main}
+DEBUG - 2025-06-26 03:31:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:31:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:32:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 03:32:46 --> 🚀 Iniciando actualización de stock
+INFO - 2025-06-26 03:32:46 --> POST data: {"csrf_test_name":"ce24e9fca9aec9f68deee96d298dadef","producto_id":"14","stock":{"XS":"0","S":"9","M":"21","L":"10","XL":"3","XXL":"0"}}
+INFO - 2025-06-26 03:32:46 --> 📦 Producto ID: 14
+INFO - 2025-06-26 03:32:46 --> 📊 Stocks recibidos: {"XS":"0","S":"9","M":"21","L":"10","XL":"3","XXL":"0"}
+INFO - 2025-06-26 03:32:46 --> 🏷️ Producto: BRASIL 2002 - RONALDO
+INFO - 2025-06-26 03:32:46 --> 📂 Categoría: Selecciones
+INFO - 2025-06-26 03:32:46 --> 🧹 Limpiando talles problemáticos para producto 14
+INFO - 2025-06-26 03:32:46 --> 🧹 Registros problemáticos eliminados: 1
+INFO - 2025-06-26 03:32:46 --> 🧹 Registros problemáticos eliminados: 1
+INFO - 2025-06-26 03:32:46 --> 📏 Procesando talle: 'XS' con cantidad: '0'
+INFO - 2025-06-26 03:32:46 --> 🔧 actualizarStock() - Producto: 14, Talle: 'XS', Stock: 0
+INFO - 2025-06-26 03:32:46 --> 🔍 Registro existente encontrado: null
+INFO - 2025-06-26 03:32:46 --> ➕ Insertando nuevo registro - Resultado: 0
+ERROR - 2025-06-26 03:32:46 --> ❌ No se pudo actualizar talle XS
+INFO - 2025-06-26 03:32:46 --> 📏 Procesando talle: 'S' con cantidad: '9'
+INFO - 2025-06-26 03:32:46 --> 🔧 actualizarStock() - Producto: 14, Talle: 'S', Stock: 9
+INFO - 2025-06-26 03:32:46 --> 🔍 Registro existente encontrado: null
+INFO - 2025-06-26 03:32:46 --> ➕ Insertando nuevo registro - Resultado: 0
+ERROR - 2025-06-26 03:32:46 --> ❌ No se pudo actualizar talle S
+INFO - 2025-06-26 03:32:46 --> 📏 Procesando talle: 'M' con cantidad: '21'
+INFO - 2025-06-26 03:32:46 --> 🔧 actualizarStock() - Producto: 14, Talle: 'M', Stock: 21
+INFO - 2025-06-26 03:32:46 --> 🔍 Registro existente encontrado: null
+INFO - 2025-06-26 03:32:46 --> ➕ Insertando nuevo registro - Resultado: 0
+ERROR - 2025-06-26 03:32:46 --> ❌ No se pudo actualizar talle M
+INFO - 2025-06-26 03:32:46 --> 📏 Procesando talle: 'L' con cantidad: '10'
+INFO - 2025-06-26 03:32:46 --> 🔧 actualizarStock() - Producto: 14, Talle: 'L', Stock: 10
+INFO - 2025-06-26 03:32:46 --> 🔍 Registro existente encontrado: null
+INFO - 2025-06-26 03:32:46 --> ➕ Insertando nuevo registro - Resultado: 0
+ERROR - 2025-06-26 03:32:46 --> ❌ No se pudo actualizar talle L
+INFO - 2025-06-26 03:32:46 --> 📏 Procesando talle: 'XL' con cantidad: '3'
+INFO - 2025-06-26 03:32:46 --> 🔧 actualizarStock() - Producto: 14, Talle: 'XL', Stock: 3
+INFO - 2025-06-26 03:32:46 --> 🔍 Registro existente encontrado: null
+INFO - 2025-06-26 03:32:46 --> ➕ Insertando nuevo registro - Resultado: 0
+ERROR - 2025-06-26 03:32:46 --> ❌ No se pudo actualizar talle XL
+INFO - 2025-06-26 03:32:46 --> 📏 Procesando talle: 'XXL' con cantidad: '0'
+INFO - 2025-06-26 03:32:46 --> 🔧 actualizarStock() - Producto: 14, Talle: 'XXL', Stock: 0
+INFO - 2025-06-26 03:32:46 --> 🔍 Registro existente encontrado: null
+INFO - 2025-06-26 03:32:46 --> ➕ Insertando nuevo registro - Resultado: 0
+ERROR - 2025-06-26 03:32:46 --> ❌ No se pudo actualizar talle XXL
+INFO - 2025-06-26 03:32:46 --> 📊 Actualizaciones exitosas: 0
+INFO - 2025-06-26 03:32:46 --> ❌ Errores individuales: 6
+ERROR - 2025-06-26 03:32:46 --> 💥 Error crítico actualizando stock: No se pudo actualizar ningún talle. Errores: No se pudo actualizar talle XS, No se pudo actualizar talle S, No se pudo actualizar talle M, No se pudo actualizar talle L, No se pudo actualizar talle XL, No se pudo actualizar talle XXL
+ERROR - 2025-06-26 03:32:46 --> Stack trace: #0 C:\xampp\htdocs\MilCamisetas\system\CodeIgniter.php(933): App\Controllers\Admin->actualizar_stock()
+#1 C:\xampp\htdocs\MilCamisetas\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\xampp\htdocs\MilCamisetas\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\MilCamisetas\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\MilCamisetas\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#5 C:\xampp\htdocs\MilCamisetas\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#6 {main}
+DEBUG - 2025-06-26 03:32:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:32:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:34:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 03:35:05 --> 🚀 Iniciando actualización de stock
+INFO - 2025-06-26 03:35:05 --> POST data: {"csrf_test_name":"ce24e9fca9aec9f68deee96d298dadef","producto_id":"14","stock":{"XS":"0","S":"9","M":"21","L":"10","XL":"3","XXL":"0"}}
+INFO - 2025-06-26 03:35:05 --> 📦 Producto ID: 14
+INFO - 2025-06-26 03:35:05 --> 📊 Stocks recibidos: {"XS":"0","S":"9","M":"21","L":"10","XL":"3","XXL":"0"}
+INFO - 2025-06-26 03:35:05 --> 🏷️ Producto: BRASIL 2002 - RONALDO
+INFO - 2025-06-26 03:35:05 --> 📂 Categoría: Selecciones
+INFO - 2025-06-26 03:35:05 --> 🧹 Registros problemáticos eliminados: 1
+INFO - 2025-06-26 03:35:05 --> 📏 Procesando talle: 'XS' con cantidad: '0'
+ERROR - 2025-06-26 03:35:05 --> ❌ No se pudo actualizar talle XS
+INFO - 2025-06-26 03:35:05 --> 📏 Procesando talle: 'S' con cantidad: '9'
+ERROR - 2025-06-26 03:35:05 --> ❌ No se pudo actualizar talle S
+INFO - 2025-06-26 03:35:05 --> 📏 Procesando talle: 'M' con cantidad: '21'
+ERROR - 2025-06-26 03:35:05 --> ❌ No se pudo actualizar talle M
+INFO - 2025-06-26 03:35:05 --> 📏 Procesando talle: 'L' con cantidad: '10'
+ERROR - 2025-06-26 03:35:05 --> ❌ No se pudo actualizar talle L
+INFO - 2025-06-26 03:35:05 --> 📏 Procesando talle: 'XL' con cantidad: '3'
+ERROR - 2025-06-26 03:35:05 --> ❌ No se pudo actualizar talle XL
+INFO - 2025-06-26 03:35:05 --> 📏 Procesando talle: 'XXL' con cantidad: '0'
+ERROR - 2025-06-26 03:35:05 --> ❌ No se pudo actualizar talle XXL
+INFO - 2025-06-26 03:35:05 --> 📊 Actualizaciones exitosas: 0
+INFO - 2025-06-26 03:35:05 --> ❌ Errores individuales: 6
+ERROR - 2025-06-26 03:35:05 --> 💥 Error crítico actualizando stock: No se pudo actualizar ningún talle. Errores: No se pudo actualizar talle XS, No se pudo actualizar talle S, No se pudo actualizar talle M, No se pudo actualizar talle L, No se pudo actualizar talle XL, No se pudo actualizar talle XXL
+ERROR - 2025-06-26 03:35:05 --> Stack trace: #0 C:\xampp\htdocs\MilCamisetas\system\CodeIgniter.php(933): App\Controllers\Admin->actualizar_stock()
+#1 C:\xampp\htdocs\MilCamisetas\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\xampp\htdocs\MilCamisetas\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\MilCamisetas\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\MilCamisetas\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#5 C:\xampp\htdocs\MilCamisetas\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#6 {main}
+DEBUG - 2025-06-26 03:35:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:35:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:36:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:36:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:36:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:36:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:36:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:37:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:37:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 03:37:02 --> Cart Class Initialized
+DEBUG - 2025-06-26 03:37:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 03:37:02 --> Cart Class Initialized
+DEBUG - 2025-06-26 03:37:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 03:37:06 --> Cart Class Initialized
+DEBUG - 2025-06-26 03:37:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 03:37:07 --> Cart Class Initialized
+DEBUG - 2025-06-26 03:37:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:37:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:37:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:37:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 03:37:35 --> 🚀 Iniciando actualización de stock
+INFO - 2025-06-26 03:37:35 --> POST data: {"csrf_test_name":"ce24e9fca9aec9f68deee96d298dadef","producto_id":"14","stock":{"XS":"0","S":"9","M":"21","L":"10","XL":"3","XXL":"0"}}
+INFO - 2025-06-26 03:37:35 --> 📦 Producto ID: 14
+INFO - 2025-06-26 03:37:35 --> 📊 Stocks recibidos: {"XS":"0","S":"9","M":"21","L":"10","XL":"3","XXL":"0"}
+INFO - 2025-06-26 03:37:35 --> 🏷️ Producto: BRASIL 2002 - RONALDO
+INFO - 2025-06-26 03:37:35 --> 📂 Categoría: Selecciones
+INFO - 2025-06-26 03:37:35 --> 🧹 Registros problemáticos eliminados: 1
+INFO - 2025-06-26 03:37:35 --> 📏 Procesando talle: 'XS' con cantidad: '0'
+ERROR - 2025-06-26 03:37:35 --> ❌ No se pudo actualizar talle XS
+INFO - 2025-06-26 03:37:35 --> 📏 Procesando talle: 'S' con cantidad: '9'
+ERROR - 2025-06-26 03:37:35 --> ❌ No se pudo actualizar talle S
+INFO - 2025-06-26 03:37:35 --> 📏 Procesando talle: 'M' con cantidad: '21'
+ERROR - 2025-06-26 03:37:35 --> ❌ No se pudo actualizar talle M
+INFO - 2025-06-26 03:37:35 --> 📏 Procesando talle: 'L' con cantidad: '10'
+ERROR - 2025-06-26 03:37:35 --> ❌ No se pudo actualizar talle L
+INFO - 2025-06-26 03:37:35 --> 📏 Procesando talle: 'XL' con cantidad: '3'
+ERROR - 2025-06-26 03:37:35 --> ❌ No se pudo actualizar talle XL
+INFO - 2025-06-26 03:37:35 --> 📏 Procesando talle: 'XXL' con cantidad: '0'
+ERROR - 2025-06-26 03:37:35 --> ❌ No se pudo actualizar talle XXL
+INFO - 2025-06-26 03:37:35 --> 📊 Actualizaciones exitosas: 0
+INFO - 2025-06-26 03:37:35 --> ❌ Errores individuales: 6
+ERROR - 2025-06-26 03:37:35 --> 💥 Error crítico actualizando stock: No se pudo actualizar ningún talle. Errores: No se pudo actualizar talle XS, No se pudo actualizar talle S, No se pudo actualizar talle M, No se pudo actualizar talle L, No se pudo actualizar talle XL, No se pudo actualizar talle XXL
+ERROR - 2025-06-26 03:37:35 --> Stack trace: #0 C:\xampp\htdocs\MilCamisetas\system\CodeIgniter.php(933): App\Controllers\Admin->actualizar_stock()
+#1 C:\xampp\htdocs\MilCamisetas\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#2 C:\xampp\htdocs\MilCamisetas\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\MilCamisetas\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\MilCamisetas\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#5 C:\xampp\htdocs\MilCamisetas\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#6 {main}
+DEBUG - 2025-06-26 03:37:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:37:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:43:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:43:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:43:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:43:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:43:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:43:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:43:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:43:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:43:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:43:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:46:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 03:46:00 --> Cart Class Initialized
+DEBUG - 2025-06-26 03:46:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 03:46:00 --> Cart Class Initialized
+DEBUG - 2025-06-26 03:46:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 03:46:01 --> Cart Class Initialized
+DEBUG - 2025-06-26 03:46:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 03:46:02 --> Cart Class Initialized
+DEBUG - 2025-06-26 03:46:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:46:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:46:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:46:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:46:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:46:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:56:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 03:56:38 --> 🚀 === INICIANDO ACTUALIZACIÓN DE STOCK ===
+INFO - 2025-06-26 03:56:38 --> POST completo: {"csrf_test_name":"ce24e9fca9aec9f68deee96d298dadef","producto_id":"25","stock":{"8":"10","10":"7","12":"8","14":"6"}}
+INFO - 2025-06-26 03:56:38 --> 📦 Producto ID: 25
+INFO - 2025-06-26 03:56:38 --> 📊 Array stocks recibido: {"8":"10","10":"7","12":"8","14":"6"}
+INFO - 2025-06-26 03:56:38 --> 
+INFO - 2025-06-26 03:56:38 --> 🔄 === PROCESANDO TALLE: '8' ===
+INFO - 2025-06-26 03:56:38 --> 📏 Talle: '8' | Cantidad: '10'
+INFO - 2025-06-26 03:56:38 --> 🎯 actualizarStockIndividual - Producto: 25, Talle: '8', Stock: 10
+INFO - 2025-06-26 03:56:38 --> 🔄 Actualizando registro ID 0 - Filas afectadas: 19
+INFO - 2025-06-26 03:56:38 --> ✅ ÉXITO - Talle '8' actualizado a 10
+INFO - 2025-06-26 03:56:38 --> 🔍 Verificación: {"id":"0","producto_id":"25","talle":"14","stock":"10"}
+INFO - 2025-06-26 03:56:38 --> 🔄 === FIN TALLE: '8' ===
+INFO - 2025-06-26 03:56:38 --> 
+INFO - 2025-06-26 03:56:38 --> 🔄 === PROCESANDO TALLE: '10' ===
+INFO - 2025-06-26 03:56:38 --> 📏 Talle: '10' | Cantidad: '7'
+INFO - 2025-06-26 03:56:38 --> 🎯 actualizarStockIndividual - Producto: 25, Talle: '10', Stock: 7
+INFO - 2025-06-26 03:56:38 --> ➕ Nuevo registro insertado - ID: 0
+INFO - 2025-06-26 03:56:38 --> ✅ ÉXITO - Talle '10' actualizado a 7
+INFO - 2025-06-26 03:56:38 --> 🔍 Verificación: null
+INFO - 2025-06-26 03:56:38 --> 🔄 === FIN TALLE: '10' ===
+INFO - 2025-06-26 03:56:38 --> 
+INFO - 2025-06-26 03:56:38 --> 🔄 === PROCESANDO TALLE: '12' ===
+INFO - 2025-06-26 03:56:38 --> 📏 Talle: '12' | Cantidad: '8'
+INFO - 2025-06-26 03:56:38 --> 🎯 actualizarStockIndividual - Producto: 25, Talle: '12', Stock: 8
+INFO - 2025-06-26 03:56:38 --> ➕ Nuevo registro insertado - ID: 0
+INFO - 2025-06-26 03:56:38 --> ✅ ÉXITO - Talle '12' actualizado a 8
+INFO - 2025-06-26 03:56:38 --> 🔍 Verificación: null
+INFO - 2025-06-26 03:56:38 --> 🔄 === FIN TALLE: '12' ===
+INFO - 2025-06-26 03:56:38 --> 
+INFO - 2025-06-26 03:56:38 --> 🔄 === PROCESANDO TALLE: '14' ===
+INFO - 2025-06-26 03:56:38 --> 📏 Talle: '14' | Cantidad: '6'
+INFO - 2025-06-26 03:56:38 --> 🎯 actualizarStockIndividual - Producto: 25, Talle: '14', Stock: 6
+INFO - 2025-06-26 03:56:38 --> ➕ Nuevo registro insertado - ID: 0
+INFO - 2025-06-26 03:56:38 --> ✅ ÉXITO - Talle '14' actualizado a 6
+INFO - 2025-06-26 03:56:38 --> 🔍 Verificación: null
+INFO - 2025-06-26 03:56:38 --> 🔄 === FIN TALLE: '14' ===
+INFO - 2025-06-26 03:56:38 --> 📊 RESUMEN: 4 exitosas, 0 errores
+INFO - 2025-06-26 03:56:38 --> 📊 Stock total calculado para producto 25: 40
+INFO - 2025-06-26 03:56:38 --> 📈 Nuevo stock total: 40
+INFO - 2025-06-26 03:56:38 --> 📋 Estado final: [{"id":"0","producto_id":"25","talle":"8","stock":"10"},{"id":"0","producto_id":"25","talle":"10","stock":"10"},{"id":"0","producto_id":"25","talle":"12","stock":"10"},{"id":"0","producto_id":"25","talle":"14","stock":"10"}]
+INFO - 2025-06-26 03:56:38 --> 🎉 === ACTUALIZACIÓN COMPLETADA ===
+DEBUG - 2025-06-26 03:56:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:56:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 03:56:46 --> 🚀 === INICIANDO ACTUALIZACIÓN DE STOCK ===
+INFO - 2025-06-26 03:56:46 --> POST completo: {"csrf_test_name":"ce24e9fca9aec9f68deee96d298dadef","producto_id":"14","stock":{"XS":"0","S":"10","M":"21","L":"10","XL":"3","XXL":"0"}}
+INFO - 2025-06-26 03:56:46 --> 📦 Producto ID: 14
+INFO - 2025-06-26 03:56:46 --> 📊 Array stocks recibido: {"XS":"0","S":"10","M":"21","L":"10","XL":"3","XXL":"0"}
+INFO - 2025-06-26 03:56:46 --> 
+INFO - 2025-06-26 03:56:46 --> 🔄 === PROCESANDO TALLE: 'XS' ===
+INFO - 2025-06-26 03:56:46 --> 📏 Talle: 'XS' | Cantidad: '0'
+INFO - 2025-06-26 03:56:46 --> 🎯 actualizarStockIndividual - Producto: 14, Talle: 'XS', Stock: 0
+INFO - 2025-06-26 03:56:46 --> ➕ Nuevo registro insertado - ID: 0
+INFO - 2025-06-26 03:56:46 --> ✅ ÉXITO - Talle 'XS' actualizado a 0
+INFO - 2025-06-26 03:56:46 --> 🔍 Verificación: null
+INFO - 2025-06-26 03:56:46 --> 🔄 === FIN TALLE: 'XS' ===
+INFO - 2025-06-26 03:56:46 --> 
+INFO - 2025-06-26 03:56:46 --> 🔄 === PROCESANDO TALLE: 'S' ===
+INFO - 2025-06-26 03:56:46 --> 📏 Talle: 'S' | Cantidad: '10'
+INFO - 2025-06-26 03:56:46 --> 🎯 actualizarStockIndividual - Producto: 14, Talle: 'S', Stock: 10
+INFO - 2025-06-26 03:56:46 --> 🔄 Actualizando registro ID 58 - Filas afectadas: 1
+INFO - 2025-06-26 03:56:46 --> ✅ ÉXITO - Talle 'S' actualizado a 10
+INFO - 2025-06-26 03:56:46 --> 🔍 Verificación: {"id":"58","producto_id":"14","talle":"S","stock":"10"}
+INFO - 2025-06-26 03:56:46 --> 🔄 === FIN TALLE: 'S' ===
+INFO - 2025-06-26 03:56:46 --> 
+INFO - 2025-06-26 03:56:46 --> 🔄 === PROCESANDO TALLE: 'M' ===
+INFO - 2025-06-26 03:56:46 --> 📏 Talle: 'M' | Cantidad: '21'
+INFO - 2025-06-26 03:56:46 --> 🎯 actualizarStockIndividual - Producto: 14, Talle: 'M', Stock: 21
+INFO - 2025-06-26 03:56:46 --> 🔄 Actualizando registro ID 59 - Filas afectadas: 0
+INFO - 2025-06-26 03:56:46 --> ✅ ÉXITO - Talle 'M' actualizado a 21
+INFO - 2025-06-26 03:56:46 --> 🔍 Verificación: {"id":"59","producto_id":"14","talle":"M","stock":"21"}
+INFO - 2025-06-26 03:56:46 --> 🔄 === FIN TALLE: 'M' ===
+INFO - 2025-06-26 03:56:46 --> 
+INFO - 2025-06-26 03:56:46 --> 🔄 === PROCESANDO TALLE: 'L' ===
+INFO - 2025-06-26 03:56:46 --> 📏 Talle: 'L' | Cantidad: '10'
+INFO - 2025-06-26 03:56:46 --> 🎯 actualizarStockIndividual - Producto: 14, Talle: 'L', Stock: 10
+INFO - 2025-06-26 03:56:46 --> 🔄 Actualizando registro ID 60 - Filas afectadas: 0
+INFO - 2025-06-26 03:56:46 --> ✅ ÉXITO - Talle 'L' actualizado a 10
+INFO - 2025-06-26 03:56:46 --> 🔍 Verificación: {"id":"60","producto_id":"14","talle":"L","stock":"10"}
+INFO - 2025-06-26 03:56:46 --> 🔄 === FIN TALLE: 'L' ===
+INFO - 2025-06-26 03:56:46 --> 
+INFO - 2025-06-26 03:56:46 --> 🔄 === PROCESANDO TALLE: 'XL' ===
+INFO - 2025-06-26 03:56:46 --> 📏 Talle: 'XL' | Cantidad: '3'
+INFO - 2025-06-26 03:56:46 --> 🎯 actualizarStockIndividual - Producto: 14, Talle: 'XL', Stock: 3
+INFO - 2025-06-26 03:56:46 --> 🔄 Actualizando registro ID 61 - Filas afectadas: 0
+INFO - 2025-06-26 03:56:46 --> ✅ ÉXITO - Talle 'XL' actualizado a 3
+INFO - 2025-06-26 03:56:46 --> 🔍 Verificación: {"id":"61","producto_id":"14","talle":"XL","stock":"3"}
+INFO - 2025-06-26 03:56:46 --> 🔄 === FIN TALLE: 'XL' ===
+INFO - 2025-06-26 03:56:46 --> 
+INFO - 2025-06-26 03:56:46 --> 🔄 === PROCESANDO TALLE: 'XXL' ===
+INFO - 2025-06-26 03:56:46 --> 📏 Talle: 'XXL' | Cantidad: '0'
+INFO - 2025-06-26 03:56:46 --> 🎯 actualizarStockIndividual - Producto: 14, Talle: 'XXL', Stock: 0
+INFO - 2025-06-26 03:56:46 --> ➕ Nuevo registro insertado - ID: 0
+INFO - 2025-06-26 03:56:46 --> ✅ ÉXITO - Talle 'XXL' actualizado a 0
+INFO - 2025-06-26 03:56:46 --> 🔍 Verificación: null
+INFO - 2025-06-26 03:56:46 --> 🔄 === FIN TALLE: 'XXL' ===
+INFO - 2025-06-26 03:56:46 --> 📊 RESUMEN: 6 exitosas, 0 errores
+INFO - 2025-06-26 03:56:46 --> 📊 Stock total calculado para producto 14: 44
+INFO - 2025-06-26 03:56:46 --> 📈 Nuevo stock total: 44
+INFO - 2025-06-26 03:56:46 --> 📋 Estado final: [{"id":"58","producto_id":"14","talle":"S","stock":"10"},{"id":"59","producto_id":"14","talle":"M","stock":"21"},{"id":"60","producto_id":"14","talle":"L","stock":"10"},{"id":"61","producto_id":"14","talle":"XL","stock":"3"}]
+INFO - 2025-06-26 03:56:46 --> 🎉 === ACTUALIZACIÓN COMPLETADA ===
+DEBUG - 2025-06-26 03:56:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:56:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 03:56:55 --> 🚀 === INICIANDO ACTUALIZACIÓN DE STOCK ===
+INFO - 2025-06-26 03:56:55 --> POST completo: {"csrf_test_name":"ce24e9fca9aec9f68deee96d298dadef","producto_id":"14","stock":{"XS":"0","S":"11","M":"21","L":"10","XL":"3","XXL":"0"}}
+INFO - 2025-06-26 03:56:55 --> 📦 Producto ID: 14
+INFO - 2025-06-26 03:56:55 --> 📊 Array stocks recibido: {"XS":"0","S":"11","M":"21","L":"10","XL":"3","XXL":"0"}
+INFO - 2025-06-26 03:56:55 --> 
+INFO - 2025-06-26 03:56:55 --> 🔄 === PROCESANDO TALLE: 'XS' ===
+INFO - 2025-06-26 03:56:55 --> 📏 Talle: 'XS' | Cantidad: '0'
+INFO - 2025-06-26 03:56:55 --> 🎯 actualizarStockIndividual - Producto: 14, Talle: 'XS', Stock: 0
+INFO - 2025-06-26 03:56:55 --> ➕ Nuevo registro insertado - ID: 0
+INFO - 2025-06-26 03:56:55 --> ✅ ÉXITO - Talle 'XS' actualizado a 0
+INFO - 2025-06-26 03:56:55 --> 🔍 Verificación: null
+INFO - 2025-06-26 03:56:55 --> 🔄 === FIN TALLE: 'XS' ===
+INFO - 2025-06-26 03:56:55 --> 
+INFO - 2025-06-26 03:56:55 --> 🔄 === PROCESANDO TALLE: 'S' ===
+INFO - 2025-06-26 03:56:55 --> 📏 Talle: 'S' | Cantidad: '11'
+INFO - 2025-06-26 03:56:55 --> 🎯 actualizarStockIndividual - Producto: 14, Talle: 'S', Stock: 11
+INFO - 2025-06-26 03:56:55 --> 🔄 Actualizando registro ID 58 - Filas afectadas: 1
+INFO - 2025-06-26 03:56:55 --> ✅ ÉXITO - Talle 'S' actualizado a 11
+INFO - 2025-06-26 03:56:55 --> 🔍 Verificación: {"id":"58","producto_id":"14","talle":"S","stock":"11"}
+INFO - 2025-06-26 03:56:55 --> 🔄 === FIN TALLE: 'S' ===
+INFO - 2025-06-26 03:56:55 --> 
+INFO - 2025-06-26 03:56:55 --> 🔄 === PROCESANDO TALLE: 'M' ===
+INFO - 2025-06-26 03:56:55 --> 📏 Talle: 'M' | Cantidad: '21'
+INFO - 2025-06-26 03:56:55 --> 🎯 actualizarStockIndividual - Producto: 14, Talle: 'M', Stock: 21
+INFO - 2025-06-26 03:56:55 --> 🔄 Actualizando registro ID 59 - Filas afectadas: 0
+INFO - 2025-06-26 03:56:55 --> ✅ ÉXITO - Talle 'M' actualizado a 21
+INFO - 2025-06-26 03:56:55 --> 🔍 Verificación: {"id":"59","producto_id":"14","talle":"M","stock":"21"}
+INFO - 2025-06-26 03:56:55 --> 🔄 === FIN TALLE: 'M' ===
+INFO - 2025-06-26 03:56:55 --> 
+INFO - 2025-06-26 03:56:55 --> 🔄 === PROCESANDO TALLE: 'L' ===
+INFO - 2025-06-26 03:56:55 --> 📏 Talle: 'L' | Cantidad: '10'
+INFO - 2025-06-26 03:56:55 --> 🎯 actualizarStockIndividual - Producto: 14, Talle: 'L', Stock: 10
+INFO - 2025-06-26 03:56:55 --> 🔄 Actualizando registro ID 60 - Filas afectadas: 0
+INFO - 2025-06-26 03:56:55 --> ✅ ÉXITO - Talle 'L' actualizado a 10
+INFO - 2025-06-26 03:56:55 --> 🔍 Verificación: {"id":"60","producto_id":"14","talle":"L","stock":"10"}
+INFO - 2025-06-26 03:56:55 --> 🔄 === FIN TALLE: 'L' ===
+INFO - 2025-06-26 03:56:55 --> 
+INFO - 2025-06-26 03:56:55 --> 🔄 === PROCESANDO TALLE: 'XL' ===
+INFO - 2025-06-26 03:56:55 --> 📏 Talle: 'XL' | Cantidad: '3'
+INFO - 2025-06-26 03:56:55 --> 🎯 actualizarStockIndividual - Producto: 14, Talle: 'XL', Stock: 3
+INFO - 2025-06-26 03:56:55 --> 🔄 Actualizando registro ID 61 - Filas afectadas: 0
+INFO - 2025-06-26 03:56:55 --> ✅ ÉXITO - Talle 'XL' actualizado a 3
+INFO - 2025-06-26 03:56:55 --> 🔍 Verificación: {"id":"61","producto_id":"14","talle":"XL","stock":"3"}
+INFO - 2025-06-26 03:56:55 --> 🔄 === FIN TALLE: 'XL' ===
+INFO - 2025-06-26 03:56:55 --> 
+INFO - 2025-06-26 03:56:55 --> 🔄 === PROCESANDO TALLE: 'XXL' ===
+INFO - 2025-06-26 03:56:55 --> 📏 Talle: 'XXL' | Cantidad: '0'
+INFO - 2025-06-26 03:56:55 --> 🎯 actualizarStockIndividual - Producto: 14, Talle: 'XXL', Stock: 0
+INFO - 2025-06-26 03:56:55 --> ➕ Nuevo registro insertado - ID: 0
+INFO - 2025-06-26 03:56:55 --> ✅ ÉXITO - Talle 'XXL' actualizado a 0
+INFO - 2025-06-26 03:56:55 --> 🔍 Verificación: null
+INFO - 2025-06-26 03:56:55 --> 🔄 === FIN TALLE: 'XXL' ===
+INFO - 2025-06-26 03:56:55 --> 📊 RESUMEN: 6 exitosas, 0 errores
+INFO - 2025-06-26 03:56:55 --> 📊 Stock total calculado para producto 14: 45
+INFO - 2025-06-26 03:56:55 --> 📈 Nuevo stock total: 45
+INFO - 2025-06-26 03:56:55 --> 📋 Estado final: [{"id":"58","producto_id":"14","talle":"S","stock":"11"},{"id":"59","producto_id":"14","talle":"M","stock":"21"},{"id":"60","producto_id":"14","talle":"L","stock":"10"},{"id":"61","producto_id":"14","talle":"XL","stock":"3"}]
+INFO - 2025-06-26 03:56:55 --> 🎉 === ACTUALIZACIÓN COMPLETADA ===
+DEBUG - 2025-06-26 03:56:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 03:56:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:03:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:03:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 04:03:16 --> 🚀 === ACTUALIZAR STOCK ULTRA DEBUG ===
+INFO - 2025-06-26 04:03:16 --> REQUEST METHOD: POST
+INFO - 2025-06-26 04:03:16 --> POST RAW: {"csrf_test_name":"ce24e9fca9aec9f68deee96d298dadef","producto_id":"25","stock":{"8":"15","10":"12","12":"13","14":"11"}}
+INFO - 2025-06-26 04:03:16 --> REQUEST POST: {"csrf_test_name":"ce24e9fca9aec9f68deee96d298dadef","producto_id":"25","stock":{"8":"15","10":"12","12":"13","14":"11"}}
+INFO - 2025-06-26 04:03:16 --> 📦 Producto ID recibido: 25
+INFO - 2025-06-26 04:03:16 --> 📊 Stocks recibidos: {"8":"15","10":"12","12":"13","14":"11"}
+INFO - 2025-06-26 04:03:16 --> 
+INFO - 2025-06-26 04:03:16 --> 🔄 === PROCESANDO TALLE ===
+INFO - 2025-06-26 04:03:16 --> 📏 Talle: '8' (tipo: integer)
+INFO - 2025-06-26 04:03:16 --> 📊 Cantidad: '15' (tipo: string)
+INFO - 2025-06-26 04:03:16 --> 🔍 Buscando registro existente...
+INFO - 2025-06-26 04:03:16 --> ✏️ Actualizando registro existente ID: 0
+INFO - 2025-06-26 04:03:16 --> ✏️ Filas afectadas: 26
+INFO - 2025-06-26 04:03:16 --> 🔍 Verificación inmediata: {"id":"0","producto_id":"25","talle":"14","stock":"15"}
+INFO - 2025-06-26 04:03:16 --> 
+INFO - 2025-06-26 04:03:16 --> 🔄 === PROCESANDO TALLE ===
+INFO - 2025-06-26 04:03:16 --> 📏 Talle: '10' (tipo: integer)
+INFO - 2025-06-26 04:03:16 --> 📊 Cantidad: '12' (tipo: string)
+INFO - 2025-06-26 04:03:16 --> 🔍 Buscando registro existente...
+INFO - 2025-06-26 04:03:16 --> ➕ Insertando nuevo registro
+INFO - 2025-06-26 04:03:16 --> ➕ Nuevo ID insertado: 0
+INFO - 2025-06-26 04:03:16 --> 🔍 Verificación inmediata: null
+INFO - 2025-06-26 04:03:16 --> 
+INFO - 2025-06-26 04:03:16 --> 🔄 === PROCESANDO TALLE ===
+INFO - 2025-06-26 04:03:16 --> 📏 Talle: '12' (tipo: integer)
+INFO - 2025-06-26 04:03:16 --> 📊 Cantidad: '13' (tipo: string)
+INFO - 2025-06-26 04:03:16 --> 🔍 Buscando registro existente...
+INFO - 2025-06-26 04:03:16 --> ➕ Insertando nuevo registro
+INFO - 2025-06-26 04:03:16 --> ➕ Nuevo ID insertado: 0
+INFO - 2025-06-26 04:03:16 --> 🔍 Verificación inmediata: null
+INFO - 2025-06-26 04:03:16 --> 
+INFO - 2025-06-26 04:03:16 --> 🔄 === PROCESANDO TALLE ===
+INFO - 2025-06-26 04:03:16 --> 📏 Talle: '14' (tipo: integer)
+INFO - 2025-06-26 04:03:16 --> 📊 Cantidad: '11' (tipo: string)
+INFO - 2025-06-26 04:03:16 --> 🔍 Buscando registro existente...
+INFO - 2025-06-26 04:03:16 --> ➕ Insertando nuevo registro
+INFO - 2025-06-26 04:03:16 --> ➕ Nuevo ID insertado: 0
+INFO - 2025-06-26 04:03:16 --> 🔍 Verificación inmediata: null
+INFO - 2025-06-26 04:03:16 --> 📊 Total actualizaciones exitosas: 4
+INFO - 2025-06-26 04:03:16 --> 📈 Stock total calculado: 60
+INFO - 2025-06-26 04:03:16 --> 📋 Estado final: [{"id":"0","producto_id":"25","talle":"","stock":"11"},{"id":"0","producto_id":"25","talle":"","stock":"13"},{"id":"0","producto_id":"25","talle":"","stock":"12"},{"id":"0","producto_id":"25","talle":"","stock":"15"},{"id":"0","producto_id":"25","talle":"","stock":"15"},{"id":"0","producto_id":"25","talle":"","stock":"15"},{"id":"0","producto_id":"25","talle":"","stock":"15"},{"id":"0","producto_id":"25","talle":"","stock":"15"},{"id":"0","producto_id":"25","talle":"","stock":"15"},{"id":"0","producto_id":"25","talle":"","stock":"15"},{"id":"0","producto_id":"25","talle":"","stock":"15"},{"id":"0","producto_id":"25","talle":"","stock":"15"},{"id":"0","producto_id":"25","talle":"","stock":"15"},{"id":"0","producto_id":"25","talle":"","stock":"15"},{"id":"0","producto_id":"25","talle":"","stock":"15"},{"id":"0","producto_id":"25","talle":"8","stock":"15"},{"id":"0","producto_id":"25","talle":"10","stock":"15"},{"id":"0","producto_id":"25","talle":"12","stock":"15"},{"id":"0","producto_id":"25","talle":"14","stock":"15"}]
+INFO - 2025-06-26 04:03:16 --> 🎉 === ACTUALIZACIÓN COMPLETADA EXITOSAMENTE ===
+DEBUG - 2025-06-26 04:03:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:03:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 04:03:26 --> 🚀 === ACTUALIZAR STOCK ULTRA DEBUG ===
+INFO - 2025-06-26 04:03:26 --> REQUEST METHOD: POST
+INFO - 2025-06-26 04:03:26 --> POST RAW: {"csrf_test_name":"ce24e9fca9aec9f68deee96d298dadef","producto_id":"14","stock":{"XS":"0","S":"12","M":"21","L":"10","XL":"3","XXL":"0"}}
+INFO - 2025-06-26 04:03:26 --> REQUEST POST: {"csrf_test_name":"ce24e9fca9aec9f68deee96d298dadef","producto_id":"14","stock":{"XS":"0","S":"12","M":"21","L":"10","XL":"3","XXL":"0"}}
+INFO - 2025-06-26 04:03:26 --> 📦 Producto ID recibido: 14
+INFO - 2025-06-26 04:03:26 --> 📊 Stocks recibidos: {"XS":"0","S":"12","M":"21","L":"10","XL":"3","XXL":"0"}
+INFO - 2025-06-26 04:03:26 --> 
+INFO - 2025-06-26 04:03:26 --> 🔄 === PROCESANDO TALLE ===
+INFO - 2025-06-26 04:03:26 --> 📏 Talle: 'XS' (tipo: string)
+INFO - 2025-06-26 04:03:26 --> 📊 Cantidad: '0' (tipo: string)
+INFO - 2025-06-26 04:03:26 --> 🔍 Buscando registro existente...
+INFO - 2025-06-26 04:03:26 --> ➕ Insertando nuevo registro
+INFO - 2025-06-26 04:03:26 --> ➕ Nuevo ID insertado: 0
+INFO - 2025-06-26 04:03:26 --> 🔍 Verificación inmediata: null
+INFO - 2025-06-26 04:03:26 --> 
+INFO - 2025-06-26 04:03:26 --> 🔄 === PROCESANDO TALLE ===
+INFO - 2025-06-26 04:03:26 --> 📏 Talle: 'S' (tipo: string)
+INFO - 2025-06-26 04:03:26 --> 📊 Cantidad: '12' (tipo: string)
+INFO - 2025-06-26 04:03:26 --> 🔍 Buscando registro existente...
+INFO - 2025-06-26 04:03:26 --> ✏️ Actualizando registro existente ID: 58
+INFO - 2025-06-26 04:03:26 --> ✏️ Filas afectadas: 1
+INFO - 2025-06-26 04:03:26 --> 🔍 Verificación inmediata: {"id":"58","producto_id":"14","talle":"S","stock":"12"}
+INFO - 2025-06-26 04:03:26 --> 
+INFO - 2025-06-26 04:03:26 --> 🔄 === PROCESANDO TALLE ===
+INFO - 2025-06-26 04:03:26 --> 📏 Talle: 'M' (tipo: string)
+INFO - 2025-06-26 04:03:26 --> 📊 Cantidad: '21' (tipo: string)
+INFO - 2025-06-26 04:03:26 --> 🔍 Buscando registro existente...
+INFO - 2025-06-26 04:03:26 --> ✏️ Actualizando registro existente ID: 59
+INFO - 2025-06-26 04:03:26 --> ✏️ Filas afectadas: 0
+INFO - 2025-06-26 04:03:26 --> 🔍 Verificación inmediata: {"id":"59","producto_id":"14","talle":"M","stock":"21"}
+INFO - 2025-06-26 04:03:26 --> 
+INFO - 2025-06-26 04:03:26 --> 🔄 === PROCESANDO TALLE ===
+INFO - 2025-06-26 04:03:26 --> 📏 Talle: 'L' (tipo: string)
+INFO - 2025-06-26 04:03:26 --> 📊 Cantidad: '10' (tipo: string)
+INFO - 2025-06-26 04:03:26 --> 🔍 Buscando registro existente...
+INFO - 2025-06-26 04:03:26 --> ✏️ Actualizando registro existente ID: 60
+INFO - 2025-06-26 04:03:26 --> ✏️ Filas afectadas: 0
+INFO - 2025-06-26 04:03:26 --> 🔍 Verificación inmediata: {"id":"60","producto_id":"14","talle":"L","stock":"10"}
+INFO - 2025-06-26 04:03:26 --> 
+INFO - 2025-06-26 04:03:26 --> 🔄 === PROCESANDO TALLE ===
+INFO - 2025-06-26 04:03:26 --> 📏 Talle: 'XL' (tipo: string)
+INFO - 2025-06-26 04:03:26 --> 📊 Cantidad: '3' (tipo: string)
+INFO - 2025-06-26 04:03:26 --> 🔍 Buscando registro existente...
+INFO - 2025-06-26 04:03:26 --> ✏️ Actualizando registro existente ID: 61
+INFO - 2025-06-26 04:03:26 --> ✏️ Filas afectadas: 0
+INFO - 2025-06-26 04:03:26 --> 🔍 Verificación inmediata: {"id":"61","producto_id":"14","talle":"XL","stock":"3"}
+INFO - 2025-06-26 04:03:26 --> 
+INFO - 2025-06-26 04:03:26 --> 🔄 === PROCESANDO TALLE ===
+INFO - 2025-06-26 04:03:26 --> 📏 Talle: 'XXL' (tipo: string)
+INFO - 2025-06-26 04:03:26 --> 📊 Cantidad: '0' (tipo: string)
+INFO - 2025-06-26 04:03:26 --> 🔍 Buscando registro existente...
+INFO - 2025-06-26 04:03:26 --> ➕ Insertando nuevo registro
+INFO - 2025-06-26 04:03:26 --> ➕ Nuevo ID insertado: 0
+INFO - 2025-06-26 04:03:26 --> 🔍 Verificación inmediata: null
+INFO - 2025-06-26 04:03:26 --> 📊 Total actualizaciones exitosas: 6
+INFO - 2025-06-26 04:03:26 --> 📈 Stock total calculado: 46
+INFO - 2025-06-26 04:03:26 --> 📋 Estado final: [{"id":"0","producto_id":"14","talle":"","stock":"0"},{"id":"0","producto_id":"14","talle":"","stock":"0"},{"id":"0","producto_id":"14","talle":"","stock":"15"},{"id":"0","producto_id":"14","talle":"","stock":"15"},{"id":"0","producto_id":"14","talle":"","stock":"15"},{"id":"0","producto_id":"14","talle":"","stock":"15"},{"id":"0","producto_id":"14","talle":"","stock":"15"},{"id":"0","producto_id":"14","talle":"","stock":"15"},{"id":"58","producto_id":"14","talle":"S","stock":"12"},{"id":"59","producto_id":"14","talle":"M","stock":"21"},{"id":"60","producto_id":"14","talle":"L","stock":"10"},{"id":"61","producto_id":"14","talle":"XL","stock":"3"}]
+INFO - 2025-06-26 04:03:26 --> 🎉 === ACTUALIZACIÓN COMPLETADA EXITOSAMENTE ===
+DEBUG - 2025-06-26 04:03:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:03:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:05:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 04:05:29 --> 🚀 === ACTUALIZAR STOCK ULTRA DEBUG ===
+INFO - 2025-06-26 04:05:29 --> REQUEST METHOD: POST
+INFO - 2025-06-26 04:05:29 --> POST RAW: {"csrf_test_name":"ce24e9fca9aec9f68deee96d298dadef","producto_id":"25","stock":{"8":"15","10":"12","12":"13","14":"11"}}
+INFO - 2025-06-26 04:05:29 --> REQUEST POST: {"csrf_test_name":"ce24e9fca9aec9f68deee96d298dadef","producto_id":"25","stock":{"8":"15","10":"12","12":"13","14":"11"}}
+INFO - 2025-06-26 04:05:29 --> 📦 Producto ID recibido: 25
+INFO - 2025-06-26 04:05:29 --> 📊 Stocks recibidos: {"8":"15","10":"12","12":"13","14":"11"}
+INFO - 2025-06-26 04:05:29 --> 
+INFO - 2025-06-26 04:05:29 --> 🔄 === PROCESANDO TALLE ===
+INFO - 2025-06-26 04:05:29 --> 📏 Talle: '8' (tipo: integer)
+INFO - 2025-06-26 04:05:29 --> 📊 Cantidad: '15' (tipo: string)
+INFO - 2025-06-26 04:05:29 --> 🔍 Buscando registro existente...
+INFO - 2025-06-26 04:05:30 --> ✏️ Actualizando registro existente ID: 0
+INFO - 2025-06-26 04:05:30 --> ✏️ Filas afectadas: 5
+INFO - 2025-06-26 04:05:30 --> 🔍 Verificación inmediata: {"id":"0","producto_id":"25","talle":"14","stock":"15"}
+INFO - 2025-06-26 04:05:30 --> 
+INFO - 2025-06-26 04:05:30 --> 🔄 === PROCESANDO TALLE ===
+INFO - 2025-06-26 04:05:30 --> 📏 Talle: '10' (tipo: integer)
+INFO - 2025-06-26 04:05:30 --> 📊 Cantidad: '12' (tipo: string)
+INFO - 2025-06-26 04:05:30 --> 🔍 Buscando registro existente...
+INFO - 2025-06-26 04:05:30 --> ➕ Insertando nuevo registro
+INFO - 2025-06-26 04:05:30 --> ➕ Nuevo ID insertado: 0
+INFO - 2025-06-26 04:05:30 --> 🔍 Verificación inmediata: null
+INFO - 2025-06-26 04:05:30 --> 
+INFO - 2025-06-26 04:05:30 --> 🔄 === PROCESANDO TALLE ===
+INFO - 2025-06-26 04:05:30 --> 📏 Talle: '12' (tipo: integer)
+INFO - 2025-06-26 04:05:30 --> 📊 Cantidad: '13' (tipo: string)
+INFO - 2025-06-26 04:05:30 --> 🔍 Buscando registro existente...
+INFO - 2025-06-26 04:05:30 --> ➕ Insertando nuevo registro
+INFO - 2025-06-26 04:05:30 --> ➕ Nuevo ID insertado: 0
+INFO - 2025-06-26 04:05:30 --> 🔍 Verificación inmediata: null
+INFO - 2025-06-26 04:05:30 --> 
+INFO - 2025-06-26 04:05:30 --> 🔄 === PROCESANDO TALLE ===
+INFO - 2025-06-26 04:05:30 --> 📏 Talle: '14' (tipo: integer)
+INFO - 2025-06-26 04:05:30 --> 📊 Cantidad: '11' (tipo: string)
+INFO - 2025-06-26 04:05:30 --> 🔍 Buscando registro existente...
+INFO - 2025-06-26 04:05:30 --> ➕ Insertando nuevo registro
+INFO - 2025-06-26 04:05:30 --> ➕ Nuevo ID insertado: 0
+INFO - 2025-06-26 04:05:30 --> 🔍 Verificación inmediata: null
+INFO - 2025-06-26 04:05:30 --> 📊 Total actualizaciones exitosas: 4
+INFO - 2025-06-26 04:05:30 --> 📈 Stock total calculado: 60
+INFO - 2025-06-26 04:05:30 --> 📋 Estado final: [{"id":"0","producto_id":"25","talle":"","stock":"11"},{"id":"0","producto_id":"25","talle":"","stock":"15"},{"id":"0","producto_id":"25","talle":"","stock":"15"},{"id":"0","producto_id":"25","talle":"","stock":"15"},{"id":"0","producto_id":"25","talle":"","stock":"15"},{"id":"0","producto_id":"25","talle":"","stock":"15"},{"id":"0","producto_id":"25","talle":"","stock":"15"},{"id":"0","producto_id":"25","talle":"","stock":"15"},{"id":"0","producto_id":"25","talle":"","stock":"12"},{"id":"0","producto_id":"25","talle":"","stock":"13"},{"id":"0","producto_id":"25","talle":"","stock":"15"},{"id":"0","producto_id":"25","talle":"","stock":"15"},{"id":"0","producto_id":"25","talle":"","stock":"15"},{"id":"0","producto_id":"25","talle":"","stock":"15"},{"id":"0","producto_id":"25","talle":"","stock":"15"},{"id":"0","producto_id":"25","talle":"","stock":"15"},{"id":"0","producto_id":"25","talle":"","stock":"15"},{"id":"0","producto_id":"25","talle":"","stock":"15"},{"id":"0","producto_id":"25","talle":"8","stock":"15"},{"id":"0","producto_id":"25","talle":"10","stock":"15"},{"id":"0","producto_id":"25","talle":"12","stock":"15"},{"id":"0","producto_id":"25","talle":"14","stock":"15"}]
+INFO - 2025-06-26 04:05:30 --> 🎉 === ACTUALIZACIÓN COMPLETADA EXITOSAMENTE ===
+DEBUG - 2025-06-26 04:05:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:05:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 04:05:38 --> 🚀 === ACTUALIZAR STOCK ULTRA DEBUG ===
+INFO - 2025-06-26 04:05:38 --> REQUEST METHOD: POST
+INFO - 2025-06-26 04:05:38 --> POST RAW: {"csrf_test_name":"ce24e9fca9aec9f68deee96d298dadef","producto_id":"14","stock":{"XS":"0","S":"13","M":"21","L":"10","XL":"3","XXL":"0"}}
+INFO - 2025-06-26 04:05:38 --> REQUEST POST: {"csrf_test_name":"ce24e9fca9aec9f68deee96d298dadef","producto_id":"14","stock":{"XS":"0","S":"13","M":"21","L":"10","XL":"3","XXL":"0"}}
+INFO - 2025-06-26 04:05:38 --> 📦 Producto ID recibido: 14
+INFO - 2025-06-26 04:05:38 --> 📊 Stocks recibidos: {"XS":"0","S":"13","M":"21","L":"10","XL":"3","XXL":"0"}
+INFO - 2025-06-26 04:05:38 --> 
+INFO - 2025-06-26 04:05:38 --> 🔄 === PROCESANDO TALLE ===
+INFO - 2025-06-26 04:05:38 --> 📏 Talle: 'XS' (tipo: string)
+INFO - 2025-06-26 04:05:38 --> 📊 Cantidad: '0' (tipo: string)
+INFO - 2025-06-26 04:05:38 --> 🔍 Buscando registro existente...
+INFO - 2025-06-26 04:05:38 --> ➕ Insertando nuevo registro
+INFO - 2025-06-26 04:05:38 --> ➕ Nuevo ID insertado: 0
+INFO - 2025-06-26 04:05:38 --> 🔍 Verificación inmediata: null
+INFO - 2025-06-26 04:05:38 --> 
+INFO - 2025-06-26 04:05:38 --> 🔄 === PROCESANDO TALLE ===
+INFO - 2025-06-26 04:05:38 --> 📏 Talle: 'S' (tipo: string)
+INFO - 2025-06-26 04:05:38 --> 📊 Cantidad: '13' (tipo: string)
+INFO - 2025-06-26 04:05:38 --> 🔍 Buscando registro existente...
+INFO - 2025-06-26 04:05:38 --> ✏️ Actualizando registro existente ID: 58
+INFO - 2025-06-26 04:05:38 --> ✏️ Filas afectadas: 1
+INFO - 2025-06-26 04:05:38 --> 🔍 Verificación inmediata: {"id":"58","producto_id":"14","talle":"S","stock":"13"}
+INFO - 2025-06-26 04:05:38 --> 
+INFO - 2025-06-26 04:05:38 --> 🔄 === PROCESANDO TALLE ===
+INFO - 2025-06-26 04:05:38 --> 📏 Talle: 'M' (tipo: string)
+INFO - 2025-06-26 04:05:38 --> 📊 Cantidad: '21' (tipo: string)
+INFO - 2025-06-26 04:05:38 --> 🔍 Buscando registro existente...
+INFO - 2025-06-26 04:05:38 --> ✏️ Actualizando registro existente ID: 59
+INFO - 2025-06-26 04:05:38 --> ✏️ Filas afectadas: 0
+INFO - 2025-06-26 04:05:38 --> 🔍 Verificación inmediata: {"id":"59","producto_id":"14","talle":"M","stock":"21"}
+INFO - 2025-06-26 04:05:38 --> 
+INFO - 2025-06-26 04:05:38 --> 🔄 === PROCESANDO TALLE ===
+INFO - 2025-06-26 04:05:38 --> 📏 Talle: 'L' (tipo: string)
+INFO - 2025-06-26 04:05:38 --> 📊 Cantidad: '10' (tipo: string)
+INFO - 2025-06-26 04:05:38 --> 🔍 Buscando registro existente...
+INFO - 2025-06-26 04:05:38 --> ✏️ Actualizando registro existente ID: 60
+INFO - 2025-06-26 04:05:38 --> ✏️ Filas afectadas: 0
+INFO - 2025-06-26 04:05:38 --> 🔍 Verificación inmediata: {"id":"60","producto_id":"14","talle":"L","stock":"10"}
+INFO - 2025-06-26 04:05:38 --> 
+INFO - 2025-06-26 04:05:38 --> 🔄 === PROCESANDO TALLE ===
+INFO - 2025-06-26 04:05:38 --> 📏 Talle: 'XL' (tipo: string)
+INFO - 2025-06-26 04:05:38 --> 📊 Cantidad: '3' (tipo: string)
+INFO - 2025-06-26 04:05:38 --> 🔍 Buscando registro existente...
+INFO - 2025-06-26 04:05:38 --> ✏️ Actualizando registro existente ID: 61
+INFO - 2025-06-26 04:05:38 --> ✏️ Filas afectadas: 0
+INFO - 2025-06-26 04:05:38 --> 🔍 Verificación inmediata: {"id":"61","producto_id":"14","talle":"XL","stock":"3"}
+INFO - 2025-06-26 04:05:38 --> 
+INFO - 2025-06-26 04:05:38 --> 🔄 === PROCESANDO TALLE ===
+INFO - 2025-06-26 04:05:38 --> 📏 Talle: 'XXL' (tipo: string)
+INFO - 2025-06-26 04:05:38 --> 📊 Cantidad: '0' (tipo: string)
+INFO - 2025-06-26 04:05:38 --> 🔍 Buscando registro existente...
+INFO - 2025-06-26 04:05:38 --> ➕ Insertando nuevo registro
+INFO - 2025-06-26 04:05:38 --> ➕ Nuevo ID insertado: 0
+INFO - 2025-06-26 04:05:38 --> 🔍 Verificación inmediata: null
+INFO - 2025-06-26 04:05:38 --> 📊 Total actualizaciones exitosas: 6
+INFO - 2025-06-26 04:05:38 --> 📈 Stock total calculado: 47
+INFO - 2025-06-26 04:05:38 --> 📋 Estado final: [{"id":"0","producto_id":"14","talle":"","stock":"0"},{"id":"0","producto_id":"14","talle":"","stock":"0"},{"id":"0","producto_id":"14","talle":"","stock":"15"},{"id":"0","producto_id":"14","talle":"","stock":"15"},{"id":"0","producto_id":"14","talle":"","stock":"15"},{"id":"0","producto_id":"14","talle":"","stock":"15"},{"id":"0","producto_id":"14","talle":"","stock":"15"},{"id":"0","producto_id":"14","talle":"","stock":"15"},{"id":"0","producto_id":"14","talle":"","stock":"15"},{"id":"0","producto_id":"14","talle":"","stock":"15"},{"id":"58","producto_id":"14","talle":"S","stock":"13"},{"id":"59","producto_id":"14","talle":"M","stock":"21"},{"id":"60","producto_id":"14","talle":"L","stock":"10"},{"id":"61","producto_id":"14","talle":"XL","stock":"3"}]
+INFO - 2025-06-26 04:05:38 --> 🎉 === ACTUALIZACIÓN COMPLETADA EXITOSAMENTE ===
+DEBUG - 2025-06-26 04:05:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:05:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:15:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:15:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:15:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:16:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:16:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:16:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:16:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:16:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:16:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:16:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:16:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:17:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:17:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:17:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:17:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:17:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:17:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:17:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:17:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:20:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:20:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:20:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 04:20:48 --> Cart Class Initialized
+DEBUG - 2025-06-26 04:20:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 04:20:49 --> Cart Class Initialized
+DEBUG - 2025-06-26 04:31:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 04:31:44 --> Cart Class Initialized
+DEBUG - 2025-06-26 04:32:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 04:32:30 --> Cart Class Initialized
+INFO - 2025-06-26 04:32:30 --> ➖ restarStock - Producto: 2, Talle: 'S', Cantidad: 1
+INFO - 2025-06-26 04:32:30 --> 📊 Stock total calculado para producto 2: 14
+DEBUG - 2025-06-26 04:32:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 04:32:30 --> Cart Class Initialized
+CRITICAL - 2025-06-26 04:32:30 --> ErrorException: Undefined variable $total
+[Method: GET, Route: carrito]
+in APPPATH\Views\carrito.php on line 148.
+ 1 APPPATH\Views\carrito.php(148): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $total', 'C:\\xampp\\htdocs\\MilCamisetas\\app\\Views\\carrito.php', 148)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\MilCamisetas\\app\\Views\\carrito.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('carrito', [], true)
+ 5 APPPATH\Controllers\Carrito_controller.php(15): view('carrito')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Carrito_controller->ver_carrito()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Carrito_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-06-26 04:32:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 04:32:36 --> Cart Class Initialized
+CRITICAL - 2025-06-26 04:32:36 --> ErrorException: Undefined variable $total
+[Method: GET, Route: carrito]
+in APPPATH\Views\carrito.php on line 148.
+ 1 APPPATH\Views\carrito.php(148): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $total', 'C:\\xampp\\htdocs\\MilCamisetas\\app\\Views\\carrito.php', 148)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\MilCamisetas\\app\\Views\\carrito.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('carrito', [], true)
+ 5 APPPATH\Controllers\Carrito_controller.php(15): view('carrito')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Carrito_controller->ver_carrito()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Carrito_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-06-26 04:32:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:32:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 04:32:40 --> Cart Class Initialized
+DEBUG - 2025-06-26 04:32:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 04:32:40 --> Cart Class Initialized
+DEBUG - 2025-06-26 04:35:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 04:35:45 --> Cart Class Initialized
+DEBUG - 2025-06-26 04:35:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 04:35:57 --> Cart Class Initialized
+INFO - 2025-06-26 04:35:57 --> ➖ restarStock - Producto: 2, Talle: 'S', Cantidad: 1
+INFO - 2025-06-26 04:35:57 --> 📊 Stock total calculado para producto 2: 13
+DEBUG - 2025-06-26 04:35:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 04:35:57 --> Cart Class Initialized
+CRITICAL - 2025-06-26 04:35:57 --> ErrorException: Undefined variable $total
+[Method: GET, Route: carrito]
+in APPPATH\Views\carrito.php on line 150.
+ 1 APPPATH\Views\carrito.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $total', 'C:\\xampp\\htdocs\\MilCamisetas\\app\\Views\\carrito.php', 150)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\MilCamisetas\\app\\Views\\carrito.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('carrito', [], true)
+ 5 APPPATH\Controllers\Carrito_controller.php(15): view('carrito')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Carrito_controller->ver_carrito()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Carrito_controller))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-06-26 04:37:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 04:37:56 --> Cart Class Initialized
+DEBUG - 2025-06-26 04:37:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 04:37:56 --> Cart Class Initialized
+DEBUG - 2025-06-26 04:38:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 04:38:03 --> Cart Class Initialized
+DEBUG - 2025-06-26 04:38:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:38:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:38:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:38:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:39:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:40:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:40:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:40:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:40:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:40:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:40:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 04:40:13 --> Cart Class Initialized
+DEBUG - 2025-06-26 04:40:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 04:40:13 --> Cart Class Initialized
+DEBUG - 2025-06-26 04:40:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 04:40:26 --> Cart Class Initialized
+INFO - 2025-06-26 04:40:26 --> ➖ restarStock - Producto: 2, Talle: 'XL', Cantidad: 5
+INFO - 2025-06-26 04:40:26 --> 📊 Stock total calculado para producto 2: 8
+DEBUG - 2025-06-26 04:40:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 04:40:26 --> Cart Class Initialized
+DEBUG - 2025-06-26 04:40:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:40:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:40:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:40:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:50:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:51:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:51:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:51:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:51:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:52:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:52:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:52:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:52:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:52:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:52:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:53:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:53:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:53:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:53:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:53:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:53:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:53:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:53:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:53:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:53:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:54:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:54:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:54:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:54:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:54:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:55:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:55:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:55:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:55:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:55:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:55:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:55:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:55:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 04:55:46 --> Cart Class Initialized
+DEBUG - 2025-06-26 04:55:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 04:55:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 04:55:55 --> Cart Class Initialized
+DEBUG - 2025-06-26 05:18:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 05:18:15 --> Cart Class Initialized
+DEBUG - 2025-06-26 05:18:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-26 05:18:25 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "historial_compras.php"
+[Method: GET, Route: usuario/historial_compras]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('historial_compras.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('historial_compras', [], true)
+ 3 APPPATH\Controllers\Usuario.php(389): view('historial_compras')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuario->historial_compras()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-06-26 05:18:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 05:18:28 --> Cart Class Initialized
+DEBUG - 2025-06-26 05:18:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-26 05:18:41 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "historial_compras.php"
+[Method: GET, Route: usuario/historial_compras]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('historial_compras.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('historial_compras', [], true)
+ 3 APPPATH\Controllers\Usuario.php(389): view('historial_compras')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuario->historial_compras()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-06-26 05:22:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 05:22:16 --> Cart Class Initialized
+DEBUG - 2025-06-26 05:22:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:27:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:27:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:27:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:27:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 05:27:40 --> Cart Class Initialized
+DEBUG - 2025-06-26 05:27:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:33:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:33:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:34:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:40:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:40:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:41:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:41:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:41:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:41:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:44:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:44:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:46:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:46:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 05:46:40 --> Cart Class Initialized
+DEBUG - 2025-06-26 05:46:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:47:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:49:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:49:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:49:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:50:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:50:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:50:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:51:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:51:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:51:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:51:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:52:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:52:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:52:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:52:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:52:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:52:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:52:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:52:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 05:52:21 --> Cart Class Initialized
+DEBUG - 2025-06-26 05:52:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:58:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:58:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:58:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:58:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:58:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:58:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:58:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:58:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:58:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 05:58:36 --> Cart Class Initialized
+DEBUG - 2025-06-26 05:58:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:58:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 05:58:40 --> Cart Class Initialized
+DEBUG - 2025-06-26 05:58:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:59:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:59:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:59:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:59:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:59:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:59:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 05:59:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:01:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:01:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:01:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:01:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:01:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:01:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:01:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:01:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:01:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:01:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:01:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:01:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:02:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 06:02:02 --> Cart Class Initialized
+DEBUG - 2025-06-26 06:02:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 06:02:02 --> Cart Class Initialized
+DEBUG - 2025-06-26 06:02:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:02:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 06:02:18 --> Cart Class Initialized
+DEBUG - 2025-06-26 06:02:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:02:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:02:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:03:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:03:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:03:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:03:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:03:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:04:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:04:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:04:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:04:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:04:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:04:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:04:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:04:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:04:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:04:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:04:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:04:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:04:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:04:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:04:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:04:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 06:04:45 --> Cart Class Initialized
+DEBUG - 2025-06-26 06:04:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:04:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:04:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:05:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 06:05:02 --> Cart Class Initialized
+DEBUG - 2025-06-26 06:05:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:05:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:05:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 06:05:08 --> Cart Class Initialized
+DEBUG - 2025-06-26 06:05:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 06:05:08 --> Cart Class Initialized
+DEBUG - 2025-06-26 06:05:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:05:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 06:05:14 --> Cart Class Initialized
+DEBUG - 2025-06-26 06:05:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:05:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:05:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:05:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:05:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 06:05:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:04:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:04:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:04:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:04:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:04:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:04:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:04:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:05:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:05:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:06:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:06:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:06:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:06:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:06:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:06:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:06:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:07:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 12:07:05 --> Cart Class Initialized
+DEBUG - 2025-06-26 12:07:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 12:07:05 --> Cart Class Initialized
+DEBUG - 2025-06-26 12:07:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:07:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:07:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 12:07:22 --> Cart Class Initialized
+DEBUG - 2025-06-26 12:07:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 12:07:22 --> Cart Class Initialized
+DEBUG - 2025-06-26 12:07:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 12:07:30 --> Cart Class Initialized
+DEBUG - 2025-06-26 12:07:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 12:07:31 --> Cart Class Initialized
+DEBUG - 2025-06-26 12:07:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 12:07:53 --> Cart Class Initialized
+DEBUG - 2025-06-26 12:07:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 12:07:53 --> Cart Class Initialized
+DEBUG - 2025-06-26 12:07:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 12:07:59 --> Cart Class Initialized
+DEBUG - 2025-06-26 12:07:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 12:07:59 --> Cart Class Initialized
+DEBUG - 2025-06-26 12:08:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:08:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:08:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 12:08:12 --> Cart Class Initialized
+DEBUG - 2025-06-26 12:08:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 12:08:12 --> Cart Class Initialized
+DEBUG - 2025-06-26 12:08:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 12:08:23 --> Cart Class Initialized
+INFO - 2025-06-26 12:08:23 --> ➖ restarStock - Producto: 14, Talle: 'XL', Cantidad: 3
+INFO - 2025-06-26 12:08:23 --> 📊 Stock total calculado para producto 14: 0
+DEBUG - 2025-06-26 12:08:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 12:08:23 --> Cart Class Initialized
+DEBUG - 2025-06-26 12:08:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:08:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:09:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:09:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:11:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:11:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:11:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:11:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:11:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:11:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:12:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:12:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:12:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:12:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:12:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:12:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:13:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:13:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:13:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:13:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:13:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:13:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 12:13:13 --> Cart Class Initialized
+DEBUG - 2025-06-26 12:13:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 12:13:13 --> Cart Class Initialized
+DEBUG - 2025-06-26 12:14:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:16:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 12:16:44 --> Cart Class Initialized
+DEBUG - 2025-06-26 12:16:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:16:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:21:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:21:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:21:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:21:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:21:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:22:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-06-26 12:40:37 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: admin/gestionar_usuarios]
+in APPPATH\Controllers\Admin.php on line 154.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\MilCamisetas\\app\\Controllers\\Admin.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Admin')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Admin')
+ 4 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\Admin', true)
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-06-26 12:40:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:41:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:43:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:43:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:44:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:44:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:48:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:49:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 12:49:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 13:02:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 13:02:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 13:02:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 13:02:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 13:02:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 13:03:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 13:03:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 13:03:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 13:03:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 13:03:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 13:03:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 13:03:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 13:03:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 13:51:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 13:51:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 13:51:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 13:51:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 13:51:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 13:52:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 13:53:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 13:55:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 13:56:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 13:56:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 13:56:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 13:56:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 13:56:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 13:56:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 13:56:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 13:57:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 13:57:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 13:57:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 13:57:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 13:57:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 13:57:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 13:57:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 13:57:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 13:58:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 13:58:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 13:58:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 13:58:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 13:58:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 13:58:54 --> Cart Class Initialized
+DEBUG - 2025-06-26 13:58:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 13:58:54 --> Cart Class Initialized
+DEBUG - 2025-06-26 13:59:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 13:59:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 13:59:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 13:59:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 13:59:19 --> Cart Class Initialized
+DEBUG - 2025-06-26 13:59:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 13:59:19 --> Cart Class Initialized
+DEBUG - 2025-06-26 13:59:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 13:59:36 --> Cart Class Initialized
+DEBUG - 2025-06-26 13:59:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 13:59:36 --> Cart Class Initialized
+DEBUG - 2025-06-26 13:59:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 13:59:53 --> Cart Class Initialized
+DEBUG - 2025-06-26 13:59:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 13:59:53 --> Cart Class Initialized
+DEBUG - 2025-06-26 14:00:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 14:00:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 14:00:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 14:00:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 14:00:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 14:00:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 14:00:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 14:00:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 14:00:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 14:00:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 14:01:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 14:01:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 14:01:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 14:01:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 14:02:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 14:02:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 14:02:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 14:02:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 14:40:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 14:41:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 14:46:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 14:47:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 14:47:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 14:47:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 14:54:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 14:54:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 14:54:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 14:54:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 14:54:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 14:55:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 14:57:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 14:57:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 14:57:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 14:57:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 14:57:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 14:58:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 14:58:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 14:58:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 14:58:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 14:58:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 14:58:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 14:58:38 --> Cart Class Initialized
+DEBUG - 2025-06-26 14:58:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 14:58:38 --> Cart Class Initialized
+DEBUG - 2025-06-26 15:15:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 15:15:24 --> Cart Class Initialized
+DEBUG - 2025-06-26 15:16:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 15:16:42 --> Cart Class Initialized
+DEBUG - 2025-06-26 15:16:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 15:16:43 --> Cart Class Initialized
+DEBUG - 2025-06-26 15:17:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 15:17:07 --> Cart Class Initialized
+DEBUG - 2025-06-26 15:17:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 15:17:07 --> Cart Class Initialized
+DEBUG - 2025-06-26 15:17:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 15:17:32 --> Cart Class Initialized
+INFO - 2025-06-26 15:17:32 --> ➖ restarStock - Producto: 2, Talle: 'S', Cantidad: 1
+INFO - 2025-06-26 15:17:32 --> 📊 Stock total calculado para producto 2: 7
+DEBUG - 2025-06-26 15:17:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 15:17:32 --> Cart Class Initialized
+DEBUG - 2025-06-26 15:17:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:17:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:17:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 15:17:40 --> Cart Class Initialized
+DEBUG - 2025-06-26 15:17:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 15:17:40 --> Cart Class Initialized
+DEBUG - 2025-06-26 15:17:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 15:17:50 --> Cart Class Initialized
+DEBUG - 2025-06-26 15:17:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 15:17:50 --> Cart Class Initialized
+DEBUG - 2025-06-26 15:23:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 15:23:07 --> Cart Class Initialized
+CRITICAL - 2025-06-26 15:23:07 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "carrito_con_metodos_pago.php"
+[Method: GET, Route: carrito]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('carrito_con_metodos_pago.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('carrito_con_metodos_pago', [], true)
+ 3 APPPATH\Controllers\Carrito_controller.php(15): view('carrito_con_metodos_pago')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Carrito_controller->ver_carrito()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Carrito_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-06-26 15:23:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 15:23:10 --> Cart Class Initialized
+CRITICAL - 2025-06-26 15:23:10 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "carrito_con_metodos_pago.php"
+[Method: GET, Route: carrito]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('carrito_con_metodos_pago.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('carrito_con_metodos_pago', [], true)
+ 3 APPPATH\Controllers\Carrito_controller.php(15): view('carrito_con_metodos_pago')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Carrito_controller->ver_carrito()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Carrito_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-06-26 15:23:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:23:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 15:23:15 --> Cart Class Initialized
+DEBUG - 2025-06-26 15:23:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 15:23:15 --> Cart Class Initialized
+CRITICAL - 2025-06-26 15:23:15 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "carrito_con_metodos_pago.php"
+[Method: GET, Route: carrito]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('carrito_con_metodos_pago.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('carrito_con_metodos_pago', [], true)
+ 3 APPPATH\Controllers\Carrito_controller.php(15): view('carrito_con_metodos_pago')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Carrito_controller->ver_carrito()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Carrito_controller))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-06-26 15:24:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 15:24:05 --> Cart Class Initialized
+DEBUG - 2025-06-26 15:24:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 15:24:06 --> Cart Class Initialized
+DEBUG - 2025-06-26 15:24:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 15:24:17 --> Cart Class Initialized
+INFO - 2025-06-26 15:24:17 --> ➖ restarStock - Producto: 6, Talle: 'L', Cantidad: 3
+INFO - 2025-06-26 15:24:17 --> 📊 Stock total calculado para producto 6: 42
+DEBUG - 2025-06-26 15:24:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 15:24:17 --> Cart Class Initialized
+DEBUG - 2025-06-26 15:24:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:24:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:24:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:24:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 15:24:43 --> Cart Class Initialized
+DEBUG - 2025-06-26 15:24:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 15:24:43 --> Cart Class Initialized
+DEBUG - 2025-06-26 15:24:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 15:24:52 --> Cart Class Initialized
+INFO - 2025-06-26 15:24:52 --> ➖ restarStock - Producto: 6, Talle: 'M', Cantidad: 1
+INFO - 2025-06-26 15:24:52 --> 📊 Stock total calculado para producto 6: 41
+DEBUG - 2025-06-26 15:24:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 15:24:52 --> Cart Class Initialized
+DEBUG - 2025-06-26 15:24:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:25:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:25:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:25:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:25:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:31:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:31:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:32:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:32:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:32:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:32:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:33:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:34:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:34:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:34:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 15:34:06 --> Cart Class Initialized
+DEBUG - 2025-06-26 15:34:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:34:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:34:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:40:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:40:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:40:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 15:40:36 --> Cart Class Initialized
+DEBUG - 2025-06-26 15:40:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 15:40:36 --> Cart Class Initialized
+DEBUG - 2025-06-26 15:41:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 15:41:01 --> Cart Class Initialized
+DEBUG - 2025-06-26 15:41:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 15:41:02 --> Cart Class Initialized
+DEBUG - 2025-06-26 15:41:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:41:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:43:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:43:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:43:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:43:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:44:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:44:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:44:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:44:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:44:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:45:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:45:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:45:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:45:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:45:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:45:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:45:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:46:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 15:46:22 --> Cart Class Initialized
+DEBUG - 2025-06-26 15:46:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 15:46:23 --> Cart Class Initialized
+DEBUG - 2025-06-26 15:46:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:46:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:46:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:46:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:46:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 15:46:45 --> Cart Class Initialized
+DEBUG - 2025-06-26 15:46:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 15:46:45 --> Cart Class Initialized
+DEBUG - 2025-06-26 15:47:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 15:47:35 --> Cart Class Initialized
+INFO - 2025-06-26 15:47:35 --> ➖ restarStock - Producto: 2, Talle: 'M', Cantidad: 2
+INFO - 2025-06-26 15:47:35 --> 📊 Stock total calculado para producto 2: 5
+INFO - 2025-06-26 15:47:35 --> ➖ restarStock - Producto: 3, Talle: 'M', Cantidad: 1
+INFO - 2025-06-26 15:47:35 --> 📊 Stock total calculado para producto 3: 15
+DEBUG - 2025-06-26 15:47:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-26 15:47:35 --> Cart Class Initialized
+DEBUG - 2025-06-26 15:47:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:48:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:48:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:49:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:49:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:49:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:49:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:49:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:49:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:50:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:50:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:50:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:50:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:52:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 15:52:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 18:22:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 18:22:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 18:36:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 18:36:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 18:37:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-06-26 18:37:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

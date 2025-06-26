@@ -11,10 +11,6 @@ body {
     min-height: 100vh;
 }
 
-/* Contenedor principal que debe expandirse */
-main, .content, .main-content {
-    flex: 1; /* Esto hace que el contenido principal ocupe todo el espacio disponible */
-}
 
 footer {
     margin-top: auto; /* Esto empuja el footer hacia abajo */

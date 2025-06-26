@@ -56,30 +56,102 @@ main {
     color: #fff;
 }
 
+.registro-form label{
+    display: block;
+    margin-bottom: 0.3rem;
+    font-weight: bold;
+    color: #fff; 
+}
+
 .registro-form h2 {
     color: #a20030;
     margin-bottom: 1.5rem;
     text-align: center;
 }
 
-.registro-form label {
-    margin-bottom: 0.3rem;
-    font-weight: bold;
+/* Form groups */
+.form-group label{
+    margin-bottom: 1rem;
+    color: aliceblue;
 }
 
 .registro-form input[type="text"],
 .registro-form input[type="email"],
 .registro-form input[type="password"],
 .registro-form input[type="tel"] {
+    width: 100%;
     padding: 0.7rem;
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
     border: none;
     border-radius: 5px;
     font-size: 1rem;
+    transition: all 0.3s ease;
 }
 
 .registro-form input:focus {
     outline: 2px solid #a20030;
+}
+
+/* Estilos para campos con error */
+.registro-form input.error {
+    border: 2px solid #dc3545;
+    background-color: rgba(197, 0, 16, 0.555);
+}
+
+.registro-form input.error:focus {
+    outline: 2px solid #dc3545;
+}
+
+/* Mensajes de error */
+.error-message {
+    color: #ff6b6b;
+    font-size: 0.875rem;
+    margin-bottom: 0.5rem;
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+}
+
+.error-message::before {
+    content: "⚠️";
+    font-size: 0.75rem;
+}
+
+/* Alertas */
+.alert {
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.alert-success {
+    background-color: #d4edda;
+    color: #155724;
+    border: 1px solid #c3e6cb;
+}
+
+.alert-error {
+    background-color: #f8d7da;
+    color: #721c24;
+    border: 1px solid #f5c6cb;
+}
+
+.alert-icon {
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+/* Placeholders */
+.registro-form input::placeholder {
+    color: #999;
+    font-style: italic;
+}
+
+.registro-form input:focus::placeholder {
+    color: #ccc;
 }
 
 .checkbox-group {
@@ -120,8 +192,15 @@ main {
 @media (max-width: 480px) {
     .registro-container {
         padding: 1.2rem;
+        min-width: auto;
     }
     .checkbox-group {
         flex-direction: column;
+    }
+    .form-group {
+        margin-bottom: 0.8rem;
+    }
+    .error-message {
+        font-size: 0.8rem;
     }
 }

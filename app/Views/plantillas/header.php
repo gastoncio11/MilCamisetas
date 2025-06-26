@@ -23,6 +23,7 @@ $nombre_usuario = $session->get('nombre_usuario');
     <link href="<?= base_url('assets/css/terminosdeuso.css') ?>" rel="stylesheet">
      <link href="<?= base_url('assets/css/operaciones.css') ?>" rel="stylesheet">
     <link href="<?= base_url('assets/css/gestionar_productos.css') ?>" rel="stylesheet">
+    <link href="<?= base_url('assets/css/admin-consultas.css') ?>" rel="stylesheet">
      <link href="<?= base_url('assets/css/nosotros.css') ?>" rel="stylesheet">
     <link href="<?= base_url('assets/css/gestionar_usuarios.css') ?>" rel="stylesheet">
     <link href="<?= base_url('assets/css/perfil.css') ?>" rel="stylesheet">
@@ -33,6 +34,7 @@ $nombre_usuario = $session->get('nombre_usuario');
     <link href="<?= base_url('assets/css/producto.css') ?>" rel="stylesheet">
     <link href="<?= base_url('assets/css/gestionar_ventas.css') ?>" rel="stylesheet">
     <link href="<?= base_url('assets/css/gestionar_consulta.css') ?>" rel="stylesheet">
+    
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap" rel="stylesheet">
@@ -71,7 +73,7 @@ $nombre_usuario = $session->get('nombre_usuario');
                 <a href="carrito" class="icon-btn cart-btn" title="Ver Carrito">
                     <img src="assets/img/carrito-icon.png" alt="Carrito" class="btn-icon">
                 </a>
-                <a href="usuario/logout" class="icon-btn logout-btn" title="Cerrar Sesión">
+                <a href="logout" class="icon-btn logout-btn" title="Cerrar Sesión">
                     <img src="assets/img/logout-icon.png" alt="Cerrar Sesión" class="btn-icon">
                 </a>
             
@@ -84,7 +86,7 @@ $nombre_usuario = $session->get('nombre_usuario');
                 <a href="perfil" class="icon-btn profile-btn" title="Ver Perfil">
                     <img src="assets/img/perfil-icon.png" alt="Perfil" class="btn-icon">
                 </a>
-                <a href="usuario/logout" class="icon-btn logout-btn" title="Cerrar Sesión">
+                <a href="logout" class="icon-btn logout-btn" title="Cerrar Sesión">
                     <img src="assets/img/logout-icon.png" alt="Cerrar Sesión" class="btn-icon">
                 </a>
             <?php endif; ?>
@@ -124,14 +126,14 @@ $nombre_usuario = $session->get('nombre_usuario');
                 <div class="mobile-user-info">Hola, <?= esc($nombre_usuario) ?></div>
                 <a href="perfil" class="mobile-profile">Ver Perfil</a>
                 <a href="carrito" class="mobile-cart">Ver Carrito</a>
-                <a href="usuario/logout" class="mobile-logout">Cerrar Sesión</a>
+                <a href="logout" class="mobile-logout">Cerrar Sesión</a>
             
             <?php elseif ($perfil_id == 1): ?>
                 <!-- Usuario ADMINISTRADOR logueado - móvil -->
                 <div class="mobile-user-info">Admin: <?= esc($nombre_usuario) ?></div>
                 <a href="operaciones" class="mobile-admin">Operaciones</a>
                 <a href="perfil" class="mobile-profile">Ver Perfil</a>
-                <a href="usuario/logout" class="mobile-logout">Cerrar Sesión</a>
+                <a href="logout" class="mobile-logout">Cerrar Sesión</a>
             <?php endif; ?>
         </div>
         

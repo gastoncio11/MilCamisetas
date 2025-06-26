@@ -1,29 +1,28 @@
-<main class>
-    <div class="perfil-container">
-        <div class="perfil-header">
-            <h1>Mi Perfil</h1>
-            <p>Gestiona tu información personal</p>
-        </div>
-
-        <!-- Mostrar mensajes -->
-        <?php if (isset($success)): ?>
+<div>
+    <div class="perfil-container" style="margin-top: 40px;">
+    
+        <!-- Mostrar mensajes de éxito -->
+        <?php if (session()->getFlashdata('success')): ?>
             <div class="alert alert-success">
-                <i class="icon-check"></i>
-                <?= $success ?>
+                <i class="icon-check">✓</i>
+                <?= session()->getFlashdata('success') ?>
             </div>
         <?php endif; ?>
 
-        <?php if (isset($error)): ?>
+        <!-- Mostrar mensajes de error -->
+        <?php if (session()->getFlashdata('error')): ?>
             <div class="alert alert-error">
-                <i class="icon-error"></i>
-                <?= $error ?>
+                <i class="icon-error">✗</i>
+                <?= session()->getFlashdata('error') ?>
             </div>
         <?php endif; ?>
 
-        <?php if (isset($validation)): ?>
+        <!-- Mostrar errores de validación individuales -->
+        <?php if (isset($validation) && $validation->getErrors()): ?>
             <div class="alert alert-error">
-                <i class="icon-error"></i>
-                <ul>
+                <i class="icon-error">✗</i>
+                <strong>Por favor corrige los siguientes errores:</strong>
+                <ul class="error-list">
                     <?php foreach ($validation->getErrors() as $error): ?>
                         <li><?= $error ?></li>
                     <?php endforeach; ?>
@@ -59,24 +58,51 @@
                         <div class="form-row">
                             <div class="form-group">
                                 <label for="nombre">Nombre</label>
-                                <input type="text" id="nombre" name="nombre" 
-                                       value="<?= isset($validation) ? set_value('nombre') : esc($usuario['nombre']) ?>" 
+                                <input type="text" 
+                                       id="nombre" 
+                                       name="nombre" 
+                                       placeholder="Ingresa tu nombre"
+                                       value="<?= old('nombre', $usuario['nombre']) ?>" 
+                                       class="<?= (isset($validation) && $validation->hasError('nombre')) ? 'error' : '' ?>"
                                        required>
+                                <?php if (isset($validation) && $validation->hasError('nombre')): ?>
+                                    <div class="field-error">
+                                        <?= $validation->getError('nombre') ?>
+                                    </div>
+                                <?php endif; ?>
                             </div>
                             
                             <div class="form-group">
                                 <label for="apellido">Apellido</label>
-                                <input type="text" id="apellido" name="apellido" 
-                                       value="<?= isset($validation) ? set_value('apellido') : esc($usuario['apellido']) ?>" 
+                                <input type="text" 
+                                       id="apellido" 
+                                       name="apellido" 
+                                       placeholder="Ingresa tu apellido"
+                                       value="<?= old('apellido', $usuario['apellido']) ?>" 
+                                       class="<?= (isset($validation) && $validation->hasError('apellido')) ? 'error' : '' ?>"
                                        required>
+                                <?php if (isset($validation) && $validation->hasError('apellido')): ?>
+                                    <div class="field-error">
+                                        <?= $validation->getError('apellido') ?>
+                                    </div>
+                                <?php endif; ?>
                             </div>
                         </div>
 
                         <div class="form-group">
                             <label for="email">Correo Electrónico</label>
-                            <input type="email" id="email" name="email" 
-                                   value="<?= isset($validation) ? set_value('email') : esc($usuario['email']) ?>" 
+                            <input type="email" 
+                                   id="email" 
+                                   name="email" 
+                                   placeholder="ejemplo@correo.com"
+                                   value="<?= old('email', $usuario['email']) ?>" 
+                                   class="<?= (isset($validation) && $validation->hasError('email')) ? 'error' : '' ?>"
                                    required>
+                            <?php if (isset($validation) && $validation->hasError('email')): ?>
+                                <div class="field-error">
+                                    <?= $validation->getError('email') ?>
+                                </div>
+                            <?php endif; ?>
                         </div>
                     </div>
 
@@ -86,18 +112,45 @@
                         
                         <div class="form-group">
                             <label for="contraseña_actual">Contraseña Actual</label>
-                            <input type="password" id="contraseña_actual" name="contraseña_actual">
+                            <input type="password" 
+                                   id="contraseña_actual" 
+                                   name="contraseña_actual"
+                                   placeholder="Tu contraseña actual"
+                                   class="<?= (isset($validation) && $validation->hasError('contraseña_actual')) ? 'error' : '' ?>">
+                            <?php if (isset($validation) && $validation->hasError('contraseña_actual')): ?>
+                                <div class="field-error">
+                                    <?= $validation->getError('contraseña_actual') ?>
+                                </div>
+                            <?php endif; ?>
                         </div>
 
                         <div class="form-row">
                             <div class="form-group">
                                 <label for="nueva_contraseña">Nueva Contraseña</label>
-                                <input type="password" id="nueva_contraseña" name="nueva_contraseña">
+                                <input type="password" 
+                                       id="nueva_contraseña" 
+                                       name="nueva_contraseña"
+                                       placeholder="Mínimo 6 caracteres"
+                                       class="<?= (isset($validation) && $validation->hasError('nueva_contraseña')) ? 'error' : '' ?>">
+                                <?php if (isset($validation) && $validation->hasError('nueva_contraseña')): ?>
+                                    <div class="field-error">
+                                        <?= $validation->getError('nueva_contraseña') ?>
+                                    </div>
+                                <?php endif; ?>
                             </div>
                             
                             <div class="form-group">
                                 <label for="confirmar_nueva_contraseña">Confirmar Nueva Contraseña</label>
-                                <input type="password" id="confirmar_nueva_contraseña" name="confirmar_nueva_contraseña">
+                                <input type="password" 
+                                       id="confirmar_nueva_contraseña" 
+                                       name="confirmar_nueva_contraseña"
+                                       placeholder="Repite la nueva contraseña"
+                                       class="<?= (isset($validation) && $validation->hasError('confirmar_nueva_contraseña')) ? 'error' : '' ?>">
+                                <?php if (isset($validation) && $validation->hasError('confirmar_nueva_contraseña')): ?>
+                                    <div class="field-error">
+                                        <?= $validation->getError('confirmar_nueva_contraseña') ?>
+                                    </div>
+                                <?php endif; ?>
                             </div>
                         </div>
                     </div>
@@ -110,4 +163,4 @@
             </div>
         </div>
     </div>
-</main>
+                                </div>
